@@ -1,0 +1,10 @@
+book_id: book_001
+genre: urban
+style: noir
+world: default_world
+pov: third
+target_words_per_chapter: 1500
+constraints:
+  - 不要出现真实个人隐私信息
+  - 不要出现极端血腥细节
+output_language: zh
