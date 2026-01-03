@@ -1,0 +1,6568 @@
+- from: 三师兄
+  to: 小师弟
+  type: 上下级
+  status: 稳定
+  confidence: 0.86
+  notes: 师兄训诫师弟，明确同门上下序列
+  first_seen_chunk: 000058
+  evidence:
+  - chunk_id: 000058
+    chapter_title: 第一卷 平庸少年 第071章 四年
+    quote: 中年人回头看了二人一眼，沉声道：“小师弟，你虽然资质绝佳...如何修仙。”
+    span:
+    - 1109
+    - 1152
+- from: 三师兄
+  to: 徐姓女子
+  type: 上下级
+  status: 稳定
+  confidence: 0.86
+  notes: 同门称呼三师兄/师妹，存在师兄妹序列
+  first_seen_chunk: 000058
+  evidence:
+  - chunk_id: 000058
+    chapter_title: 第一卷 平庸少年 第071章 四年
+    quote: “三师兄，这次你可要帮我挑一只灵性多一些的墨晶兽哦”
+    span:
+    - 625
+    - 655
+- from: 三师兄
+  to: 王浩
+  type: 上下级
+  status: 稳定
+  confidence: 0.86
+  notes: 收为药童，存在主从/师兄管辖
+  first_seen_chunk: 000028
+  evidence:
+  - chunk_id: 000028
+    chapter_title: 第一卷 平庸少年 第027章 来访
+    quote: 收王浩为药童的三师兄曾说过
+    span:
+    - 2706
+    - 2720
+- from: 上官云
+  to: 虚眉
+  type: 亲友
+  status: 不确定
+  confidence: 0.4
+  notes: 以“道友”相称并关心其未到
+  first_seen_chunk: '000126'
+  evidence:
+  - chunk_id: '000126'
+    chapter_title: 第二卷 修真血影 第113章
+    quote: 上官云，忽然说道：“辛兄，不知虚眉道友为何没来？”
+    span:
+    - 2254
+    - 2286
+- from: 两名筑基后期的修士
+  to: 持有王林魂魄玉简的修士
+  type: 同盟
+  status: 不确定
+  confidence: 0.55
+  notes: 三人共同持/捏碎玉简行动
+  first_seen_chunk: 000109
+  evidence:
+  - chunk_id: 000109
+    chapter_title: 第二卷 修真血影 第102章 悼劫（一）
+    quote: 在对方三人要捏碎玉简的瞬间
+    span:
+    - 28
+    - 43
+- from: 中年男子
+  to: 李山
+  type: 上下级/其他
+  status: 不确定
+  confidence: 0.66
+  notes: 以“师弟”相称，疑同门师兄弟
+  first_seen_chunk: '000121'
+  evidence:
+  - chunk_id: '000121'
+    chapter_title: 第二卷 修真血影 第108章 故人
+    quote: 有一个中年男子走出，抱拳说道：“李山师弟，…
+    span:
+    - 74
+    - 106
+- from: 中年男子
+  to: 柳姓男子
+  type: 上下级
+  status: 不确定
+  confidence: 0.66
+  notes: 示意后对方改变决定
+  first_seen_chunk: '000043'
+  evidence:
+  - chunk_id: '000043'
+    chapter_title: 第一卷 平庸少年 第042章 蜈毒
+    quote: 中年男子看似随意的轻咳一声，柳姓男子表情一动，点头说道
+    span:
+    - 128
+    - 164
+- from: 中年男子
+  to: 王林
+  type: 敌对
+  status: 结束
+  confidence: 0.84
+  notes: 中年男子先出手攻击王林
+  first_seen_chunk: '000116'
+  evidence:
+  - chunk_id: '000116'
+    chapter_title: 第二卷 修真血影 第105章 极境临世
+    quote: 魔道观望之人...向着王林扔出一道雷符
+    span:
+    - 560
+    - 582
+- from: 二男一女三人
+  to: 王林
+  type: 敌对
+  status: 变化中
+  confidence: 0.88
+  notes: 明确追杀关系
+  first_seen_chunk: '000112'
+  evidence:
+  - chunk_id: '000112'
+    chapter_title: 第二卷 修真血影 第103章 悼劫（二）
+    quote: 在他的身后，二男一女三人，一脸杀气的追寻
+    span:
+    - 199
+    - 224
+- from: 二男一女三人
+  to: 王林
+  type: 敌对
+  status: 稳定
+  confidence: 0.78
+  notes: 明确“追来”，对立追击关系
+  first_seen_chunk: '000114'
+  evidence:
+  - chunk_id: '000114'
+    chapter_title: 第二卷 修真血影 第104章 悼劫（终）
+    quote: 带着身后追来的三人，向着尸阴宗的集结之地奔去
+    span:
+    - 539
+    - 567
+- from: 伙计
+  to: 妹妹
+  type: 家族
+  status: 稳定
+  confidence: 0.92
+  notes: 文本明确为兄妹关系
+  first_seen_chunk: '000112'
+  evidence:
+  - chunk_id: '000112'
+    chapter_title: 第二卷 修真血影 第103章 悼劫（二）
+    quote: 站在王卓身边的那伙计与他妹妹
+    span:
+    - 7
+    - 23
+- from: 几个师兄
+  to: 王林
+  type: 敌对
+  status: 不确定
+  confidence: 0.74
+  notes: 嘲笑行为体现不友好
+  first_seen_chunk: '000020'
+  evidence:
+  - chunk_id: '000020'
+    chapter_title: 第一卷 平庸少年 第019章 逐门
+    quote: 路上被几个师兄看到，纷纷嘲笑一番
+    span:
+    - 88
+    - 107
+- from: 刘姓弟子
+  to: 孙长老
+  type: 其他
+  status: 不确定
+  confidence: 0.42
+  notes: 仅知其转述长老找人，无直接关系
+  first_seen_chunk: '000016'
+  evidence:
+  - chunk_id: '000016'
+    chapter_title: 第一卷 平庸少年 第015章 怀疑
+    quote: 前几天孙长老找你
+    span:
+    - 1186
+    - 1196
+- from: 刘姓弟子
+  to: 王林
+  type: 上下级
+  status: 变化中
+  confidence: 0.74
+  notes: 杂务安排体现其对王林有管束
+  first_seen_chunk: '000016'
+  evidence:
+  - chunk_id: '000016'
+    chapter_title: 第一卷 平庸少年 第015章 怀疑
+    quote: 之前师兄和你开玩笑，让你一天打十缸水
+    span:
+    - 831
+    - 852
+- from: 刘姓弟子
+  to: 王林
+  type: 交易
+  status: 稳定
+  confidence: 0.77
+  notes: 送探亲仙符以换取好感/自保
+  first_seen_chunk: '000016'
+  evidence:
+  - chunk_id: '000016'
+    chapter_title: 第一卷 平庸少年 第015章 怀疑
+    quote: 从怀里拿出一张黄纸，塞给王林
+    span:
+    - 1730
+    - 1747
+- from: 刘师兄
+  to: 女记名弟子
+  type: 利用
+  status: 不确定
+  confidence: 0.74
+  notes: 以“伺候”换免重活
+  first_seen_chunk: '000030'
+  evidence:
+  - chunk_id: '000030'
+    chapter_title: 第一卷 平庸少年 第029章 上门
+    quote: “之前刘师兄就没让人家干重活，只要每天晚上过来伺候一番就行了”
+    span:
+    - 492
+    - 534
+- from: 刘师兄
+  to: 张虎
+  type: 上下级
+  status: 结束
+  confidence: 0.78
+  notes: 刘分派杂务并加码任务
+  first_seen_chunk: '000027'
+  evidence:
+  - chunk_id: '000027'
+    chapter_title: 第一卷 平庸少年 第026章 歹意
+    quote: 你当初安排给我的工作是砍柴...凭什么现在又给我加到1000斤？
+    span:
+    - 594
+    - 635
+- from: 刘师兄
+  to: 张虎
+  type: 敌对
+  status: 结束
+  confidence: 0.9
+  notes: 威胁灭门并动手行凶
+  first_seen_chunk: '000027'
+  evidence:
+  - chunk_id: '000027'
+    chapter_title: 第一卷 平庸少年 第026章 歹意
+    quote: 今日你就给我留下吧！若长老知道这事...都寻人给你灭门
+    span:
+    - 967
+    - 1006
+- from: 刘文举
+  to: 朴南子
+  type: 其他
+  status: 稳定
+  confidence: 0.7
+  notes: 明确提及旧识与辈分差
+  first_seen_chunk: '000055'
+  evidence:
+  - chunk_id: '000055'
+    chapter_title: 第一卷 平庸少年 第063章 强势
+    quote: 朴南子哼了一声，冷言道：“刘文举，500年没见，你这个当初的小辈”
+    span:
+    - 878
+    - 926
+- from: 刘文举
+  to: 老妇人
+  type: 同盟
+  status: 稳定
+  confidence: 0.78
+  notes: 共同支撑护山阵并同阵受挫
+  first_seen_chunk: '000055'
+  evidence:
+  - chunk_id: '000055'
+    chapter_title: 第一卷 平庸少年 第063章 强势
+    quote: 仅剩的两个白玉，纷纷爆裂开，刘文举与老妇人跌落在地
+    span:
+    - 1398
+    - 1432
+- from: 华服青年
+  to: 华服青年的师兄们
+  type: 同盟
+  status: 稳定
+  confidence: 0.86
+  notes: 四人结伙暗行动夺宝
+  first_seen_chunk: 000109
+  evidence:
+  - chunk_id: 000109
+    chapter_title: 第二卷 修真血影 第102章 悼劫（一）
+    quote: 他身后跟着三个师兄...他们四人...准备暗自行动，趁这次机会杀人夺宝
+    span:
+    - 2351
+    - 2402
+- from: 华服青年
+  to: 王林
+  type: 敌对
+  status: 结束
+  confidence: 0.88
+  notes: 抢夺储物袋并动手，后被王林杀
+  first_seen_chunk: 000109
+  evidence:
+  - chunk_id: 000109
+    chapter_title: 第二卷 修真血影 第102章 悼劫（一）
+    quote: 不管你是不是尸阴宗，留下你的储物袋
+    span:
+    - 2066
+    - 2087
+- from: 历海
+  to: 司徒南
+  type: 其他
+  status: 不确定
+  confidence: 0.7
+  notes: 晚辈对前辈的敬畏称呼关系
+  first_seen_chunk: 000059
+  evidence:
+  - chunk_id: 000059
+    chapter_title: 第二卷 修真血影 第072章 夺基大法
+    quote: 晚辈玄道宗弟子历海，不知前辈在此潜修
+    span:
+    - 613
+    - 639
+- from: 历海
+  to: 孙长老
+  type: 师徒
+  status: 稳定
+  confidence: 0.74
+  notes: 提及师父追究，强暗示师徒关系
+  first_seen_chunk: 000059
+  evidence:
+  - chunk_id: 000059
+    chapter_title: 第二卷 修真血影 第072章 夺基大法
+    quote: 日后师父那里定会追究
+    span:
+    - 1060
+    - 1072
+- from: 历海
+  to: 小师弟
+  type: 上下级/其他
+  status: 稳定
+  confidence: 0.76
+  notes: 称小师弟，体现同门序列关系
+  first_seen_chunk: 000059
+  evidence:
+  - chunk_id: 000059
+    chapter_title: 第二卷 修真血影 第072章 夺基大法
+    quote: 可现在师妹与小师弟也在此
+    span:
+    - 1028
+    - 1044
+- from: 历海
+  to: 徐飞
+  type: 上下级/其他
+  status: 稳定
+  confidence: 0.78
+  notes: 历海称其为师妹，属同门师兄妹
+  first_seen_chunk: 000059
+  evidence:
+  - chunk_id: 000059
+    chapter_title: 第二卷 修真血影 第072章 夺基大法
+    quote: 他若是单独一人...可现在师妹与小师弟也在此
+    span:
+    - 1016
+    - 1044
+- from: 司徒南
+  to: 王林
+  type: 上下级
+  status: 稳定
+  confidence: 0.86
+  notes: 指点与辅助，类似指导关系
+  first_seen_chunk: '000071'
+  evidence:
+  - chunk_id: '000071'
+    chapter_title: 第二卷 修真血影 第083章 夺基（三）
+    quote: 司徒南飞快说道……帮助王林躲过一个又一个丛林内的危机。
+    span:
+    - 1422
+    - 1461
+  - chunk_id: '000125'
+    chapter_title: 第二卷 修真血影 第112章
+    quote: 司徒南都一五一十的告诉了王林，并且再三叮嘱王林，一定要谨慎谨慎再谨慎
+    span:
+    - 1425
+    - 1463
+- from: 司徒南
+  to: 王林
+  type: 上下级
+  status: 变化中
+  confidence: 0.74
+  notes: 提供能力支持并提出建议
+  first_seen_chunk: '000117'
+  evidence:
+  - chunk_id: '000117'
+    chapter_title: 第二卷 修真血影 第106章 等级
+    quote: 我剩下的元婴精华不多，只能支持你三次瞬移，你要谨慎使用，我要继续沉睡了
+    span:
+    - 3030
+    - 3070
+- from: 司徒南
+  to: 王林
+  type: 上下级/其他
+  status: 稳定
+  confidence: 0.78
+  notes: 长辈/护道者式训诫与安排
+  first_seen_chunk: '000064'
+  evidence:
+  - chunk_id: '000064'
+    chapter_title: 第二卷 修真血影 第077章 即墨老人
+    quote: 王林，刚才不是老夫不出手...你毕竟日后需要独自成长
+    span:
+    - 2147
+    - 2182
+- from: 司徒南
+  to: 王林
+  type: 亲友
+  status: 稳定
+  confidence: 0.74
+  notes: 司徒南安慰并给出建议
+  first_seen_chunk: 000118
+  evidence:
+  - chunk_id: 000118
+    chapter_title: 第二卷 修真血影 第106章 等级
+    quote: 司徒南安慰道。王林沉默少许，重重的点了点头。
+    span:
+    - 66
+    - 89
+- from: 司徒南
+  to: 王林
+  type: 其他
+  status: 稳定
+  confidence: 0.8
+  notes: 对王林发问并指导其修炼相关
+  first_seen_chunk: 000058
+  evidence:
+  - chunk_id: 000058
+    chapter_title: 第一卷 平庸少年 第071章 四年
+    quote: “没错，小子，你准备什么时候去寻找木属性材料来完成天逆珠子？”司徒南问道。
+    span:
+    - 164
+    - 207
+  - chunk_id: '000066'
+    chapter_title: 第二卷 修真血影 第079章 祭炼飞剑
+    quote: “越是有灵性的法宝，就越难祭炼...才可祭炼成自身之物。”司徒南的声音
+    span:
+    - 2704
+    - 2750
+  - chunk_id: '000070'
+    chapter_title: 第二卷 修真血影 第082章 夺基（二）
+    quote: 你最好绕开...千万不能对他用法术攻击。”司徒南语气凝重。
+    span:
+    - 0
+    - 74
+  - chunk_id: '000075'
+    chapter_title: 第二卷 修真血影 第085章 夺基（五）
+    quote: 司徒南不疾不徐的说道。
+    span:
+    - 740
+    - 753
+  - chunk_id: '000076'
+    chapter_title: 第二卷 修真血影 第085章 夺基（五）
+    quote: 司徒南立刻惊呼道：“...王林，你被一个元婴期高手...诅咒了...”
+    span:
+    - 250
+    - 305
+  - chunk_id: '000103'
+    chapter_title: 第二卷 修真血影 第099章 石珠变化
+    quote: 王林目光闪动，按照司徒南的猜测，这天逆珠子需要吸纳金、木、水、火、土
+    span:
+    - 1500
+    - 1544
+  - chunk_id: '000106'
+    chapter_title: 第二卷 修真血影 第100章 祭炼剑鞘
+    quote: 之前用司徒南告知的这个方法，以灵气逼出剑鞘内的阵法
+    span:
+    - 78
+    - 106
+  - chunk_id: '000122'
+    chapter_title: 第二卷 修真血影 第109章
+    quote: 再加上之前司徒南苏醒的那一会曾简单的介绍了如何进入域外战场。
+    span:
+    - 2622
+    - 2656
+  - chunk_id: '000126'
+    chapter_title: 第二卷 修真血影 第113章
+    quote: 但司徒南告诉他，婴变期，是元婴变异的一个过程
+    span:
+    - 22
+    - 52
+- from: 司徒南
+  to: 王林
+  type: 利用
+  status: 变化中
+  confidence: 0.73
+  notes: 以帮助为条件要求王林争取机会
+  first_seen_chunk: 000059
+  evidence:
+  - chunk_id: 000059
+    chapter_title: 第二卷 修真血影 第072章 夺基大法
+    quote: 只要你给我争取到一个机会，我就助你擒住对方
+    span:
+    - 1860
+    - 1888
+- from: 司徒南
+  to: 王林
+  type: 利用
+  status: 稳定
+  confidence: 0.78
+  notes: 以元婴精华支援其行动
+  first_seen_chunk: 000118
+  evidence:
+  - chunk_id: 000118
+    chapter_title: 第二卷 修真血影 第106章 等级
+    quote: 我剩下的元婴精华不多，只能支持你三次瞬移
+    span:
+    - 173
+    - 198
+  - chunk_id: '000126'
+    chapter_title: 第二卷 修真血影 第113章
+    quote: 他之所以在这里修炼，是因为司徒南曾说，这样有助于他的恢复
+    span:
+    - 152
+    - 186
+- from: 司徒南
+  to: 王林
+  type: 同盟
+  status: 稳定
+  confidence: 0.88
+  notes: 关键时刻配合瞬移救援
+  first_seen_chunk: '000073'
+  evidence:
+  - chunk_id: '000073'
+    chapter_title: 第二卷 修真血影 第084章 夺基（四）
+    quote: 司徒南发动了瞬移，蓝光闪烁中，王林的身体消失
+    span:
+    - 1396
+    - 1423
+  - chunk_id: '000076'
+    chapter_title: 第二卷 修真血影 第085章 夺基（五）
+    quote: 只要你不是距离他太近，有我帮助掩盖，他无论如何也发现不了你
+    span:
+    - 520
+    - 553
+  - chunk_id: '000117'
+    chapter_title: 第二卷 修真血影 第106章 等级
+    quote: 司徒南安慰道。...只要魂魄不散，等我恢复了修为后，自有办法复活他们。
+    span:
+    - 2900
+    - 2941
+- from: 司徒南
+  to: 王林
+  type: 师徒
+  status: 稳定
+  confidence: 0.9
+  notes: 以前辈身份指导修炼与筑基
+  first_seen_chunk: '000053'
+  evidence:
+  - chunk_id: '000053'
+    chapter_title: 第一卷 平庸少年 第052章－061章（改）
+    quote: 司徒南的声音顿时响起：“...王林...你最好寻觅一个幽静之地闭关”
+    span:
+    - 2665
+    - 2715
+  - chunk_id: '000054'
+    chapter_title: 第一卷 平庸少年 第062章 劫来
+    quote: 你尽快到筑基期，然后我传你黄泉升窍决。
+    span:
+    - 245
+    - 266
+  - chunk_id: '000067'
+    chapter_title: 第二卷 修真血影 第080章 血炼之法
+    quote: 无奈之下，王林只有请教司徒南。...我教你一个方法，叫做血炼之术
+    span:
+    - 681
+    - 900
+  - chunk_id: '000073'
+    chapter_title: 第二卷 修真血影 第084章 夺基（四）
+    quote: 司徒南又把夺基大法的口诀以及需要注意的地方一一诉说
+    span:
+    - 3196
+    - 3226
+  - chunk_id: 000088
+    chapter_title: 第二卷 修真血影 第091章 极阴灵力
+    quote: 只不过司徒南传授给王林的这个功法，与上古时期的黄泉升窍决大为不同
+    span:
+    - 1924
+    - 1956
+  - chunk_id: '000105'
+    chapter_title: 第二卷 修真血影 第100章 祭炼剑鞘
+    quote: 即便是司徒南，也曾说过，这剑鞘颇为古怪
+    span:
+    - 1768
+    - 1790
+- from: 司徒南
+  to: 王林
+  type: 师徒
+  status: 变化中
+  confidence: 0.78
+  notes: 明确“传授法术”，偏师徒/授业关系
+  first_seen_chunk: '000077'
+  evidence:
+  - chunk_id: '000077'
+    chapter_title: 第二卷 修真血影 第086章 丛林废墟
+    quote: 打出这道白光的法诀，是司徒南传授给他寻找极阴之地的专用法术
+    span:
+    - 2068
+    - 2101
+- from: 司徒南
+  to: 王林
+  type: 师徒
+  status: 不确定
+  confidence: 0.72
+  notes: 对其讲解功法与修炼要点，呈师承指导
+  first_seen_chunk: 000079
+  evidence:
+  - chunk_id: 000079
+    chapter_title: 第二卷 修真血影 第087章 黄泉寒丹
+    quote: 司徒南曾在王林闭关时详细的讲解了极阴之地。
+    span:
+    - 235
+    - 258
+  - chunk_id: 000085
+    chapter_title: 第二卷 修真血影 第090章 初露迹象
+    quote: 司徒南曾重点的指出，此功法第一层、第四层、第七层极为难炼
+    span:
+    - 2020
+    - 2048
+- from: 司徒南
+  to: 藤化元
+  type: 敌对
+  status: 不确定
+  confidence: 0.6
+  notes: 司徒南表示可掩盖以对抗其定位
+  first_seen_chunk: '000076'
+  evidence:
+  - chunk_id: '000076'
+    chapter_title: 第二卷 修真血影 第085章 夺基（五）
+    quote: 只要你不是距离他太近，有我帮助掩盖，他无论如何也发现不了你
+    span:
+    - 520
+    - 553
+- from: 司徒南
+  to: 追杀司徒南的强者之一
+  type: 敌对
+  status: 结束
+  confidence: 0.84
+  notes: 对方追杀导致司徒南弃肉身
+  first_seen_chunk: '000125'
+  evidence:
+  - chunk_id: '000125'
+    chapter_title: 第二卷 修真血影 第112章
+    quote: 这些修士对司徒南展开了疯狂的追杀，逼的他不得不放弃肉身，躲在天逆珠子内
+    span:
+    - 915
+    - 952
+- from: 合欢宗领头女弟子
+  to: 王林
+  type: 交易
+  status: 变化中
+  confidence: 0.9
+  notes: 以情报换取放过
+  first_seen_chunk: '000122'
+  evidence:
+  - chunk_id: '000122'
+    chapter_title: 第二卷 修真血影 第109章
+    quote: 急声说道：“道友，我……剩下的三块令牌，我知道其中一块的下落，你若放过我，我全部如实相告。”
+    span:
+    - 2920
+    - 2985
+- from: 启明
+  to: 王林的四叔
+  type: 其他
+  status: 变化中
+  confidence: 0.72
+  notes: 带走四叔，疑似救助/掳走未明
+  first_seen_chunk: '000114'
+  evidence:
+  - chunk_id: '000114'
+    chapter_title: 第二卷 修真血影 第104章 悼劫（终）
+    quote: 他袖子一甩，与王林的四叔，消失在王家祖宅。
+    span:
+    - 89
+    - 113
+- from: 启明
+  to: 藤化元
+  type: 其他
+  status: 变化中
+  confidence: 0.74
+  notes: 启明劝诫藤化元少造杀孽
+  first_seen_chunk: '000110'
+  evidence:
+  - chunk_id: '000110'
+    chapter_title: 第二卷 修真血影 第102章 悼劫（一）
+    quote: 罢了，我尽力就是，不过藤道友，冤有头债有主，还望你少生杀孽
+    span:
+    - 574
+    - 606
+- from: 吴宇
+  to: 夜自在
+  type: 师徒
+  status: 稳定
+  confidence: 0.93
+  notes: 明确称夜自在为师兄
+  first_seen_chunk: 000093
+  evidence:
+  - chunk_id: 000093
+    chapter_title: 第二卷 修真血影 第094章 尸阴宗（三）
+    quote: 恳求小友去一趟尸阴宗，找我师兄夜自在前来救我
+    span:
+    - 20
+    - 50
+- from: 吴宇
+  to: 尸傀男子
+  type: 上下级
+  status: 稳定
+  confidence: 0.92
+  notes: 尸傀称吴宇为主人
+  first_seen_chunk: 000093
+  evidence:
+  - chunk_id: 000093
+    chapter_title: 第二卷 修真血影 第094章 尸阴宗（三）
+    quote: 尸傀男子阴冷的声音传来：“主人，这次我看你往哪里跑。”
+    span:
+    - 1128
+    - 1170
+- from: 吴宇
+  to: 尸魅
+  type: 其他
+  status: 变化中
+  confidence: 0.9
+  notes: 尸魅为其肉身，现已生神智
+  first_seen_chunk: 000091
+  evidence:
+  - chunk_id: 000091
+    chapter_title: 第二卷 修真血影 第093章 尸阴宗（二）
+    quote: 外面的那个尸魅，就是我当年的肉身
+    span:
+    - 2248
+    - 2268
+- from: 吴宇
+  to: 王林
+  type: 交易
+  status: 不确定
+  confidence: 0.55
+  notes: 自称无恶意并解释，疑求合作
+  first_seen_chunk: 000091
+  evidence:
+  - chunk_id: 000091
+    chapter_title: 第二卷 修真血影 第093章 尸阴宗（二）
+    quote: 小友莫要冲动，老夫没有恶意，我才是外面那男子的主人……
+    span:
+    - 846
+    - 884
+- from: 吴宇
+  to: 王林
+  type: 交易
+  status: 变化中
+  confidence: 0.86
+  notes: 提出请求，可能寻求交换/帮助
+  first_seen_chunk: 000092
+  evidence:
+  - chunk_id: 000092
+    chapter_title: 第二卷 修真血影 第093章 尸阴宗（二）
+    quote: 老夫恳求小友，帮帮我……
+    span:
+    - 542
+    - 556
+  - chunk_id: 000093
+    chapter_title: 第二卷 修真血影 第094章 尸阴宗（三）
+    quote: 帮老夫一次吧，阿呆我可以送你
+    span:
+    - 507
+    - 525
+- from: 吴宇
+  to: 王林
+  type: 利用
+  status: 不确定
+  confidence: 0.86
+  notes: 明确表达曾想夺舍王林
+  first_seen_chunk: 000092
+  evidence:
+  - chunk_id: 000092
+    chapter_title: 第二卷 修真血影 第093章 尸阴宗（二）
+    quote: 若是三百年前我刚刚被困此地时看见你，定会想尽一切办法夺你肉身
+    span:
+    - 155
+    - 190
+- from: 吴宇
+  to: 王林
+  type: 利用
+  status: 变化中
+  confidence: 0.84
+  notes: 让王林去找人救他
+  first_seen_chunk: 000093
+  evidence:
+  - chunk_id: 000093
+    chapter_title: 第二卷 修真血影 第094章 尸阴宗（三）
+    quote: 小友，快走，老夫能否脱险，全靠你了
+    span:
+    - 1230
+    - 1252
+- from: 吴宇
+  to: 王林
+  type: 师徒
+  status: 稳定
+  confidence: 0.93
+  notes: 明确称王林为吴宇弟子
+  first_seen_chunk: 000096
+  evidence:
+  - chunk_id: 000096
+    chapter_title: 第二卷 修真血影 第095章 进宗
+    quote: “你就是吴宇师弟的弟子？”
+    span:
+    - 728
+    - 742
+- from: 吴宇
+  to: 阿呆
+  type: 亲友
+  status: 变化中
+  confidence: 0.78
+  notes: 相依为命但前有夺舍冲突
+  first_seen_chunk: 000092
+  evidence:
+  - chunk_id: 000092
+    chapter_title: 第二卷 修真血影 第093章 尸阴宗（二）
+    quote: 阿呆由沉睡中苏醒，并对我产生了一丝难明的感觉，与我相依为命
+    span:
+    - 399
+    - 429
+- from: 吴宇
+  to: 阿呆
+  type: 利用
+  status: 结束
+  confidence: 0.9
+  notes: 吴宇曾夺舍阿呆但失败
+  first_seen_chunk: 000092
+  evidence:
+  - chunk_id: 000092
+    chapter_title: 第二卷 修真血影 第093章 尸阴宗（二）
+    quote: 我进入后本想夺舍，可惜他体内拥有一股毁天灭地的力量，我的夺舍失败
+    span:
+    - 319
+    - 357
+- from: 吴宇
+  to: 阿木
+  type: 上下级
+  status: 结束
+  confidence: 0.86
+  notes: 尸傀原受主人控制，属主从
+  first_seen_chunk: 000091
+  evidence:
+  - chunk_id: 000091
+    chapter_title: 第二卷 修真血影 第093章 尸阴宗（二）
+    quote: 吴宇眼露无奈之色，说道：“他是老夫的尸傀”
+    span:
+    - 1674
+    - 1697
+- from: 周姓女子
+  to: 王卓
+  type: 敌对
+  status: 不确定
+  confidence: 0.74
+  notes: 明确厌恶态度
+  first_seen_chunk: '000043'
+  evidence:
+  - chunk_id: '000043'
+    chapter_title: 第一卷 平庸少年 第042章 蜈毒
+    quote: 厌恶的看了眼王卓
+    span:
+    - 818
+    - 826
+- from: 周姓女子
+  to: 王林
+  type: 亲友
+  status: 变化中
+  confidence: 0.78
+  notes: 主动接近并表达佩服交流
+  first_seen_chunk: '000042'
+  evidence:
+  - chunk_id: '000042'
+    chapter_title: 第一卷 平庸少年 第041章 蜈蚣
+    quote: “王师弟...我很佩服你...四年达到第三层...”
+    span:
+    - 1340
+    - 1380
+  - chunk_id: '000043'
+    chapter_title: 第一卷 平庸少年 第042章 蜈毒
+    quote: 低声对王林说道：“王林师弟，若我不过来，他也不会针对你，我……”
+    span:
+    - 832
+    - 875
+- from: 周权
+  to: 王林
+  type: 其他
+  status: 不确定
+  confidence: 0.62
+  notes: 周权礼貌询问，未见敌意或同盟
+  first_seen_chunk: '000116'
+  evidence:
+  - chunk_id: '000116'
+    chapter_title: 第二卷 修真血影 第105章 极境临世
+    quote: 正道一白衣青年抱拳高声道：“道友是哪个门派？在下元兲派弟子周权。”
+    span:
+    - 878
+    - 926
+- from: 喊价者乙
+  to: 张狂
+  type: 上下级
+  status: 稳定
+  confidence: 0.66
+  notes: 称其二师兄，地位更高
+  first_seen_chunk: '000034'
+  evidence:
+  - chunk_id: '000034'
+    chapter_title: 第一卷 平庸少年 第033章 口诀
+    quote: 去年比试中最强的张狂二师兄...他也只拥有7，8，9三层的口诀
+    span:
+    - 664
+    - 719
+- from: 四叔
+  to: 铁柱母亲
+  type: 家族
+  status: 不确定
+  confidence: 0.55
+  notes: 称二嫂，疑为铁柱母亲
+  first_seen_chunk: '000002'
+  evidence:
+  - chunk_id: '000002'
+    chapter_title: 第一卷 平庸少年 第001章 离乡
+    quote: “二哥，二嫂，家族几天后会有大型欢庆席”
+    span:
+    - 259
+    - 283
+- from: 四叔
+  to: 铁柱父亲
+  type: 家族
+  status: 不确定
+  confidence: 0.55
+  notes: 称二哥，疑为铁柱父亲
+  first_seen_chunk: '000002'
+  evidence:
+  - chunk_id: '000002'
+    chapter_title: 第一卷 平庸少年 第001章 离乡
+    quote: “二哥，二嫂，家族几天后会有大型欢庆席”
+    span:
+    - 259
+    - 283
+- from: 夜始祖
+  to: 吴宇
+  type: 其他
+  status: 不确定
+  confidence: 0.55
+  notes: 仅比较尸傀等级，未明确定关系
+  first_seen_chunk: 000095
+  evidence:
+  - chunk_id: 000095
+    chapter_title: 第二卷 修真血影 第095章 进宗
+    quote: 吴宇始祖的尸傀，那可是仅次于夜始祖的飞天罗刹
+    span:
+    - 2315
+    - 2340
+- from: 夜自在
+  to: 吴宇
+  type: 师徒
+  status: 稳定
+  confidence: 0.93
+  notes: 明确称吴宇为师弟
+  first_seen_chunk: 000108
+  evidence:
+  - chunk_id: 000108
+    chapter_title: 第二卷 修真血影 第101章 魂魄玉简
+    quote: 助紫大人吞噬我师弟吴宇。
+    span:
+    - 382
+    - 394
+- from: 夜自在
+  to: 木冗
+  type: 上下级
+  status: 稳定
+  confidence: 0.74
+  notes: 木冗奉始祖命令行事
+  first_seen_chunk: '000107'
+  evidence:
+  - chunk_id: '000107'
+    chapter_title: 第二卷 修真血影 第101章 魂魄玉简
+    quote: 师祖，始祖召集筑基期弟子去三十六洞集合，我前来为您引路。
+    span:
+    - 1278
+    - 1313
+- from: 夜自在
+  to: 朴南子
+  type: 敌对
+  status: 不确定
+  confidence: 0.72
+  notes: 夜自在意图除掉对手
+  first_seen_chunk: '000107'
+  evidence:
+  - chunk_id: '000107'
+    chapter_title: 第二卷 修真血影 第101章 魂魄玉简
+    quote: 夜自在...自语道：“那朴南子，你有没有把握干掉？”
+    span:
+    - 650
+    - 683
+- from: 夜自在
+  to: 杜尘
+  type: 上下级
+  status: 稳定
+  confidence: 0.9
+  notes: 指定杜尘为首并授令牌
+  first_seen_chunk: '000107'
+  evidence:
+  - chunk_id: '000107'
+    chapter_title: 第二卷 修真血影 第101章 魂魄玉简
+    quote: “...有关我尸阴宗的一切行动，以杜尘为首...这是进入域外战场的令牌，你且拿好”
+    span:
+    - 2205
+    - 2338
+- from: 夜自在
+  to: 沙哑声音
+  type: 其他
+  status: 稳定
+  confidence: 0.8
+  notes: 体内共存/寄居关系
+  first_seen_chunk: '000107'
+  evidence:
+  - chunk_id: '000107'
+    chapter_title: 第二卷 修真血影 第101章 魂魄玉简
+    quote: 沙哑的声音从夜自在体内传出：“...若是老夫吞噬完成...”
+    span:
+    - 731
+    - 812
+- from: 夜自在
+  to: 王林
+  type: 其他
+  status: 稳定
+  confidence: 0.75
+  notes: 提供规则信息/指点
+  first_seen_chunk: '000122'
+  evidence:
+  - chunk_id: '000122'
+    chapter_title: 第二卷 修真血影 第109章
+    quote: 他来决明谷前，夜自在曾说过，这决明谷内的资格争夺赛，就是抢夺对方令牌
+    span:
+    - 2580
+    - 2622
+- from: 夜自在
+  to: 王林
+  type: 利用
+  status: 变化中
+  confidence: 0.86
+  notes: 要求交出魂魄以控制
+  first_seen_chunk: '000107'
+  evidence:
+  - chunk_id: '000107'
+    chapter_title: 第二卷 修真血影 第101章 魂魄玉简
+    quote: “这里所有人的一丝灵魂，都在这玉简之内，惟独缺一个，就是你。”
+    span:
+    - 2587
+    - 2631
+- from: 夜自在
+  to: 王林
+  type: 利用
+  status: 稳定
+  confidence: 0.9
+  notes: 明确将王林作为人偶之引
+  first_seen_chunk: 000108
+  evidence:
+  - chunk_id: 000108
+    chapter_title: 第二卷 修真血影 第101章 魂魄玉简
+    quote: 既然已经决定不选他作为炉鼎，索性以他作为人偶之引，为人傀增加几分修为。
+    span:
+    - 286
+    - 322
+- from: 夜自在
+  to: 王林
+  type: 敌对
+  status: 变化中
+  confidence: 0.86
+  notes: 王林推断夜自在布置封锁困住自己
+  first_seen_chunk: '000103'
+  evidence:
+  - chunk_id: '000103'
+    chapter_title: 第二卷 修真血影 第099章 石珠变化
+    quote: 结合之前他对夜自在的猜测...这是夜自在特意安排的，目的就是让自己插翅难飞。
+    span:
+    - 2746
+    - 2810
+- from: 夜自在
+  to: 紫大人
+  type: 同盟
+  status: 变化中
+  confidence: 0.82
+  notes: 承诺相助吞噬，形成合作
+  first_seen_chunk: 000108
+  evidence:
+  - chunk_id: 000108
+    chapter_title: 第二卷 修真血影 第101章 魂魄玉简
+    quote: 作为交换，我会去一趟枯茫丛林，助紫大人吞噬我师弟吴宇。
+    span:
+    - 364
+    - 394
+- from: 夜自在
+  to: 罗刹
+  type: 交易
+  status: 变化中
+  confidence: 0.88
+  notes: 提出条件并以行动交换
+  first_seen_chunk: 000108
+  evidence:
+  - chunk_id: 000108
+    chapter_title: 第二卷 修真血影 第101章 魂魄玉简
+    quote: 罗刹，我要求你把阿呆提升至结丹期...作为交换，我会去一趟枯茫丛林
+    span:
+    - 318
+    - 389
+- from: 夜自在
+  to: 阿呆
+  type: 其他
+  status: 稳定
+  confidence: 0.9
+  notes: 炉鼎关系（非标准亲属/师徒）
+  first_seen_chunk: 000108
+  evidence:
+  - chunk_id: 000108
+    chapter_title: 第二卷 修真血影 第101章 魂魄玉简
+    quote: 我要求你把阿呆提升至结丹期，他将是我的炉鼎
+    span:
+    - 324
+    - 348
+- from: 夜自在
+  to: 阿呆
+  type: 利用
+  status: 变化中
+  confidence: 0.83
+  notes: 决定将阿呆作炉鼎/尸傀
+  first_seen_chunk: '000107'
+  evidence:
+  - chunk_id: '000107'
+    chapter_title: 第二卷 修真血影 第101章 魂魄玉简
+    quote: 他之前心里已经有了决断...不再以对方作为炉鼎...还是决定选择了阿呆。
+    span:
+    - 3147
+    - 3230
+- from: 夜自在始祖
+  to: 吴宇
+  type: 其他
+  status: 不确定
+  confidence: 0.6
+  notes: 称吴宇为师弟，疑同门辈分
+  first_seen_chunk: 000096
+  evidence:
+  - chunk_id: 000096
+    chapter_title: 第二卷 修真血影 第095章 进宗
+    quote: “你就是吴宇师弟的弟子？”
+    span:
+    - 728
+    - 742
+- from: 夜自在始祖
+  to: 木冗
+  type: 上下级
+  status: 稳定
+  confidence: 0.82
+  notes: 木冗跪拜显示等级差
+  first_seen_chunk: 000096
+  evidence:
+  - chunk_id: 000096
+    chapter_title: 第二卷 修真血影 第095章 进宗
+    quote: 木冗...立刻跪在地上，神情极为恭敬。
+    span:
+    - 679
+    - 701
+- from: 媒婆
+  to: 王林
+  type: 交易
+  status: 不确定
+  confidence: 0.55
+  notes: 说亲对象指向王林
+  first_seen_chunk: '000057'
+  evidence:
+  - chunk_id: '000057'
+    chapter_title: 第一卷 平庸少年 第064章－070章（改）
+    quote: 人家找了媒婆过来说亲
+    span:
+    - 0
+    - 11
+- from: 媒婆
+  to: 铁柱母亲
+  type: 交易
+  status: 不确定
+  confidence: 0.62
+  notes: 媒婆上门说亲与其沟通
+  first_seen_chunk: '000057'
+  evidence:
+  - chunk_id: '000057'
+    chapter_title: 第一卷 平庸少年 第064章－070章（改）
+    quote: 人家找了媒婆过来说亲，娘听说仙人也能成家
+    span:
+    - 0
+    - 26
+- from: 孙浩
+  to: 孙浩师傅
+  type: 师徒
+  status: 稳定
+  confidence: 0.9
+  notes: 明确出现“他师傅”指师徒关系
+  first_seen_chunk: '000105'
+  evidence:
+  - chunk_id: '000105'
+    chapter_title: 第二卷 修真血影 第100章 祭炼剑鞘
+    quote: 孙浩之前提说，这飞剑与剑鞘，是他师傅在一个古洞中发现
+    span:
+    - 1842
+    - 1872
+- from: 孙浩
+  to: 李山
+  type: 交易
+  status: 稳定
+  confidence: 0.9
+  notes: 孙浩用物品换取霹雳弹
+  first_seen_chunk: '000046'
+  evidence:
+  - chunk_id: '000046'
+    chapter_title: 第一卷 平庸少年 第045章 下贱
+    quote: 孙浩二话不说，直接上前与李山耳语几句…李山…拿出十个霹雳弹交易给对方
+    span:
+    - 333
+    - 381
+- from: 孙浩
+  to: 王卓
+  type: 同盟
+  status: 不确定
+  confidence: 0.62
+  notes: 共同嘲讽同一对象
+  first_seen_chunk: '000043'
+  evidence:
+  - chunk_id: '000043'
+    chapter_title: 第一卷 平庸少年 第042章 蜈毒
+    quote: 正是后山与王卓嘲讽过他的孙浩
+    span:
+    - 1392
+    - 1409
+- from: 孙浩
+  to: 王林
+  type: 上下级
+  status: 不确定
+  confidence: 0.78
+  notes: 以师兄身份使唤师弟
+  first_seen_chunk: '000037'
+  evidence:
+  - chunk_id: '000037'
+    chapter_title: 第一卷 平庸少年 第036章 是非
+    quote: 小师弟，去，给我到河边接点水过来！
+    span:
+    - 1673
+    - 1698
+- from: 孙浩
+  to: 王林
+  type: 敌对
+  status: 变化中
+  confidence: 0.86
+  notes: 言语威胁，存在冲突升级
+  first_seen_chunk: '000037'
+  evidence:
+  - chunk_id: '000037'
+    chapter_title: 第一卷 平庸少年 第036章 是非
+    quote: 你小子要是不识相，别怪师兄我给你点教训
+    span:
+    - 1778
+    - 1803
+- from: 孙浩
+  to: 王林
+  type: 敌对
+  status: 稳定
+  confidence: 0.9
+  notes: 明确写曾嘲讽王林
+  first_seen_chunk: '000043'
+  evidence:
+  - chunk_id: '000043'
+    chapter_title: 第一卷 平庸少年 第042章 蜈毒
+    quote: 正是后山与王卓嘲讽过他的孙浩
+    span:
+    - 1392
+    - 1409
+- from: 孙浩
+  to: 紫衣男子
+  type: 上下级
+  status: 不确定
+  confidence: 0.6
+  notes: 称其为二师兄，疑为同门上下序
+  first_seen_chunk: '000037'
+  evidence:
+  - chunk_id: '000037'
+    chapter_title: 第一卷 平庸少年 第036章 是非
+    quote: 告诉你，二师兄说了，后山中内门弟子，可以彼此打斗
+    span:
+    - 1735
+    - 1766
+- from: 孙长老
+  to: 一道友
+  type: 交易
+  status: 结束
+  confidence: 0.82
+  notes: 以典籍换取三尸线虫草
+  first_seen_chunk: '000053'
+  evidence:
+  - chunk_id: '000053'
+    chapter_title: 第一卷 平庸少年 第052章－061章（改）
+    quote: “去年下山时，以偷取的门派典籍与一道友换取”
+    span:
+    - 1706
+    - 1732
+- from: 孙长老
+  to: 三师侄
+  type: 利用
+  status: 变化中
+  confidence: 0.74
+  notes: 计划控制三师侄以获丹药
+  first_seen_chunk: '000053'
+  evidence:
+  - chunk_id: '000053'
+    chapter_title: 第一卷 平庸少年 第052章－061章（改）
+    quote: “我本打算用在三师侄身上，弄些造化丹出来。”
+    span:
+    - 1820
+    - 1844
+- from: 孙长老
+  to: 师祖
+  type: 师徒
+  status: 不确定
+  confidence: 0.8
+  notes: 称“你师祖”暗示其师承关系
+  first_seen_chunk: 000039
+  evidence:
+  - chunk_id: 000039
+    chapter_title: 第一卷 平庸少年 第038章 光斑
+    quote: “当年为师就是这样，挂着把飞剑，给你师祖长了不少面子。”
+    span:
+    - 2224
+    - 2262
+- from: 孙长老
+  to: 掌门
+  type: 上下级
+  status: 稳定
+  confidence: 0.75
+  notes: 长老向掌门汇报/请示收徒
+  first_seen_chunk: '000017'
+  evidence:
+  - chunk_id: '000017'
+    chapter_title: 第一卷 平庸少年 第016章 弟子
+    quote: 我这就去和掌门说这事...直奔掌门所在之地
+    span:
+    - 1622
+    - 1660
+  - chunk_id: '000035'
+    chapter_title: 第一卷 平庸少年 第034章 集训
+    quote: “这次你掌门师伯下了命令，大部分内门弟子过完年后进行为期四年的集训”
+    span:
+    - 1494
+    - 1538
+- from: 孙长老
+  to: 掌门
+  type: 上下级
+  status: 不确定
+  confidence: 0.55
+  notes: 仅提及与掌门汇报，层级未明
+  first_seen_chunk: 000018
+  evidence:
+  - chunk_id: 000018
+    chapter_title: 第一卷 平庸少年 第017章 修仙
+    quote: 刚才和掌门说这事时，没少挨旁边师兄弟的讽刺
+    span:
+    - 52
+    - 79
+- from: 孙长老
+  to: 掌门师兄
+  type: 上下级
+  status: 不确定
+  confidence: 0.6
+  notes: 称其为掌门师兄，疑为同门上下级
+  first_seen_chunk: '000053'
+  evidence:
+  - chunk_id: '000053'
+    chapter_title: 第一卷 平庸少年 第052章－061章（改）
+    quote: “掌门师兄让我一会过去...若是我没去，他定找人过来传唤！”
+    span:
+    - 1018
+    - 1060
+- from: 孙长老
+  to: 掌门师兄
+  type: 其他
+  status: 不确定
+  confidence: 0.7
+  notes: 孙大柱否认被掌门召见
+  first_seen_chunk: '000053'
+  evidence:
+  - chunk_id: '000053'
+    chapter_title: 第一卷 平庸少年 第052章－061章（改）
+    quote: “你刚才说掌门找你，可有这事？”“没有。”
+    span:
+    - 1866
+    - 1889
+- from: 孙长老
+  to: 王林
+  type: 上下级
+  status: 变化中
+  confidence: 0.86
+  notes: 长老召见弟子，明显上下级
+  first_seen_chunk: '000016'
+  evidence:
+  - chunk_id: '000016'
+    chapter_title: 第一卷 平庸少年 第015章 怀疑
+    quote: “速速带他到我这里来，不得延误！”
+    span:
+    - 2546
+    - 2569
+  - chunk_id: '000035'
+    chapter_title: 第一卷 平庸少年 第034章 集训
+    quote: “还有事么，没事滚吧，看见你我就来气！”孙大柱冷声说道
+    span:
+    - 1184
+    - 1217
+- from: 孙长老
+  to: 王林
+  type: 上下级
+  status: 稳定
+  confidence: 0.86
+  notes: 限制行动体现管束关系
+  first_seen_chunk: 000018
+  evidence:
+  - chunk_id: 000018
+    chapter_title: 第一卷 平庸少年 第017章 修仙
+    quote: 以后你就住在后面的房间，没有我的允许，不可出门
+    span:
+    - 457
+    - 483
+  - chunk_id: 000039
+    chapter_title: 第一卷 平庸少年 第038章 光斑
+    quote: “你从今天起回到我这里居住吧...到时你随我去见识一番”
+    span:
+    - 1504
+    - 1540
+- from: 孙长老
+  to: 王林
+  type: 交易
+  status: 变化中
+  confidence: 0.9
+  notes: 以灵石换葫芦的明确条件
+  first_seen_chunk: 000018
+  evidence:
+  - chunk_id: 000018
+    chapter_title: 第一卷 平庸少年 第017章 修仙
+    quote: 你若是能再给我弄到一个葫芦...可以给你一块下品灵石
+    span:
+    - 1755
+    - 1790
+- from: 孙长老
+  to: 王林
+  type: 交易
+  status: 稳定
+  confidence: 0.86
+  notes: 以葫芦换灵石的约定
+  first_seen_chunk: '000020'
+  evidence:
+  - chunk_id: '000020'
+    chapter_title: 第一卷 平庸少年 第019章 逐门
+    quote: “我听你说只要找到葫芦就给我灵石”
+    span:
+    - 172
+    - 192
+- from: 孙长老
+  to: 王林
+  type: 其他
+  status: 稳定
+  confidence: 0.72
+  notes: 提供药汤帮助其修炼
+  first_seen_chunk: '000025'
+  evidence:
+  - chunk_id: '000025'
+    chapter_title: 第一卷 平庸少年 第024章 修炼
+    quote: 孙大柱一个月的药汤，缩减了这一过程。
+    span:
+    - 2209
+    - 2227
+- from: 孙长老
+  to: 王林
+  type: 利用
+  status: 稳定
+  confidence: 0.84
+  notes: 王林判断其收徒动机为获取葫芦
+  first_seen_chunk: '000017'
+  evidence:
+  - chunk_id: '000017'
+    chapter_title: 第一卷 平庸少年 第016章 弟子
+    quote: 明是收他为弟子，实际却是想获得更多的葫芦。
+    span:
+    - 1748
+    - 1776
+- from: 孙长老
+  to: 王林
+  type: 利用
+  status: 变化中
+  confidence: 0.9
+  notes: 诱使王林为其取葫芦
+  first_seen_chunk: 000018
+  evidence:
+  - chunk_id: 000018
+    chapter_title: 第一卷 平庸少年 第017章 修仙
+    quote: 只要再给我拿回一个葫芦，我就给你一块下品灵石
+    span:
+    - 1906
+    - 1934
+  - chunk_id: 000019
+    chapter_title: 第一卷 平庸少年 第018章 葫芦
+    quote: 再加上老夫的这些药物，这辈子都休想练到凝气三层以上...老夫这辈子都可稳稳的吃定你
+    span:
+    - 1603
+    - 1668
+  - chunk_id: '000020'
+    chapter_title: 第一卷 平庸少年 第019章 逐门
+    quote: 我宁可拼着修为倒退一个阶层，也要对他使用搜魂之术
+    span:
+    - 792
+    - 822
+- from: 孙长老
+  to: 王林
+  type: 利用
+  status: 结束
+  confidence: 0.9
+  notes: 因心痛草药而放弃继续投入
+  first_seen_chunk: '000023'
+  evidence:
+  - chunk_id: '000023'
+    chapter_title: 第一卷 平庸少年 第022章 散功
+    quote: 后来因为对王林心灰意冷，心痛草药，便对他不管不顾了
+    span:
+    - 2697
+    - 2726
+  - chunk_id: 000039
+    chapter_title: 第一卷 平庸少年 第038章 光斑
+    quote: 他记得当年决定等对方达到凝气第一层便对其使用搜魂术...放弃了搜魂的念头
+    span:
+    - 1352
+    - 1414
+  - chunk_id: '000053'
+    chapter_title: 第一卷 平庸少年 第052章－061章（改）
+    quote: “自从发现你有灵气葫芦...所以收你为弟子...对你施展搜魂术”
+    span:
+    - 1393
+    - 1440
+- from: 孙长老
+  to: 王林
+  type: 师徒
+  status: 稳定
+  confidence: 0.99
+  notes: 明确收徒并以师父自称
+  first_seen_chunk: 000018
+  evidence:
+  - chunk_id: 000018
+    chapter_title: 第一卷 平庸少年 第017章 修仙
+    quote: 王林，从今天开始，你就是我孙大柱的弟子
+    span:
+    - 170
+    - 194
+  - chunk_id: 000019
+    chapter_title: 第一卷 平庸少年 第018章 葫芦
+    quote: 孙大柱摸了下巴胡须，强笑道：“徒儿，这一上午可找到葫芦了？”
+    span:
+    - 1140
+    - 1174
+  - chunk_id: '000026'
+    chapter_title: 第一卷 平庸少年 第025章 凝气
+    quote: 孙大柱更是把这个弟子忘在脑后
+    span:
+    - 345
+    - 360
+  - chunk_id: '000036'
+    chapter_title: 第一卷 平庸少年 第035章 后山
+    quote: 掌门师兄，这小子正是我徒弟王林
+    span:
+    - 260
+    - 278
+  - chunk_id: 000038
+    chapter_title: 第一卷 平庸少年 第037章 四年
+    quote: 家师曾在之前告知过，此地河水有助修炼
+    span:
+    - 1044
+    - 1063
+  - chunk_id: '000040'
+    chapter_title: 第一卷 平庸少年 第039章 巨富
+    quote: 他达到凝气期第三层，这才多多少少认了他这个徒弟
+    span:
+    - 106
+    - 132
+  - chunk_id: 000049
+    chapter_title: 第一卷 平庸少年 第048章 交流（二）
+    quote: 孙大柱嘿嘿一笑，低声对身边王林说道：“徒儿，看好了”
+    span:
+    - 93
+    - 126
+- from: 孙长老
+  to: 王林
+  type: 师徒
+  status: 变化中
+  confidence: 0.93
+  notes: 王林称其为师父，明确师徒关系
+  first_seen_chunk: '000020'
+  evidence:
+  - chunk_id: '000020'
+    chapter_title: 第一卷 平庸少年 第019章 逐门
+    quote: 王林一怔，谨慎的看了眼，并未接过，问道：“师父，这是什么？”
+    span:
+    - 1591
+    - 1624
+- from: 孙长老
+  to: 王林
+  type: 师徒
+  status: 结束
+  confidence: 0.92
+  notes: 以师父自称并称王林徒儿
+  first_seen_chunk: '000053'
+  evidence:
+  - chunk_id: '000053'
+    chapter_title: 第一卷 平庸少年 第052章－061章（改）
+    quote: “徒儿，喝了它！这是为师为你准备的灵药”
+    span:
+    - 258
+    - 284
+- from: 孙长老
+  to: 王林
+  type: 敌对
+  status: 变化中
+  confidence: 0.86
+  notes: 起狠毒心并下药阻碍修炼
+  first_seen_chunk: 000019
+  evidence:
+  - chunk_id: 000019
+    chapter_title: 第一卷 平庸少年 第018章 葫芦
+    quote: 他面色阴沉，眼露狠毒之色，暗道：“老夫...可放一些阻碍你吸收灵气的药物”
+    span:
+    - 1516
+    - 1582
+  - chunk_id: '000020'
+    chapter_title: 第一卷 平庸少年 第019章 逐门
+    quote: 气愤之下叫过王林，把他一顿训斥，最后袖子一甩，逐出正院
+    span:
+    - 3192
+    - 3226
+  - chunk_id: '000035'
+    chapter_title: 第一卷 平庸少年 第034章 集训
+    quote: “你若再给我丢人显眼，我拼着受掌门责罚，也要一掌拍死你！”
+    span:
+    - 2350
+    - 2391
+- from: 孙长老
+  to: 王林
+  type: 敌对
+  status: 结束
+  confidence: 0.86
+  notes: 以武力威胁强迫服药
+  first_seen_chunk: '000053'
+  evidence:
+  - chunk_id: '000053'
+    chapter_title: 第一卷 平庸少年 第052章－061章（改）
+    quote: “喝了，不要逼为师动手！”
+    span:
+    - 561
+    - 576
+- from: 小师弟
+  to: 孙长老
+  type: 师徒
+  status: 不确定
+  confidence: 0.55
+  notes: 同门语境下可能同师父，未直接指明
+  first_seen_chunk: 000059
+  evidence:
+  - chunk_id: 000059
+    chapter_title: 第二卷 修真血影 第072章 夺基大法
+    quote: 日后师父那里定会追究
+    span:
+    - 1060
+    - 1072
+- from: 小师弟
+  to: 李山
+  type: 敌对
+  status: 变化中
+  confidence: 0.78
+  notes: 被欺负暗示对立关系仍可能持续
+  first_seen_chunk: 000058
+  evidence:
+  - chunk_id: 000058
+    chapter_title: 第一卷 平庸少年 第071章 四年
+    quote: 以后那李山要是再欺负我，你可得帮我啊。
+    span:
+    - 1358
+    - 1381
+- from: 尸魅
+  to: 主人
+  type: 家族
+  status: 不确定
+  confidence: 0.72
+  notes: 由主人肉身所化，具体关系未明
+  first_seen_chunk: 000087
+  evidence:
+  - chunk_id: 000087
+    chapter_title: 第二卷 修真血影 第091章 极阴灵力
+    quote: 主人的这具肉身居然修成了尸魅
+    span:
+    - 1092
+    - 1108
+- from: 尸魅
+  to: 吴宇
+  type: 利用
+  status: 变化中
+  confidence: 0.74
+  notes: 阿木借肉身感应定位吴宇
+  first_seen_chunk: 000091
+  evidence:
+  - chunk_id: 000091
+    chapter_title: 第二卷 修真血影 第093章 尸阴宗（二）
+    quote: 凭借肉身与我的感应，他这才找到了这里
+    span:
+    - 2920
+    - 2940
+- from: 尸魅
+  to: 王林
+  type: 敌对
+  status: 变化中
+  confidence: 0.9
+  notes: 先攻击并威胁驱逐
+  first_seen_chunk: '000071'
+  evidence:
+  - chunk_id: '000071'
+    chapter_title: 第二卷 修真血影 第083章 夺基（三）
+    quote: 一道绿芒…直奔王林眉心。…“滚……此地……你……死……”
+    span:
+    - 2066
+    - 2120
+- from: 尸魅
+  to: 王林
+  type: 敌对
+  status: 不确定
+  confidence: 0.72
+  notes: 对王林警惕并欲冲上去，敌意未完全展开
+  first_seen_chunk: '000073'
+  evidence:
+  - chunk_id: '000073'
+    chapter_title: 第二卷 修真血影 第084章 夺基（四）
+    quote: 尸魅甚至都没反应过来，在藤厉被冰冻的瞬间，他微微一怔，立刻警惕的盯着王林
+    span:
+    - 1654
+    - 1707
+- from: 尸魅
+  to: 藤厉
+  type: 利用
+  status: 结束
+  confidence: 0.84
+  notes: 吞食其法宝获益
+  first_seen_chunk: '000073'
+  evidence:
+  - chunk_id: '000073'
+    chapter_title: 第二卷 修真血影 第084章 夺基（四）
+    quote: 拿出藤厉的银色小剑，一脸兴奋之色，张开大口吞了下去
+    span:
+    - 2050
+    - 2082
+- from: 尸魅
+  to: 藤厉
+  type: 敌对
+  status: 稳定
+  confidence: 0.9
+  notes: 尸魅主动扑向藤厉
+  first_seen_chunk: '000072'
+  evidence:
+  - chunk_id: '000072'
+    chapter_title: 第二卷 修真血影 第083章 夺基（三）
+    quote: 从巨剑斩下的位置冲出，对着藤厉扑面而来
+    span:
+    - 124
+    - 147
+- from: 尸魅
+  to: 藤厉
+  type: 敌对
+  status: 结束
+  confidence: 0.86
+  notes: 尸魅以攻击藤厉为主并造成重创
+  first_seen_chunk: '000073'
+  evidence:
+  - chunk_id: '000073'
+    chapter_title: 第二卷 修真血影 第084章 夺基（四）
+    quote: 尸魅主要攻击的是藤厉
+    span:
+    - 110
+    - 121
+- from: 巨人
+  to: 林奕
+  type: 敌对
+  status: 变化中
+  confidence: 0.74
+  notes: 当面抢夺法器并对其喊话
+  first_seen_chunk: '000102'
+  evidence:
+  - chunk_id: '000102'
+    chapter_title: 第二卷 修真血影 第098章 域外战场之序
+    quote: 巨人…吼道：“林奕，这七彩法器老子拿走了，老子不能白来一趟。”
+    span:
+    - 162
+    - 202
+- from: 巨木青年丙
+  to: 司徒南
+  type: 上下级
+  status: 不确定
+  confidence: 0.8
+  notes: 同样跪迎前辈
+  first_seen_chunk: 000094
+  evidence:
+  - chunk_id: 000094
+    chapter_title: 第二卷 修真血影 第094章 尸阴宗（三）
+    quote: 八人二话不说迅速站起，全部单膝跪地…高声同时喊道：“恭迎前辈……”
+    span:
+    - 646
+    - 690
+- from: 巨木青年乙
+  to: 司徒南
+  type: 上下级
+  status: 不确定
+  confidence: 0.8
+  notes: 同样跪迎前辈
+  first_seen_chunk: 000094
+  evidence:
+  - chunk_id: 000094
+    chapter_title: 第二卷 修真血影 第094章 尸阴宗（三）
+    quote: 八人二话不说迅速站起，全部单膝跪地…高声同时喊道：“恭迎前辈……”
+    span:
+    - 646
+    - 690
+- from: 巨木青年甲
+  to: 司徒南
+  type: 上下级
+  status: 不确定
+  confidence: 0.82
+  notes: 跪迎并称前辈，显从属/敬畏
+  first_seen_chunk: 000094
+  evidence:
+  - chunk_id: 000094
+    chapter_title: 第二卷 修真血影 第094章 尸阴宗（三）
+    quote: 八人二话不说迅速站起，全部单膝跪地…高声同时喊道：“恭迎前辈……”
+    span:
+    - 646
+    - 690
+- from: 巨木青年甲
+  to: 林弈
+  type: 上下级
+  status: 稳定
+  confidence: 0.74
+  notes: 对其发号施令并指派去处
+  first_seen_chunk: 000094
+  evidence:
+  - chunk_id: 000094
+    chapter_title: 第二卷 修真血影 第094章 尸阴宗（三）
+    quote: 青年扫了对方一眼，冷淡道：“右首十八洞，去吧。”
+    span:
+    - 222
+    - 248
+- from: 师兄弟
+  to: 孙长老
+  type: 敌对
+  status: 不确定
+  confidence: 0.58
+  notes: 存在嘲讽对立但未到明确敌对
+  first_seen_chunk: 000018
+  evidence:
+  - chunk_id: 000018
+    chapter_title: 第一卷 平庸少年 第017章 修仙
+    quote: 没少挨旁边师兄弟的讽刺
+    span:
+    - 66
+    - 79
+- from: 师叔
+  to: 掌门
+  type: 同盟
+  status: 稳定
+  confidence: 0.66
+  notes: 共同商议门派事务
+  first_seen_chunk: 000029
+  evidence:
+  - chunk_id: 000029
+    chapter_title: 第一卷 平庸少年 第028章 杂务
+    quote: 掌门和几个师叔商议后
+    span:
+    - 366
+    - 376
+- from: 师祖
+  to: 恒岳派
+  type: 其他
+  status: 结束
+  confidence: 0.62
+  notes: 对门派贡献与遗言交代（门派未具名但为本门）
+  first_seen_chunk: '000040'
+  evidence:
+  - chunk_id: '000040'
+    chapter_title: 第一卷 平庸少年 第039章 巨富
+    quote: 师祖一生对门派有大贡献，临终前唯一的遗言就是把此剑存放剑灵阁
+    span:
+    - 1320
+    - 1361
+- from: 干尸般的男子
+  to: 主人
+  type: 敌对
+  status: 变化中
+  confidence: 0.84
+  notes: 意图吞噬其元婴
+  first_seen_chunk: 000087
+  evidence:
+  - chunk_id: 000087
+    chapter_title: 第二卷 修真血影 第091章 极阴灵力
+    quote: 帮我寻找到他的元婴...我吞下元婴后获得自由
+    span:
+    - 1138
+    - 1166
+- from: 干尸般的男子
+  to: 尸魅
+  type: 交易
+  status: 变化中
+  confidence: 0.88
+  notes: 以进化承诺换取带路
+  first_seen_chunk: 000087
+  evidence:
+  - chunk_id: 000087
+    chapter_title: 第二卷 修真血影 第091章 极阴灵力
+    quote: 如果你能找到主人的元婴...可以考虑帮你进化成尸魔
+    span:
+    - 1286
+    - 1316
+- from: 干尸般的男子
+  to: 尸魅
+  type: 利用
+  status: 变化中
+  confidence: 0.9
+  notes: 以不杀为条件驱使其寻元婴
+  first_seen_chunk: 000087
+  evidence:
+  - chunk_id: 000087
+    chapter_title: 第二卷 修真血影 第091章 极阴灵力
+    quote: 我可以不杀你，不过你要...帮我寻找到他的元婴
+    span:
+    - 1120
+    - 1148
+- from: 干尸般的男子
+  to: 藤化元
+  type: 敌对
+  status: 稳定
+  confidence: 0.86
+  notes: 出手追击并重创对方
+  first_seen_chunk: 000087
+  evidence:
+  - chunk_id: 000087
+    chapter_title: 第二卷 修真血影 第091章 极阴灵力
+    quote: 对方的修为居然是元婴中期...化作一只大手，抓向藤化元
+    span:
+    - 246
+    - 282
+- from: 干瘦老者
+  to: 朴南子
+  type: 其他
+  status: 不确定
+  confidence: 0.45
+  notes: 向众人发出邀请，具体对象未点名
+  first_seen_chunk: '000102'
+  evidence:
+  - chunk_id: '000102'
+    chapter_title: 第二卷 修真血影 第098章 域外战场之序
+    quote: 天道门的干瘦老者…对这余下众人说道：“诸位道友，去老夫那里坐坐如何？”
+    span:
+    - 502
+    - 555
+- from: 干瘦老者
+  to: 白发道人
+  type: 其他
+  status: 不确定
+  confidence: 0.45
+  notes: 向众人发出邀请，具体对象未点名
+  first_seen_chunk: '000102'
+  evidence:
+  - chunk_id: '000102'
+    chapter_title: 第二卷 修真血影 第098章 域外战场之序
+    quote: 天道门的干瘦老者…对这余下众人说道：“诸位道友，去老夫那里坐坐如何？”
+    span:
+    - 502
+    - 555
+- from: 张姓青年
+  to: 王卓
+  type: 其他
+  status: 稳定
+  confidence: 0.7
+  notes: 接引入门关系
+  first_seen_chunk: 000028
+  evidence:
+  - chunk_id: 000028
+    chapter_title: 第一卷 平庸少年 第027章 来访
+    quote: 把他与王卓、王浩三人接到恒岳派的张姓青年
+    span:
+    - 2504
+    - 2526
+- from: 张姓青年
+  to: 王林
+  type: 上下级
+  status: 稳定
+  confidence: 0.78
+  notes: 以师弟相称并命令见面，体现上位同门
+  first_seen_chunk: 000028
+  evidence:
+  - chunk_id: 000028
+    chapter_title: 第一卷 平庸少年 第027章 来访
+    quote: “王师弟，出来见我！”一个冰冷的声音，从门外传来。
+    span:
+    - 2272
+    - 2302
+- from: 张姓青年
+  to: 王林
+  type: 其他
+  status: 稳定
+  confidence: 0.8
+  notes: 曾负责接引入门
+  first_seen_chunk: 000028
+  evidence:
+  - chunk_id: 000028
+    chapter_title: 第一卷 平庸少年 第027章 来访
+    quote: 正是当日把他与王卓、王浩三人接到恒岳派的张姓青年
+    span:
+    - 2498
+    - 2526
+- from: 张姓青年
+  to: 王林父亲
+  type: 其他
+  status: 结束
+  confidence: 0.68
+  notes: 共同寻找王林的临时协作
+  first_seen_chunk: 000028
+  evidence:
+  - chunk_id: 000028
+    chapter_title: 第一卷 平庸少年 第027章 来访
+    quote: 也正是此人带着王林父亲在悬崖底寻找到他
+    span:
+    - 2538
+    - 2562
+- from: 张姓青年
+  to: 王浩
+  type: 其他
+  status: 稳定
+  confidence: 0.7
+  notes: 接引入门关系
+  first_seen_chunk: 000028
+  evidence:
+  - chunk_id: 000028
+    chapter_title: 第一卷 平庸少年 第027章 来访
+    quote: 把他与王卓、王浩三人接到恒岳派的张姓青年
+    span:
+    - 2504
+    - 2526
+- from: 张师兄
+  to: 孙浩
+  type: 上下级
+  status: 稳定
+  confidence: 0.74
+  notes: 出面训斥，具管束地位
+  first_seen_chunk: '000037'
+  evidence:
+  - chunk_id: '000037'
+    chapter_title: 第一卷 平庸少年 第036章 是非
+    quote: 王卓，孙浩，你二人不去修炼...很有意思么？
+    span:
+    - 1949
+    - 1980
+- from: 张师兄
+  to: 王卓
+  type: 上下级
+  status: 稳定
+  confidence: 0.74
+  notes: 出面训斥，具管束地位
+  first_seen_chunk: '000037'
+  evidence:
+  - chunk_id: '000037'
+    chapter_title: 第一卷 平庸少年 第036章 是非
+    quote: 王卓，孙浩，你二人不去修炼...很有意思么？
+    span:
+    - 1949
+    - 1980
+- from: 张师兄
+  to: 王林
+  type: 上下级/其他
+  status: 稳定
+  confidence: 0.84
+  notes: 张师兄传达安排并指派王林去杂务处
+  first_seen_chunk: 000029
+  evidence:
+  - chunk_id: 000029
+    chapter_title: 第一卷 平庸少年 第028章 杂务
+    quote: 你收拾一下今天就过去吧，杂务处现在很乱，你去后要好好整顿一番。
+    span:
+    - 510
+    - 545
+- from: 张师兄
+  to: 王林
+  type: 其他
+  status: 稳定
+  confidence: 0.78
+  notes: 劝诫指点，非明确师徒
+  first_seen_chunk: '000037'
+  evidence:
+  - chunk_id: '000037'
+    chapter_title: 第一卷 平庸少年 第036章 是非
+    quote: 王林，你的确不该来这里，不过既然来了，就安心修炼
+    span:
+    - 2143
+    - 2171
+  - chunk_id: 000038
+    chapter_title: 第一卷 平庸少年 第037章 四年
+    quote: 王林露出惆怅之色，忽然问道：“张师兄
+    span:
+    - 160
+    - 184
+- from: 张狂
+  to: 孙长老
+  type: 其他
+  status: 稳定
+  confidence: 0.72
+  notes: 同门长幼称谓关系（师叔）
+  first_seen_chunk: 000038
+  evidence:
+  - chunk_id: 000038
+    chapter_title: 第一卷 平庸少年 第037章 四年
+    quote: 孙师叔知道此事，倒也正常
+    span:
+    - 1121
+    - 1134
+- from: 张狂
+  to: 王林
+  type: 上下级
+  status: 稳定
+  confidence: 0.9
+  notes: 张狂为二师兄，王林为师弟辈
+  first_seen_chunk: '000036'
+  evidence:
+  - chunk_id: '000036'
+    chapter_title: 第一卷 平庸少年 第035章 后山
+    quote: 这紫衣青年，王林认得，正是换了他灵气泉水的二师兄张狂
+    span:
+    - 1561
+    - 1594
+  - chunk_id: 000038
+    chapter_title: 第一卷 平庸少年 第037章 四年
+    quote: 二师兄张狂如幽灵般站在他身后不远处
+    span:
+    - 846
+    - 865
+- from: 张狂
+  to: 王林
+  type: 交易
+  status: 结束
+  confidence: 0.82
+  notes: 提及曾交换灵气泉水
+  first_seen_chunk: '000036'
+  evidence:
+  - chunk_id: '000036'
+    chapter_title: 第一卷 平庸少年 第035章 后山
+    quote: 正是换了他灵气泉水的二师兄张狂
+    span:
+    - 1573
+    - 1594
+- from: 张狂
+  to: 王林
+  type: 其他
+  status: 变化中
+  confidence: 0.84
+  notes: 出手相助送至洞口
+  first_seen_chunk: '000036'
+  evidence:
+  - chunk_id: '000036'
+    chapter_title: 第一卷 平庸少年 第035章 后山
+    quote: 我送你一程！张狂袖子一甩...带着他来到一处洞穴口
+    span:
+    - 2320
+    - 2354
+- from: 张狂
+  to: 王林
+  type: 利用
+  status: 结束
+  confidence: 0.77
+  notes: 言语使王林陷危机，疑为算计
+  first_seen_chunk: '000036'
+  evidence:
+  - chunk_id: '000036'
+    chapter_title: 第一卷 平庸少年 第035章 后山
+    quote: 三言两语就让他当日陷入危机之中
+    span:
+    - 1669
+    - 1686
+- from: 张虎
+  to: 刘师兄
+  type: 敌对
+  status: 结束
+  confidence: 0.92
+  notes: 冲突升级为杀害，对立终结
+  first_seen_chunk: '000027'
+  evidence:
+  - chunk_id: '000027'
+    chapter_title: 第一卷 平庸少年 第026章 歹意
+    quote: 张虎抬起斧子对着刘师兄的脑袋砸了下去...便不动了
+    span:
+    - 1449
+    - 1490
+- from: 张虎
+  to: 张虎师傅
+  type: 师徒
+  status: 不确定
+  confidence: 0.66
+  notes: 称其师傅，强暗示师徒关系
+  first_seen_chunk: '000067'
+  evidence:
+  - chunk_id: '000067'
+    chapter_title: 第二卷 修真血影 第080章 血炼之法
+    quote: 张虎一怔，失声道：“这……这是我师傅的那把飞剑？
+    span:
+    - 1501
+    - 1534
+- from: 张虎
+  to: 王林
+  type: 交易
+  status: 变化中
+  confidence: 0.86
+  notes: 向王林索要食物，形成互惠/求助
+  first_seen_chunk: '000012'
+  evidence:
+  - chunk_id: '000012'
+    chapter_title: 第一卷 平庸少年 第011章 张虎
+    quote: 张虎犹豫半天，吞吞吐吐的讨要了两块甘薯
+    span:
+    - 1668
+    - 1692
+  - chunk_id: '000066'
+    chapter_title: 第二卷 修真血影 第079章 祭炼飞剑
+    quote: “那根五百年的人参，可以卖出个好价格，到时候咱俩一人一半。”
+    span:
+    - 1814
+    - 1854
+- from: 张虎
+  to: 王林
+  type: 交易
+  status: 稳定
+  confidence: 0.84
+  notes: 张虎将仙符交给王林
+  first_seen_chunk: '000027'
+  evidence:
+  - chunk_id: '000027'
+    chapter_title: 第一卷 平庸少年 第026章 歹意
+    quote: 至于这引起祸根的仙符...你拿着吧！说完，他把那张黄纸递给王林
+    span:
+    - 1954
+    - 2000
+- from: 张虎
+  to: 王林
+  type: 亲友
+  status: 稳定
+  confidence: 0.72
+  notes: 相互邀约同行并交流修炼情况
+  first_seen_chunk: '000067'
+  evidence:
+  - chunk_id: '000067'
+    chapter_title: 第二卷 修真血影 第080章 血炼之法
+    quote: “王林，要不要和我一同去藤家城的器具店？”
+    span:
+    - 431
+    - 458
+- from: 张虎
+  to: 黄衣青年
+  type: 敌对
+  status: 稳定
+  confidence: 0.74
+  notes: 私下贬称并咬牙切齿，明显厌恶
+  first_seen_chunk: '000012'
+  evidence:
+  - chunk_id: '000012'
+    chapter_title: 第一卷 平庸少年 第011章 张虎
+    quote: 身穿黄衣，长的一看就不是啥好人，跟个狼崽子似的，我们私底下都这么叫他。
+    span:
+    - 140
+    - 179
+- from: 张虎师父
+  to: 王林
+  type: 其他
+  status: 结束
+  confidence: 0.6
+  notes: 飞剑转到王林手中，原主关系已断
+  first_seen_chunk: '000066'
+  evidence:
+  - chunk_id: '000066'
+    chapter_title: 第二卷 修真血影 第079章 祭炼飞剑
+    quote: 拿出得自张虎师父的飞剑与剑鞘
+    span:
+    - 1900
+    - 1916
+- from: 徐姓女子
+  to: 小师弟
+  type: 上下级
+  status: 稳定
+  confidence: 0.84
+  notes: 称呼小师弟，体现同门序列关系
+  first_seen_chunk: 000058
+  evidence:
+  - chunk_id: 000058
+    chapter_title: 第一卷 平庸少年 第071章 四年
+    quote: 徐姓女子展颜一笑，说道：“小师弟，你不是非要跟来么”
+    span:
+    - 1046
+    - 1073
+- from: 徐姓女子
+  to: 李山
+  type: 其他
+  status: 不确定
+  confidence: 0.55
+  notes: 小师弟请求其出面，是否已对立未明
+  first_seen_chunk: 000058
+  evidence:
+  - chunk_id: 000058
+    chapter_title: 第一卷 平庸少年 第071章 四年
+    quote: 以后那李山要是再欺负我，你可得帮我啊。
+    span:
+    - 1358
+    - 1381
+- from: 徐姓女子
+  to: 王卓
+  type: 情感
+  status: 结束
+  confidence: 0.8
+  notes: 明确写出曾暗恋，时间在四年前
+  first_seen_chunk: 000058
+  evidence:
+  - chunk_id: 000058
+    chapter_title: 第一卷 平庸少年 第071章 四年
+    quote: 她正是四年前暗恋王卓的徐姓女孩
+    span:
+    - 792
+    - 810
+- from: 徐飞
+  to: 司徒南
+  type: 其他
+  status: 不确定
+  confidence: 0.68
+  notes: 同样以晚辈自称并恭敬对话
+  first_seen_chunk: 000059
+  evidence:
+  - chunk_id: 000059
+    chapter_title: 第二卷 修真血影 第072章 夺基大法
+    quote: 晚辈玄道宗弟子徐飞。
+    span:
+    - 669
+    - 684
+- from: 徐飞
+  to: 孙长老
+  type: 师徒
+  status: 不确定
+  confidence: 0.55
+  notes: 同门同行，可能同一师父但未明说
+  first_seen_chunk: 000059
+  evidence:
+  - chunk_id: 000059
+    chapter_title: 第二卷 修真血影 第072章 夺基大法
+    quote: 日后师父那里定会追究
+    span:
+    - 1060
+    - 1072
+- from: 徐飞
+  to: 小师弟
+  type: 上下级/其他
+  status: 稳定
+  confidence: 0.62
+  notes: 同门同行，少年依靠其身后
+  first_seen_chunk: 000059
+  evidence:
+  - chunk_id: 000059
+    chapter_title: 第二卷 修真血影 第072章 夺基大法
+    quote: 少年此时吓的面无血色，站在少女身后紧紧抓着她衣衫
+    span:
+    - 785
+    - 815
+- from: 怪人
+  to: 王林
+  type: 其他
+  status: 变化中
+  confidence: 0.74
+  notes: 感知异变后朝其方向赶去，意图未明
+  first_seen_chunk: 000085
+  evidence:
+  - chunk_id: 000085
+    chapter_title: 第二卷 修真血影 第090章 初露迹象
+    quote: 突然把头一转，盯着王林所在的方向，目露骇怵之色...向王林那里纵去
+    span:
+    - 1324
+    - 1370
+- from: 怪人
+  to: 王林
+  type: 其他
+  status: 不确定
+  confidence: 0.78
+  notes: 关注王林但动机未明
+  first_seen_chunk: 000087
+  evidence:
+  - chunk_id: 000087
+    chapter_title: 第二卷 修真血影 第091章 极阴灵力
+    quote: 蓝皮肤的怪人，遥望王林所在的方向，目中露出踌躇之色
+    span:
+    - 1438
+    - 1468
+- from: 恒岳派弟子
+  to: 李山
+  type: 交易
+  status: 稳定
+  confidence: 0.82
+  notes: 多名内门弟子与其交换物品
+  first_seen_chunk: '000046'
+  evidence:
+  - chunk_id: '000046'
+    chapter_title: 第一卷 平庸少年 第045章 下贱
+    quote: 又走出几个内门弟子，与李山交头接耳，换了一些
+    span:
+    - 481
+    - 508
+- from: 恒岳派弟子
+  to: 踩空的少年
+  type: 其他
+  status: 结束
+  confidence: 0.78
+  notes: 恒岳派弟子出手救下坠落者
+  first_seen_chunk: '000005'
+  evidence:
+  - chunk_id: '000005'
+    chapter_title: 第一卷 平庸少年 第004章 无情
+    quote: 一个恒岳派弟子...抓住身处半空的少年
+    span:
+    - 372
+    - 397
+- from: 掌门
+  to: 张姓青年
+  type: 上下级
+  status: 稳定
+  confidence: 0.82
+  notes: 掌门安排其职责，明确上下级
+  first_seen_chunk: 000028
+  evidence:
+  - chunk_id: 000028
+    chapter_title: 第一卷 平庸少年 第027章 来访
+    quote: 掌门怕影响了修炼，于是安排他代为测试
+    span:
+    - 2740
+    - 2758
+- from: 掌门
+  to: 王林
+  type: 上下级
+  status: 稳定
+  confidence: 0.76
+  notes: 掌门公布其为内门弟子，体现门派上下级
+  first_seen_chunk: 000019
+  evidence:
+  - chunk_id: 000019
+    chapter_title: 第一卷 平庸少年 第018章 葫芦
+    quote: 昨天掌门公布新收的内门弟子原来是他！
+    span:
+    - 118
+    - 140
+  - chunk_id: 000038
+    chapter_title: 第一卷 平庸少年 第037章 四年
+    quote: 掌门师伯在门派大殿施法，传你们回去
+    span:
+    - 2190
+    - 2210
+  - chunk_id: 000039
+    chapter_title: 第一卷 平庸少年 第038章 光斑
+    quote: 掌门师伯...点头说道：“...其余人散去吧，各自寻你们师父汇报...”
+    span:
+    - 720
+    - 780
+- from: 掌门
+  to: 王林
+  type: 上下级/其他
+  status: 稳定
+  confidence: 0.72
+  notes: 门派高层决策导致王林被安排接管杂务处
+  first_seen_chunk: 000029
+  evidence:
+  - chunk_id: 000029
+    chapter_title: 第一卷 平庸少年 第028章 杂务
+    quote: 掌门和几个师叔商议后，认为杂务处不应该把持在记名弟子手中，要安排一个内门弟子去那里负责
+    span:
+    - 366
+    - 419
+- from: 掌门
+  to: 红脸老者
+  type: 上下级
+  status: 稳定
+  confidence: 0.76
+  notes: 红脸老者位于掌门身边，语境为随从/同列
+  first_seen_chunk: '000040'
+  evidence:
+  - chunk_id: '000040'
+    chapter_title: 第一卷 平庸少年 第039章 巨富
+    quote: 掌门身边的红脸老者，不满的喝道
+    span:
+    - 1908
+    - 1927
+- from: 掌门师兄
+  to: 孙长老
+  type: 上下级
+  status: 稳定
+  confidence: 0.78
+  notes: 掌门称其师弟且发号施令
+  first_seen_chunk: '000036'
+  evidence:
+  - chunk_id: '000036'
+    chapter_title: 第一卷 平庸少年 第035章 后山
+    quote: 淡然道：“孙师弟，这就是你的弟子？”
+    span:
+    - 206
+    - 228
+- from: 无锋谷筑基初期弟子
+  to: 藤化元
+  type: 上下级
+  status: 结束
+  confidence: 0.86
+  notes: 称其始祖并跪拜汇报
+  first_seen_chunk: 000128
+  evidence:
+  - chunk_id: 000128
+    chapter_title: 第二卷 修真血影 第115章
+    quote: 跑到藤化元与黑脸老者的面前，噗通一声跪在地上，声音充满了恐惧，说道：“始祖，他们都死了”
+    span:
+    - 167
+    - 222
+- from: 无锋谷青年
+  to: 李山
+  type: 敌对
+  status: 稳定
+  confidence: 0.86
+  notes: 直接威胁逼交令牌
+  first_seen_chunk: '000121'
+  evidence:
+  - chunk_id: '000121'
+    chapter_title: 第二卷 修真血影 第108章 故人
+    quote: 无锋谷众弟子中，一青年…说道：“李山，交出令牌，否则你死定了。”
+    span:
+    - 145
+    - 186
+- from: 无锋谷领头老者
+  to: 王林
+  type: 敌对
+  status: 结束
+  confidence: 0.93
+  notes: 索要令牌并出言驱逐，随后交战
+  first_seen_chunk: '000122'
+  evidence:
+  - chunk_id: '000122'
+    chapter_title: 第二卷 修真血影 第109章
+    quote: 他盯着王林，冷笑道：“小娃娃，老夫要谢谢你帮我弄齐了令牌，留下令牌，你可以滚了。”
+    span:
+    - 530
+    - 585
+- from: 木冗
+  to: 夜始祖
+  type: 上下级
+  status: 稳定
+  confidence: 0.84
+  notes: 木冗可联络夜始祖，属下级
+  first_seen_chunk: 000095
+  evidence:
+  - chunk_id: 000095
+    chapter_title: 第二卷 修真血影 第095章 进宗
+    quote: 木冗略一沉吟，说道：“王兄稍等，我这就联系夜始祖。”
+    span:
+    - 2445
+    - 2475
+- from: 木冗
+  to: 夜自在始祖
+  type: 上下级
+  status: 稳定
+  confidence: 0.8
+  notes: 主动联系并恭敬对待始祖
+  first_seen_chunk: 000096
+  evidence:
+  - chunk_id: 000096
+    chapter_title: 第二卷 修真血影 第095章 进宗
+    quote: “王兄稍等，我这就联系夜始祖。”
+    span:
+    - 86
+    - 106
+- from: 木冗
+  to: 师祖
+  type: 上下级
+  status: 不确定
+  confidence: 0.55
+  notes: 以“师祖”称呼并劝回，呈现尊卑但对象未明
+  first_seen_chunk: '000103'
+  evidence:
+  - chunk_id: '000103'
+    chapter_title: 第二卷 修真血影 第099章 石珠变化
+    quote: 木冗...开口说道：“师祖请回...师祖不要让我难做。”
+    span:
+    - 2040
+    - 2088
+- from: 木冗
+  to: 玄道宗始祖
+  type: 上下级
+  status: 稳定
+  confidence: 0.8
+  notes: 木冗执行始祖嘱咐的禁令
+  first_seen_chunk: '000103'
+  evidence:
+  - chunk_id: '000103'
+    chapter_title: 第二卷 修真血影 第099章 石珠变化
+    quote: 始祖离开前，特意嘱咐过，任何人等不得擅自离开各自溶洞
+    span:
+    - 2089
+    - 2123
+- from: 木冗
+  to: 王林
+  type: 上下级
+  status: 变化中
+  confidence: 0.9
+  notes: 木冗以晚辈自居并护送王林
+  first_seen_chunk: 000095
+  evidence:
+  - chunk_id: 000095
+    chapter_title: 第二卷 修真血影 第095章 进宗
+    quote: 原来是师叔归宗，晚辈木冗...木冗...喝道：“...王师叔由我送到夜始祖那里。”
+    span:
+    - 2006
+    - 2145
+- from: 木冗
+  to: 王林
+  type: 上下级
+  status: 不确定
+  confidence: 0.7
+  notes: 称王林为师祖并引路
+  first_seen_chunk: '000107'
+  evidence:
+  - chunk_id: '000107'
+    chapter_title: 第二卷 修真血影 第101章 魂魄玉简
+    quote: 木冗...高声说道：“师祖，始祖召集筑基期弟子去三十六洞集合，我前来为您引路。”
+    span:
+    - 1246
+    - 1313
+- from: 木冗
+  to: 王林
+  type: 其他
+  status: 稳定
+  confidence: 0.74
+  notes: 以“王兄”相称并接待
+  first_seen_chunk: 000096
+  evidence:
+  - chunk_id: 000096
+    chapter_title: 第二卷 修真血影 第095章 进宗
+    quote: 他不断地打量王林...木冗略一沉吟，说道：“王兄稍等”
+    span:
+    - 33
+    - 71
+  - chunk_id: '000103'
+    chapter_title: 第二卷 修真血影 第099章 石珠变化
+    quote: 只见木冗...盯着王林...任何人等不得擅自离开各自溶洞
+    span:
+    - 2016
+    - 2123
+- from: 朴南子
+  to: 刘文举
+  type: 敌对
+  status: 稳定
+  confidence: 0.86
+  notes: 攻阵逼迫开阵，双方对立
+  first_seen_chunk: '000055'
+  evidence:
+  - chunk_id: '000055'
+    chapter_title: 第一卷 平庸少年 第063章 强势
+    quote: 朴南子哼了一声，冷言道：“刘文举...你若自行打开”
+    span:
+    - 820
+    - 878
+- from: 朴南子
+  to: 恒岳派
+  type: 敌对
+  status: 变化中
+  confidence: 0.86
+  notes: 以强势姿态逼迫恒岳派退让
+  first_seen_chunk: '000054'
+  evidence:
+  - chunk_id: '000054'
+    chapter_title: 第一卷 平庸少年 第062章 劫来
+    quote: 老夫玄道宗朴南子，恒岳派的小辈，既然已输，速速离开此地。
+    span:
+    - 666
+    - 701
+- from: 朴南子
+  to: 李山
+  type: 上下级/其他
+  status: 稳定
+  confidence: 0.78
+  notes: 给予进入资格与法宝，像长辈/上级
+  first_seen_chunk: '000121'
+  evidence:
+  - chunk_id: '000121'
+    chapter_title: 第二卷 修真血影 第108章 故人
+    quote: 有这个本事在身，朴南子破例让他进入，同时给了他一样…法宝
+    span:
+    - 507
+    - 542
+- from: 朴南子
+  to: 柳眉
+  type: 上下级
+  status: 稳定
+  confidence: 0.78
+  notes: 始祖出手相助筑基，体现上位者关系
+  first_seen_chunk: '000123'
+  evidence:
+  - chunk_id: '000123'
+    chapter_title: 第二卷 修真血影 第110章 柳眉
+    quote: 她是朴南子始祖亲自施法帮助筑基的。
+    span:
+    - 343
+    - 361
+- from: 朴南子
+  to: 欧阳师侄
+  type: 上下级
+  status: 稳定
+  confidence: 0.72
+  notes: 称师侄，体现师门辈分关系
+  first_seen_chunk: '000055'
+  evidence:
+  - chunk_id: '000055'
+    chapter_title: 第一卷 平庸少年 第063章 强势
+    quote: 这把剑，我欧阳师侄看中了。
+    span:
+    - 1998
+    - 2010
+- from: 朴南子
+  to: 白发道人
+  type: 同盟
+  status: 不确定
+  confidence: 0.6
+  notes: 同行同向，暗示结伴但未明说
+  first_seen_chunk: '000102'
+  evidence:
+  - chunk_id: '000102'
+    chapter_title: 第二卷 修真血影 第098章 域外战场之序
+    quote: 以朴南子与飘渺宗白发道人为首，走的都是同一个方向。
+    span:
+    - 468
+    - 500
+- from: 朴南子
+  to: 老妇人
+  type: 敌对
+  status: 变化中
+  confidence: 0.72
+  notes: 与恒岳派高层对立并攻击大阵
+  first_seen_chunk: '000054'
+  evidence:
+  - chunk_id: '000054'
+    chapter_title: 第一卷 平庸少年 第062章 劫来
+    quote: 且待老夫破去后，再与你等小辈面谈。
+    span:
+    - 1010
+    - 1030
+- from: 朴南子
+  to: 老妇人
+  type: 敌对
+  status: 稳定
+  confidence: 0.86
+  notes: 强夺山门并威胁，敌对关系
+  first_seen_chunk: '000055'
+  evidence:
+  - chunk_id: '000055'
+    chapter_title: 第一卷 平庸少年 第063章 强势
+    quote: 他落下后...对刘文举与结丹期老妇人说道：“你恒岳派...不如给我玄道宗。”
+    span:
+    - 1508
+    - 1578
+- from: 朴南子
+  to: 鹤发童颜的老者
+  type: 敌对
+  status: 变化中
+  confidence: 0.77
+  notes: 对其称小辈并将破阵相逼
+  first_seen_chunk: '000054'
+  evidence:
+  - chunk_id: '000054'
+    chapter_title: 第一卷 平庸少年 第062章 劫来
+    quote: 且待老夫破去后，再与你等小辈面谈。
+    span:
+    - 1010
+    - 1030
+- from: 朴南子
+  to: 黄龙真人
+  type: 交易
+  status: 结束
+  confidence: 0.84
+  notes: 强制索取法宝，黄龙交出
+  first_seen_chunk: '000055'
+  evidence:
+  - chunk_id: '000055'
+    chapter_title: 第一卷 平庸少年 第063章 强势
+    quote: 朴南子目光一扫，落在黄龙身上，说道：“你，把紫岳仙剑留下”
+    span:
+    - 1960
+    - 2003
+- from: 李山
+  to: 孙浩
+  type: 交易
+  status: 变化中
+  confidence: 0.84
+  notes: 孙浩询价试验，存在购买意向
+  first_seen_chunk: '000045'
+  evidence:
+  - chunk_id: '000045'
+    chapter_title: 第一卷 平庸少年 第044章 李山
+    quote: 有一人说道：“这玩意真有你说的那么神奇？...若真是如此，我便买几个玩玩。”
+    span:
+    - 1014
+    - 1063
+- from: 李山
+  to: 恒岳派弟子
+  type: 利用
+  status: 变化中
+  confidence: 0.86
+  notes: 以交易为名设局控制他人使用
+  first_seen_chunk: '000046'
+  evidence:
+  - chunk_id: '000046'
+    chapter_title: 第一卷 平庸少年 第045章 下贱
+    quote: 一帮傻X…这霹雳弹，可是完全受我控制…太期待三天后的比试了
+    span:
+    - 820
+    - 875
+- from: 李山
+  to: 玄道宗某弟子
+  type: 其他
+  status: 变化中
+  confidence: 0.62
+  notes: 同门当众拆穿其赝品，关系尴尬
+  first_seen_chunk: '000044'
+  evidence:
+  - chunk_id: '000044'
+    chapter_title: 第一卷 平庸少年 第043章 故友
+    quote: 其中一人实在看不下去...不得不说，李山师弟手里的这把，是赝品
+    span:
+    - 1898
+    - 1942
+- from: 李山
+  to: 王林
+  type: 上下级
+  status: 变化中
+  confidence: 0.78
+  notes: 态度转为尊敬，呈从属/敬服
+  first_seen_chunk: '000122'
+  evidence:
+  - chunk_id: '000122'
+    chapter_title: 第二卷 修真血影 第109章
+    quote: 但看向王林的目光，却变得尊敬起来。
+    span:
+    - 2052
+    - 2072
+- from: 李山
+  to: 王林
+  type: 交易
+  status: 变化中
+  confidence: 0.72
+  notes: 将王林视为潜在大主顾推销
+  first_seen_chunk: '000045'
+  evidence:
+  - chunk_id: '000045'
+    chapter_title: 第一卷 平庸少年 第044章 李山
+    quote: 现在一看到王林，李山立刻心花怒放，继续说道：“尤其是一些修为低的师弟，这霹雳弹对你们来说”
+    span:
+    - 530
+    - 596
+- from: 李山
+  to: 王林
+  type: 利用
+  status: 稳定
+  confidence: 0.86
+  notes: 看低王林并意图榨取钱财
+  first_seen_chunk: '000045'
+  evidence:
+  - chunk_id: '000045'
+    chapter_title: 第一卷 平庸少年 第044章 李山
+    quote: 他认得对方是恒岳派的废物，这种废物在他眼里看来，那可是舍得倾家荡产拼一次的大主顾
+    span:
+    - 487
+    - 529
+- from: 李山
+  to: 王林
+  type: 敌对
+  status: 变化中
+  confidence: 0.84
+  notes: 李山内心计划日后害王林
+  first_seen_chunk: '000046'
+  evidence:
+  - chunk_id: '000046'
+    chapter_title: 第一卷 平庸少年 第045章 下贱
+    quote: 只要你身上拿着霹雳弹…也寻个机会让你感受一下什么叫不同凡响
+    span:
+    - 1358
+    - 1404
+- from: 李山
+  to: 赵姓弟子
+  type: 交易
+  status: 结束
+  confidence: 0.9
+  notes: 明确完成物品交换交易
+  first_seen_chunk: '000044'
+  evidence:
+  - chunk_id: '000044'
+    chapter_title: 第一卷 平庸少年 第043章 故友
+    quote: 赵姓弟子与李山低声交谈半天...最后二人...达成了交易。
+    span:
+    - 2102
+    - 2135
+- from: 杨森
+  to: 王林
+  type: 亲友
+  status: 变化中
+  confidence: 0.82
+  notes: 相处融洽，主动拉近关系
+  first_seen_chunk: '000061'
+  evidence:
+  - chunk_id: '000061'
+    chapter_title: 第二卷 修真血影 第074章 血光之灾
+    quote: 王林一下马车，便被杨森拉到一旁的火堆处...感觉与王林颇对胃口
+    span:
+    - 1038
+    - 1086
+- from: 杨森
+  to: 黑脸汉子
+  type: 亲友
+  status: 稳定
+  confidence: 0.58
+  notes: 同队闲聊互动
+  first_seen_chunk: '000060'
+  evidence:
+  - chunk_id: '000060'
+    chapter_title: 第二卷 修真血影 第073章 天水城
+    quote: 杨森旁边的一个黑脸汉子，此时也凑过来笑道。
+    span:
+    - 1412
+    - 1436
+- from: 林奕
+  to: 王林
+  type: 其他
+  status: 不确定
+  confidence: 0.7
+  notes: 对其来历感兴趣并判断其有背景
+  first_seen_chunk: 000128
+  evidence:
+  - chunk_id: 000128
+    chapter_title: 第二卷 修真血影 第115章
+    quote: 林奕...心底暗道：“这是谁家的小家伙到我的地盘来玩了？持有...千幻变，想必来头不小。”
+    span:
+    - 1842
+    - 1911
+- from: 林奕
+  to: 藤化元
+  type: 其他
+  status: 稳定
+  confidence: 0.78
+  notes: 以言语施压并约束赵国修士
+  first_seen_chunk: 000128
+  evidence:
+  - chunk_id: 000128
+    chapter_title: 第二卷 修真血影 第115章
+    quote: 林奕此时忽然笑道：“好，赵国的修士，不要插手，我倒要看看，藤化元你敢不敢出手杀他。”
+    span:
+    - 1147
+    - 1210
+- from: 林弈
+  to: 巨木青年甲
+  type: 上下级
+  status: 不确定
+  confidence: 0.72
+  notes: 问询与恭敬应答呈上下级
+  first_seen_chunk: 000093
+  evidence:
+  - chunk_id: 000093
+    chapter_title: 第二卷 修真血影 第094章 尸阴宗（三）
+    quote: 青年...说道：“从何处来？”蓝衫少年连忙弯腰，恭敬道
+    span:
+    - 3566
+    - 3602
+- from: 林弈
+  to: 巨木青年甲
+  type: 上下级
+  status: 稳定
+  confidence: 0.73
+  notes: 以恭敬姿态应答，地位较低
+  first_seen_chunk: 000094
+  evidence:
+  - chunk_id: 000094
+    chapter_title: 第二卷 修真血影 第094章 尸阴宗（三）
+    quote: 蓝衫少年连忙弯腰，恭敬道：“二级修真国鲁国尸阴宗分支，林弈”
+    span:
+    - 132
+    - 179
+- from: 枯手之人
+  to: 枯手之人
+  type: 上下级
+  status: 不确定
+  confidence: 0.7
+  notes: 称呼“我的主人”但语气威胁，主从关系不明
+  first_seen_chunk: 000086
+  evidence:
+  - chunk_id: 000086
+    chapter_title: 第二卷 修真血影 第090章 初露迹象
+    quote: “百年期限又临，我的主人，上一次你抛掉肉身躲过，这次，你跑不掉了！”
+    span:
+    - 867
+    - 910
+- from: 枯手之人
+  to: 枯手之人
+  type: 敌对
+  status: 变化中
+  confidence: 0.74
+  notes: 明确威胁“跑不掉”，呈追杀/对立
+  first_seen_chunk: 000086
+  evidence:
+  - chunk_id: 000086
+    chapter_title: 第二卷 修真血影 第090章 初露迹象
+    quote: “百年期限又临，我的主人，上一次你抛掉肉身躲过，这次，你跑不掉了！”
+    span:
+    - 867
+    - 910
+- from: 柳三
+  to: 东家
+  type: 上下级
+  status: 稳定
+  confidence: 0.86
+  notes: 东家雇请/指派柳三出镖
+  first_seen_chunk: '000060'
+  evidence:
+  - chunk_id: '000060'
+    chapter_title: 第二卷 修真血影 第073章 天水城
+    quote: 镖局的东家都会他礼遇有佳...东家这才请他出马。
+    span:
+    - 1046
+    - 1080
+- from: 柳三
+  to: 东家
+  type: 上下级
+  status: 不确定
+  confidence: 0.62
+  notes: 提及东家安排接应，暗示受雇于东家
+  first_seen_chunk: '000061'
+  evidence:
+  - chunk_id: '000061'
+    chapter_title: 第二卷 修真血影 第074章 血光之灾
+    quote: 柳三在前面高声说道：“...到时候东家会派人来接应”
+    span:
+    - 760
+    - 792
+- from: 柳三
+  to: 杨森
+  type: 上下级
+  status: 稳定
+  confidence: 0.9
+  notes: 柳三指挥杨森执行任务
+  first_seen_chunk: '000060'
+  evidence:
+  - chunk_id: '000060'
+    chapter_title: 第二卷 修真血影 第073章 天水城
+    quote: 柳三...说道：“杨森，上去问问怎么回事”
+    span:
+    - 1566
+    - 1588
+- from: 柳三
+  to: 王林
+  type: 其他
+  status: 稳定
+  confidence: 0.78
+  notes: 柳三邀请王林同行，形成临时结伴
+  first_seen_chunk: '000061'
+  evidence:
+  - chunk_id: '000061'
+    chapter_title: 第二卷 修真血影 第074章 血光之灾
+    quote: 柳三神情略缓...笑道：“巧了，我们正要回天水城...跟我们一道走吧。”
+    span:
+    - 224
+    - 269
+- from: 柳三
+  to: 黑脸汉子
+  type: 上下级
+  status: 不确定
+  confidence: 0.55
+  notes: 同队成员称其大镖头
+  first_seen_chunk: '000060'
+  evidence:
+  - chunk_id: '000060'
+    chapter_title: 第二卷 修真血影 第073章 天水城
+    quote: “大镖头，这批货这么贵重...”杨森旁边的一个黑脸汉子
+    span:
+    - 1420
+    - 1450
+- from: 柳姓男子
+  to: 王林
+  type: 其他
+  status: 不确定
+  confidence: 0.7
+  notes: 出言提醒关照
+  first_seen_chunk: '000043'
+  evidence:
+  - chunk_id: '000043'
+    chapter_title: 第一卷 平庸少年 第042章 蜈毒
+    quote: 临走前扫了眼王林，温和说道：...你喂食之时要多加小心
+    span:
+    - 1127
+    - 1170
+- from: 柳眉
+  to: 柳风
+  type: 家族
+  status: 稳定
+  confidence: 0.99
+  notes: 明确兄妹关系
+  first_seen_chunk: '000123'
+  evidence:
+  - chunk_id: '000123'
+    chapter_title: 第二卷 修真血影 第110章 柳眉
+    quote: 这人正是柳眉的哥哥，柳风
+    span:
+    - 1240
+    - 1253
+- from: 柳风
+  to: 王林
+  type: 其他
+  status: 稳定
+  confidence: 0.72
+  notes: 以“师兄”相称，属同门/旧识称呼
+  first_seen_chunk: '000123'
+  evidence:
+  - chunk_id: '000123'
+    chapter_title: 第二卷 修真血影 第110章 柳眉
+    quote: 起身抱拳道：“王……师兄，许久未见……”
+    span:
+    - 1199
+    - 1223
+- from: 柳风
+  to: 赵龙
+  type: 其他
+  status: 变化中
+  confidence: 0.78
+  notes: 比试对手关系
+  first_seen_chunk: 000049
+  evidence:
+  - chunk_id: 000049
+    chapter_title: 第一卷 平庸少年 第048章 交流（二）
+    quote: 柳风站在石台上...道：“赵师兄...我只用五成修为。”
+    span:
+    - 252
+    - 292
+- from: 欧阳老者
+  to: 柳风
+  type: 上下级
+  status: 稳定
+  confidence: 0.72
+  notes: 以“弟子”对长辈复命
+  first_seen_chunk: 000049
+  evidence:
+  - chunk_id: 000049
+    chapter_title: 第一卷 平庸少年 第048章 交流（二）
+    quote: 柳风...跳下石台，对欧阳老者说道：“弟子幸不辱命”
+    span:
+    - 1706
+    - 1740
+- from: 欧阳老者
+  to: 玄道宗弟子
+  type: 上下级
+  status: 稳定
+  confidence: 0.7
+  notes: 对身后弟子讲解战术
+  first_seen_chunk: 000049
+  evidence:
+  - chunk_id: 000049
+    chapter_title: 第一卷 平庸少年 第048章 交流（二）
+    quote: 欧阳老者面带微笑，对身后弟子说道：“...你们以后遇到要记住”
+    span:
+    - 1180
+    - 1230
+- from: 母亲
+  to: 王林
+  type: 家族
+  status: 稳定
+  confidence: 0.86
+  notes: 母亲与王林亲子关系
+  first_seen_chunk: '000026'
+  evidence:
+  - chunk_id: '000026'
+    chapter_title: 第一卷 平庸少年 第025章 凝气
+    quote: 深夜读书时母亲关怀的话语
+    span:
+    - 1109
+    - 1124
+- from: 沙哑声音
+  to: 朴南子
+  type: 敌对
+  status: 不确定
+  confidence: 0.76
+  notes: 讨论是否能杀朴南子
+  first_seen_chunk: '000107'
+  evidence:
+  - chunk_id: '000107'
+    chapter_title: 第二卷 修真血影 第101章 魂魄玉简
+    quote: 夜自在...自语道：“那朴南子，你有没有把握干掉？”
+    span:
+    - 650
+    - 683
+- from: 父亲
+  to: 王林
+  type: 家族
+  status: 稳定
+  confidence: 0.86
+  notes: 父亲与王林亲子关系
+  first_seen_chunk: '000026'
+  evidence:
+  - chunk_id: '000026'
+    chapter_title: 第一卷 平庸少年 第025章 凝气
+    quote: 牙牙学语时父亲慈爱的目光
+    span:
+    - 1094
+    - 1108
+- from: 王先生
+  to: 刘老五
+  type: 其他
+  status: 稳定
+  confidence: 0.76
+  notes: 为其相面并给出劫数判断
+  first_seen_chunk: '000061'
+  evidence:
+  - chunk_id: '000061'
+    chapter_title: 第二卷 修真血影 第074章 血光之灾
+    quote: 中年书生...说道：“刘老五，你乌云盖住天庭，隐现血光之灾”
+    span:
+    - 2066
+    - 2100
+- from: 王先生
+  to: 杨森
+  type: 其他
+  status: 稳定
+  confidence: 0.76
+  notes: 相面判断其有血光之灾
+  first_seen_chunk: '000061'
+  evidence:
+  - chunk_id: '000061'
+    chapter_title: 第二卷 修真血影 第074章 血光之灾
+    quote: 中年书生目光一转，盯着杨森...说道：“怪了，怎么你也有血光之灾？”
+    span:
+    - 2215
+    - 2252
+- from: 王先生
+  to: 柳三
+  type: 上下级
+  status: 稳定
+  confidence: 0.7
+  notes: 同属威武镖局，柳三为大镖头更像领队
+  first_seen_chunk: '000061'
+  evidence:
+  - chunk_id: '000061'
+    chapter_title: 第二卷 修真血影 第074章 血光之灾
+    quote: 柳三笑道：“先生...这位是我们威武镖局的王先生”
+    span:
+    - 1230
+    - 1262
+- from: 王先生
+  to: 柳三
+  type: 其他
+  status: 变化中
+  confidence: 0.78
+  notes: 相面预警引发柳三警惕，关系进入紧张态势
+  first_seen_chunk: '000061'
+  evidence:
+  - chunk_id: '000061'
+    chapter_title: 第二卷 修真血影 第074章 血光之灾
+    quote: 说完，他又看了柳三一眼...说道：“不对劲...老柳，你也有血光之灾。”
+    span:
+    - 2253
+    - 2300
+- from: 王先生
+  to: 王林
+  type: 其他
+  status: 变化中
+  confidence: 0.86
+  notes: 对王林产生强烈惊骇反应，关系突变
+  first_seen_chunk: '000061'
+  evidence:
+  - chunk_id: '000061'
+    chapter_title: 第二卷 修真血影 第074章 血光之灾
+    quote: 眼神扫向王林...面色瞬变...喷出一口鲜血...指着王林失声道：“你……”
+    span:
+    - 2512
+    - 2568
+- from: 王卓
+  to: 周姓女子
+  type: 情感
+  status: 变化中
+  confidence: 0.93
+  notes: 明确写出王卓追求对方
+  first_seen_chunk: 000038
+  evidence:
+  - chunk_id: 000038
+    chapter_title: 第一卷 平庸少年 第037章 四年
+    quote: 正是王卓苦苦追求的周姓女子。
+    span:
+    - 306
+    - 320
+- from: 王卓
+  to: 周师姐
+  type: 其他
+  status: 稳定
+  confidence: 0.74
+  notes: 献花行为（追求举动）
+  first_seen_chunk: '000021'
+  evidence:
+  - chunk_id: '000021'
+    chapter_title: 第一卷 平庸少年 第020章 九云
+    quote: 连夜去山里给你采了这花，你看花瓣多漂亮
+    span:
+    - 1489
+    - 1510
+- from: 王卓
+  to: 周师姐
+  type: 情感
+  status: 变化中
+  confidence: 0.86
+  notes: 明确表达思念并献花示好
+  first_seen_chunk: '000021'
+  evidence:
+  - chunk_id: '000021'
+    chapter_title: 第一卷 平庸少年 第020章 九云
+    quote: 周师姐，师父让我闭关修炼三个月冲击凝气第一层，可我心里一直想着你
+    span:
+    - 1427
+    - 1464
+- from: 王卓
+  to: 柳师兄
+  type: 其他
+  status: 不确定
+  confidence: 0.62
+  notes: 以师兄相称并对话交流
+  first_seen_chunk: '000042'
+  evidence:
+  - chunk_id: '000042'
+    chapter_title: 第一卷 平庸少年 第041章 蜈蚣
+    quote: “没关系，柳师兄...你们是贵客...需要我们负责。”
+    span:
+    - 2224
+    - 2262
+- from: 王卓
+  to: 王卓师父
+  type: 师徒
+  status: 稳定
+  confidence: 0.88
+  notes: 明确提到王卓的师父
+  first_seen_chunk: '000032'
+  evidence:
+  - chunk_id: '000032'
+    chapter_title: 第一卷 平庸少年 第031章 雪水
+    quote: 还不是有个好师父，他师父不惜大本钱
+    span:
+    - 360
+    - 382
+- from: 王卓
+  to: 王师兄
+  type: 其他
+  status: 稳定
+  confidence: 0.55
+  notes: 对话中被称呼为王师兄
+  first_seen_chunk: '000021'
+  evidence:
+  - chunk_id: '000021'
+    chapter_title: 第一卷 平庸少年 第020章 九云
+    quote: 王师兄，我家世代中医，这花明明就是很普通的明日香
+    span:
+    - 1649
+    - 1674
+- from: 王卓
+  to: 王林
+  type: 利用
+  status: 变化中
+  confidence: 0.82
+  notes: 指派危险杂活给师弟暗含刁难
+  first_seen_chunk: '000042'
+  evidence:
+  - chunk_id: '000042'
+    chapter_title: 第一卷 平庸少年 第041章 蜈蚣
+    quote: “我有个师弟...抓些野兽喂食这事，对他来说太适合了！”
+    span:
+    - 2084
+    - 2120
+- from: 王卓
+  to: 王林
+  type: 敌对
+  status: 变化中
+  confidence: 0.86
+  notes: 明确轻蔑讥讽，呈对立/敌意
+  first_seen_chunk: '000004'
+  evidence:
+  - chunk_id: '000004'
+    chapter_title: 第一卷 平庸少年 第003章 测试
+    quote: 王卓更是轻蔑的望着王林，目中讥讽之意表露无疑
+    span:
+    - 2376
+    - 2403
+  - chunk_id: '000036'
+    chapter_title: 第一卷 平庸少年 第035章 后山
+    quote: 只见王卓冷笑的望着他，眼露不屑之色
+    span:
+    - 1240
+    - 1260
+  - chunk_id: '000042'
+    chapter_title: 第一卷 平庸少年 第041章 蜈蚣
+    quote: 只见远处王卓，眼中露出强烈的恶毒之色，盯着他与周姓女子。
+    span:
+    - 1965
+    - 2000
+- from: 王卓
+  to: 王林
+  type: 敌对
+  status: 稳定
+  confidence: 0.93
+  notes: 公开讥讽贬低，明显对立
+  first_seen_chunk: '000037'
+  evidence:
+  - chunk_id: '000037'
+    chapter_title: 第一卷 平庸少年 第036章 是非
+    quote: 废物王林居然也能练到凝气期第一层
+    span:
+    - 1018
+    - 1038
+  - chunk_id: '000043'
+    chapter_title: 第一卷 平庸少年 第042章 蜈毒
+    quote: 王林师弟，这喂食千足蜈蚣的杂活，可就交给你了
+    span:
+    - 258
+    - 290
+- from: 王卓
+  to: 道虚师叔
+  type: 师徒
+  status: 稳定
+  confidence: 0.95
+  notes: 直接称为道虚师叔的弟子
+  first_seen_chunk: '000035'
+  evidence:
+  - chunk_id: '000035'
+    chapter_title: 第一卷 平庸少年 第034章 集训
+    quote: “这次你道虚师叔的弟子王卓，小小年纪就已经达到凝气期第一层巅峰”
+    span:
+    - 903
+    - 947
+  - chunk_id: '000042'
+    chapter_title: 第一卷 平庸少年 第041章 蜈蚣
+    quote: 王卓...恭敬说道：“师父放心...弟子定会悉心招待。”
+    span:
+    - 960
+    - 995
+- from: 王卓师父
+  to: 王浩家主人
+  type: 交易
+  status: 不确定
+  confidence: 0.74
+  notes: 讨要造化丹，属资源往来
+  first_seen_chunk: '000032'
+  evidence:
+  - chunk_id: '000032'
+    chapter_title: 第一卷 平庸少年 第031章 雪水
+    quote: 向我家主人讨要了一炉造化丹
+    span:
+    - 392
+    - 407
+- from: 王林
+  to: 一人
+  type: 其他
+  status: 不确定
+  confidence: 0.5
+  notes: 王林疑似识得对方但关系不明
+  first_seen_chunk: 000119
+  evidence:
+  - chunk_id: 000119
+    chapter_title: 第二卷 修真血影 第107章 米粒之光
+    quote: 似在追赶一人。王林面起寒霜，自语道：“是他？”
+    span:
+    - 1976
+    - 2004
+- from: 王林
+  to: 中年男子
+  type: 敌对
+  status: 结束
+  confidence: 0.87
+  notes: 王林反杀中年男子
+  first_seen_chunk: '000116'
+  evidence:
+  - chunk_id: '000116'
+    chapter_title: 第二卷 修真血影 第105章 极境临世
+    quote: 抛出雷符的那个中年人，胸口绿光一闪...倒地身亡
+    span:
+    - 716
+    - 748
+- from: 王林
+  to: 亲戚
+  type: 敌对
+  status: 稳定
+  confidence: 0.62
+  notes: 亲戚嘲讽引发对立情绪
+  first_seen_chunk: 000009
+  evidence:
+  - chunk_id: 000009
+    chapter_title: 第一卷 平庸少年 第008章 石珠
+    quote: 一会想到亲戚嘲讽的嘴脸
+    span:
+    - 1156
+    - 1168
+- from: 王林
+  to: 刘师兄
+  type: 上下级
+  status: 稳定
+  confidence: 0.72
+  notes: 王林汇报请假，称对方师兄
+  first_seen_chunk: '000013'
+  evidence:
+  - chunk_id: '000013'
+    chapter_title: 第一卷 平庸少年 第012章 仙符
+    quote: 王林把剩下的三缸水倒满，对正在打坐修炼的黄衣青年说道：“刘师兄，我要回家一趟”
+    span:
+    - 1018
+    - 1060
+- from: 王林
+  to: 刘师兄
+  type: 其他
+  status: 稳定
+  confidence: 0.7
+  notes: 杂务处师兄通知王林
+  first_seen_chunk: '000017'
+  evidence:
+  - chunk_id: '000017'
+    chapter_title: 第一卷 平庸少年 第016章 弟子
+    quote: 今日一早听杂务处的刘师兄说您老人家找我
+    span:
+    - 150
+    - 175
+  - chunk_id: 000028
+    chapter_title: 第一卷 平庸少年 第027章 来访
+    quote: 这引力术他之前用在刘师兄身上后，感觉颇为实用
+    span:
+    - 936
+    - 962
+- from: 王林
+  to: 刘师兄
+  type: 其他
+  status: 不确定
+  confidence: 0.55
+  notes: 仅体现空间/事务关联，具体关系未明
+  first_seen_chunk: 000029
+  evidence:
+  - chunk_id: 000029
+    chapter_title: 第一卷 平庸少年 第028章 杂务
+    quote: 王林收拾了一番刘姓青年的房间
+    span:
+    - 1008
+    - 1023
+- from: 王林
+  to: 华服青年
+  type: 敌对
+  status: 结束
+  confidence: 0.92
+  notes: 王林飞剑击杀华服青年
+  first_seen_chunk: 000109
+  evidence:
+  - chunk_id: 000109
+    chapter_title: 第二卷 修真血影 第102章 悼劫（一）
+    quote: 飞剑...已经逼近青年...从他胸口穿透而过...暴毙而亡
+    span:
+    - 3002
+    - 3041
+- from: 王林
+  to: 古稀老者
+  type: 利用
+  status: 稳定
+  confidence: 0.82
+  notes: 王林以灵力催动法宝幻化老者
+  first_seen_chunk: 000083
+  evidence:
+  - chunk_id: 000083
+    chapter_title: 第二卷 修真血影 第089章 唬人法宝
+    quote: 他一怔，右手隔空一抓，珠子飘起...灵力催动。顿时从圆珠上冒出一缕白烟...化作一个身穿白衣的古稀老者
+    span:
+    - 2234
+    - 2314
+- from: 王林
+  to: 司徒南
+  type: 亲友
+  status: 稳定
+  confidence: 0.62
+  notes: 对话互动并一路同行
+  first_seen_chunk: '000060'
+  evidence:
+  - chunk_id: '000060'
+    chapter_title: 第二卷 修真血影 第073章 天水城
+    quote: 耳边传来司徒南嘲笑的声音。“我看你飞了好几天...原来你不知道啊。”
+    span:
+    - 650
+    - 688
+- from: 王林
+  to: 司徒南
+  type: 亲友
+  status: 不确定
+  confidence: 0.6
+  notes: 王林呼唤司徒南并依赖其能力，关系偏合作/同伴
+  first_seen_chunk: '000103'
+  evidence:
+  - chunk_id: '000103'
+    chapter_title: 第二卷 修真血影 第099章 石珠变化
+    quote: 此时他极为期望司徒南可以苏醒...对这石珠呼唤了几声后
+    span:
+    - 3190
+    - 3250
+- from: 王林
+  to: 司徒南
+  type: 其他
+  status: 变化中
+  confidence: 0.74
+  notes: 司徒依附沉睡，王林关注其苏醒
+  first_seen_chunk: '000077'
+  evidence:
+  - chunk_id: '000077'
+    chapter_title: 第二卷 修真血影 第086章 丛林废墟
+    quote: 司徒在三年前元婴精华耗费太多...更是虚弱不堪，这已经沉睡了两年多了
+    span:
+    - 1555
+    - 1601
+- from: 王林
+  to: 司徒南
+  type: 其他
+  status: 不确定
+  confidence: 0.38
+  notes: 仅提及同功法修炼者，无直接关系
+  first_seen_chunk: 000081
+  evidence:
+  - chunk_id: 000081
+    chapter_title: 第二卷 修真血影 第088章 蓝肤怪人
+    quote: 司徒南是少有的几个修炼成功的。
+    span:
+    - 192
+    - 207
+- from: 王林
+  to: 司徒南
+  type: 其他
+  status: 稳定
+  confidence: 0.74
+  notes: 两人讨论问题，关系类型未明
+  first_seen_chunk: 000119
+  evidence:
+  - chunk_id: 000119
+    chapter_title: 第二卷 修真血影 第107章 米粒之光
+    quote: 即便是司徒南，也找不到答案。
+    span:
+    - 240
+    - 255
+  - chunk_id: '000125'
+    chapter_title: 第二卷 修真血影 第112章
+    quote: 有关这发光体的事情，王林询问过司徒南，但司徒南也搞不明白
+    span:
+    - 703
+    - 733
+- from: 王林
+  to: 司徒南
+  type: 同盟
+  status: 变化中
+  confidence: 0.82
+  notes: 司徒南提供方法并承诺相助筑基
+  first_seen_chunk: 000059
+  evidence:
+  - chunk_id: 000059
+    chapter_title: 第二卷 修真血影 第072章 夺基大法
+    quote: 司徒，你说的方法，真的可以快速筑基成功？
+    span:
+    - 1680
+    - 1704
+- from: 王林
+  to: 司徒南
+  type: 师徒
+  status: 稳定
+  confidence: 0.9
+  notes: 明确“指导”修炼与祭炼
+  first_seen_chunk: '000064'
+  evidence:
+  - chunk_id: '000064'
+    chapter_title: 第二卷 修真血影 第077章 即墨老人
+    quote: 但在司徒南的指导下，王林已然成功祭炼
+    span:
+    - 797
+    - 817
+- from: 王林
+  to: 合欢宗领头女弟子
+  type: 利用
+  status: 结束
+  confidence: 0.84
+  notes: 逼问位置并据此行动，后放走
+  first_seen_chunk: '000123'
+  evidence:
+  - chunk_id: '000123'
+    chapter_title: 第二卷 修真血影 第110章 柳眉
+    quote: “告诉我玄道宗在什么位置。”...女子诺诺的指了一个方向
+    span:
+    - 585
+    - 635
+- from: 王林
+  to: 吴宇
+  type: 师徒
+  status: 稳定
+  confidence: 0.97
+  notes: 王林自称吴宇弟子
+  first_seen_chunk: 000095
+  evidence:
+  - chunk_id: 000095
+    chapter_title: 第二卷 修真血影 第095章 进宗
+    quote: 老者...问道：“...吴宇始祖？他……你是他什么人？”王林...说道：“弟子。”
+    span:
+    - 1935
+    - 2005
+- from: 王林
+  to: 周鹏
+  type: 其他
+  status: 稳定
+  confidence: 0.7
+  notes: 王林持有周鹏之物（来源关系）
+  first_seen_chunk: '000064'
+  evidence:
+  - chunk_id: '000064'
+    chapter_title: 第二卷 修真血影 第077章 即墨老人
+    quote: 由得自周鹏的防御玉简应该无法抵抗
+    span:
+    - 650
+    - 671
+- from: 王林
+  to: 四叔
+  type: 家族
+  status: 稳定
+  confidence: 0.84
+  notes: 称“四叔”强指家族长辈
+  first_seen_chunk: 000009
+  evidence:
+  - chunk_id: 000009
+    chapter_title: 第一卷 平庸少年 第008章 石珠
+    quote: 一会想到父母，一会想到四叔
+    span:
+    - 1142
+    - 1156
+- from: 王林
+  to: 夜自在
+  type: 其他
+  status: 不确定
+  confidence: 0.66
+  notes: 仅提出要通报与相告要事
+  first_seen_chunk: 000095
+  evidence:
+  - chunk_id: 000095
+    chapter_title: 第二卷 修真血影 第095章 进宗
+    quote: 烦劳通报一声夜自在师叔，王某有要事相告。
+    span:
+    - 860
+    - 890
+- from: 王林
+  to: 夜自在
+  type: 其他
+  status: 稳定
+  confidence: 0.72
+  notes: 夜自在提供秘法玉简
+  first_seen_chunk: '000107'
+  evidence:
+  - chunk_id: '000107'
+    chapter_title: 第二卷 修真血影 第101章 魂魄玉简
+    quote: 这套抽离一丝魂魄的秘法，在之前夜自在给他的深蓝色玉简上有着详细的记录。
+    span:
+    - 2901
+    - 2950
+- from: 王林
+  to: 孙浩
+  type: 其他
+  status: 稳定
+  confidence: 0.78
+  notes: 明确为认识关系但未指明亲疏
+  first_seen_chunk: '000045'
+  evidence:
+  - chunk_id: '000045'
+    chapter_title: 第一卷 平庸少年 第044章 李山
+    quote: 说话的内门弟子，王林认识，他正是孙浩。
+    span:
+    - 1253
+    - 1274
+- from: 王林
+  to: 孙长老
+  type: 上下级
+  status: 稳定
+  confidence: 0.9
+  notes: 记名弟子与长老的门派上下级
+  first_seen_chunk: '000013'
+  evidence:
+  - chunk_id: '000013'
+    chapter_title: 第一卷 平庸少年 第012章 仙符
+    quote: “记名弟子王林，求见孙长老。”...“弟子王林，拜见孙长老”
+    span:
+    - 1450
+    - 1765
+  - chunk_id: 000019
+    chapter_title: 第一卷 平庸少年 第018章 葫芦
+    quote: 王林立刻恭敬站在一旁，把手上葫芦递过去，说道：“师父...你看这个怎么样”
+    span:
+    - 2368
+    - 2420
+- from: 王林
+  to: 孙长老
+  type: 上下级
+  status: 不确定
+  confidence: 0.6
+  notes: 他人称王林为孙师叔弟子
+  first_seen_chunk: '000021'
+  evidence:
+  - chunk_id: '000021'
+    chapter_title: 第一卷 平庸少年 第020章 九云
+    quote: 靠阿谀奉承成为孙师叔弟子
+    span:
+    - 2122
+    - 2136
+- from: 王林
+  to: 孙长老
+  type: 交易
+  status: 结束
+  confidence: 0.66
+  notes: 申请探亲获发千里符（资源发放）
+  first_seen_chunk: '000013'
+  evidence:
+  - chunk_id: '000013'
+    chapter_title: 第一卷 平庸少年 第012章 仙符
+    quote: “期限三天，速去速回，这是可使用两次的千里符”...王林捡起珍重的放在怀里
+    span:
+    - 1915
+    - 2055
+- from: 王林
+  to: 孙长老
+  type: 其他
+  status: 变化中
+  confidence: 0.82
+  notes: 存在监视与防备关系
+  first_seen_chunk: '000021'
+  evidence:
+  - chunk_id: '000021'
+    chapter_title: 第一卷 平庸少年 第020章 九云
+    quote: 他担心孙大柱会暗中监视...孙大柱也的确不甘心的又监视了十多天
+    span:
+    - 865
+    - 904
+- from: 王林
+  to: 孙长老
+  type: 其他
+  status: 结束
+  confidence: 0.72
+  notes: 曾在其处接受药汤过程，现已不在其处
+  first_seen_chunk: '000023'
+  evidence:
+  - chunk_id: '000023'
+    chapter_title: 第一卷 平庸少年 第022章 散功
+    quote: 王林在孙大柱那里的一个月，每天都要经历这样的过程
+    span:
+    - 1048
+    - 1074
+- from: 王林
+  to: 孙长老
+  type: 其他
+  status: 不确定
+  confidence: 0.66
+  notes: 以长老为申诉渠道
+  first_seen_chunk: '000030'
+  evidence:
+  - chunk_id: '000030'
+    chapter_title: 第一卷 平庸少年 第029章 上门
+    quote: “不满意，去找长老！”
+    span:
+    - 704
+    - 717
+  - chunk_id: '000031'
+    chapter_title: 第一卷 平庸少年 第030章 王浩
+    quote: 若是去找孙大柱讨要后面的...定会追问原因
+    span:
+    - 559
+    - 588
+- from: 王林
+  to: 孙长老
+  type: 其他
+  status: 稳定
+  confidence: 0.72
+  notes: 王林获得其储物袋法宝
+  first_seen_chunk: '000064'
+  evidence:
+  - chunk_id: '000064'
+    chapter_title: 第二卷 修真血影 第077章 即墨老人
+    quote: 这玉符，是孙大柱储物袋内，最具威力的一样法宝
+    span:
+    - 735
+    - 759
+- from: 王林
+  to: 孙长老
+  type: 利用
+  status: 变化中
+  confidence: 0.7
+  notes: 试图借长老权威更换负责人
+  first_seen_chunk: 000029
+  evidence:
+  - chunk_id: 000029
+    chapter_title: 第一卷 平庸少年 第028章 杂务
+    quote: 咱么去找长老，让长老主持公道
+    span:
+    - 1417
+    - 1432
+- from: 王林
+  to: 孙长老
+  type: 师徒
+  status: 变化中
+  confidence: 0.86
+  notes: 明确提出收为弟子但尚未正式完成
+  first_seen_chunk: '000017'
+  evidence:
+  - chunk_id: '000017'
+    chapter_title: 第一卷 平庸少年 第016章 弟子
+    quote: 孙长老...说道：“罢了，我收你做弟子，我这就去和掌门说这事”
+    span:
+    - 1602
+    - 1640
+- from: 王林
+  to: 孙长老
+  type: 师徒
+  status: 稳定
+  confidence: 0.98
+  notes: 王林称其为师父
+  first_seen_chunk: 000018
+  evidence:
+  - chunk_id: 000018
+    chapter_title: 第一卷 平庸少年 第017章 修仙
+    quote: 这次他真心实意的冲孙大柱叫了一声师父
+    span:
+    - 420
+    - 442
+  - chunk_id: '000034'
+    chapter_title: 第一卷 平庸少年 第033章 口诀
+    quote: 无论是师父孙大柱，还是张师兄，都无法与面前这人相比。
+    span:
+    - 1016
+    - 1047
+  - chunk_id: '000035'
+    chapter_title: 第一卷 平庸少年 第034章 集训
+    quote: 来到孙大柱的药园子外，恭敬的高声说道：“弟子王林，求见师父。”
+    span:
+    - 657
+    - 694
+  - chunk_id: 000039
+    chapter_title: 第一卷 平庸少年 第038章 光斑
+    quote: “弟子王林，参见师父！”
+    span:
+    - 1000
+    - 1012
+- from: 王林
+  to: 孙长老
+  type: 敌对
+  status: 结束
+  confidence: 0.95
+  notes: 王林杀死孙大柱
+  first_seen_chunk: '000053'
+  evidence:
+  - chunk_id: '000053'
+    chapter_title: 第一卷 平庸少年 第052章－061章（改）
+    quote: “一掌拍在他的头顶...七窍流血倒在了地上。”
+    span:
+    - 1910
+    - 1936
+- from: 王林
+  to: 尸傀男子
+  type: 敌对
+  status: 变化中
+  confidence: 0.78
+  notes: 明确判断尸傀对其有威胁
+  first_seen_chunk: 000093
+  evidence:
+  - chunk_id: 000093
+    chapter_title: 第二卷 修真血影 第094章 尸阴宗（三）
+    quote: 等那尸傀进来，自己定然会有危险，那尸傀一看就是嗜杀之辈
+    span:
+    - 1018
+    - 1054
+- from: 王林
+  to: 尸魅
+  type: 其他
+  status: 不确定
+  confidence: 0.55
+  notes: 仅表现为旁观与避险，关系不明
+  first_seen_chunk: '000072'
+  evidence:
+  - chunk_id: '000072'
+    chapter_title: 第二卷 修真血影 第083章 夺基（三）
+    quote: 王林暗叫不好，他没想到这尸魅居然如此不济，正要逃跑
+    span:
+    - 330
+    - 360
+- from: 王林
+  to: 尸魅
+  type: 利用
+  status: 变化中
+  confidence: 0.84
+  notes: 引战至尸魅处借势
+  first_seen_chunk: '000071'
+  evidence:
+  - chunk_id: '000071'
+    chapter_title: 第二卷 修真血影 第083章 夺基（三）
+    quote: 他目中寒光闪烁，并未继续遁逃藤厉…转眼间就来到尸魅所在之地。
+    span:
+    - 2269
+    - 2315
+- from: 王林
+  to: 尸魅
+  type: 敌对
+  status: 不确定
+  confidence: 0.75
+  notes: 以武器指向对方进行威慑防备
+  first_seen_chunk: '000073'
+  evidence:
+  - chunk_id: '000073'
+    chapter_title: 第二卷 修真血影 第084章 夺基（四）
+    quote: 绿色小剑在他身体外闪烁寒芒，剑尖指向尸魅
+    span:
+    - 1784
+    - 1808
+- from: 王林
+  to: 张师兄
+  type: 上下级/其他
+  status: 稳定
+  confidence: 0.86
+  notes: 同门师兄弟称呼，地位实力差异明显
+  first_seen_chunk: 000029
+  evidence:
+  - chunk_id: 000029
+    chapter_title: 第一卷 平庸少年 第028章 杂务
+    quote: 王林参见张师兄，恭喜师兄荣升黑衣。
+    span:
+    - 55
+    - 73
+- from: 王林
+  to: 张师兄
+  type: 其他
+  status: 稳定
+  confidence: 0.7
+  notes: 同门师兄弟称呼
+  first_seen_chunk: '000034'
+  evidence:
+  - chunk_id: '000034'
+    chapter_title: 第一卷 平庸少年 第033章 口诀
+    quote: 无论是师父孙大柱，还是张师兄，都无法与面前这人相比。
+    span:
+    - 1016
+    - 1047
+- from: 王林
+  to: 张狂
+  type: 其他
+  status: 不确定
+  confidence: 0.55
+  notes: 同场出现，关系未明
+  first_seen_chunk: 000039
+  evidence:
+  - chunk_id: 000039
+    chapter_title: 第一卷 平庸少年 第038章 光斑
+    quote: 张狂面色大变...此时，王林已然带着一丝微笑，走进了光幕之中。
+    span:
+    - 560
+    - 604
+- from: 王林
+  to: 张虎
+  type: 交易
+  status: 结束
+  confidence: 0.55
+  notes: 王林持有张虎之物，来源关系不明
+  first_seen_chunk: 000081
+  evidence:
+  - chunk_id: 000081
+    chapter_title: 第二卷 修真血影 第088章 蓝肤怪人
+    quote: 拿出得自张虎的那张纸符
+    span:
+    - 1980
+    - 1992
+- from: 王林
+  to: 张虎
+  type: 亲友
+  status: 稳定
+  confidence: 0.78
+  notes: 同住交流并互相关照
+  first_seen_chunk: '000012'
+  evidence:
+  - chunk_id: '000012'
+    chapter_title: 第一卷 平庸少年 第011章 张虎
+    quote: 张虎以一副可怜的目光看了眼王林
+    span:
+    - 364
+    - 382
+  - chunk_id: '000013'
+    chapter_title: 第一卷 平庸少年 第012章 仙符
+    quote: 王林也不在意，他从张虎那里了解到...与张虎告别
+    span:
+    - 1100
+    - 2230
+  - chunk_id: '000016'
+    chapter_title: 第一卷 平庸少年 第015章 怀疑
+    quote: 呆呆对王林说道：“王林，你啥时候回来的，咱家这是……闹旱鬼了？”
+    span:
+    - 87
+    - 129
+  - chunk_id: '000017'
+    chapter_title: 第一卷 平庸少年 第016章 弟子
+    quote: 收拾行李，并给张虎留下不少甘薯
+    span:
+    - 1914
+    - 1932
+  - chunk_id: '000066'
+    chapter_title: 第二卷 修真血影 第079章 祭炼飞剑
+    quote: “怎么，不欢迎我随你一起去？我灵石可不多，靠你了。”
+    span:
+    - 240
+    - 270
+- from: 王林
+  to: 张虎
+  type: 亲友
+  status: 变化中
+  confidence: 0.9
+  notes: 张虎明确称朋友，事后关系受冲击
+  first_seen_chunk: '000027'
+  evidence:
+  - chunk_id: '000027'
+    chapter_title: 第一卷 平庸少年 第026章 歹意
+    quote: 你若还认我这个朋友，就把这仙符拿着！
+    span:
+    - 2143
+    - 2166
+  - chunk_id: 000028
+    chapter_title: 第一卷 平庸少年 第027章 来访
+    quote: 张虎是他在恒岳派第一个朋友，可现在，却发生了这样的事情。
+    span:
+    - 55
+    - 86
+- from: 王林
+  to: 张虎
+  type: 亲友
+  status: 不确定
+  confidence: 0.72
+  notes: 战斗中保护/安置同伴迹象
+  first_seen_chunk: '000064'
+  evidence:
+  - chunk_id: '000064'
+    chapter_title: 第二卷 修真血影 第077章 即墨老人
+    quote: 王林眉头一皱，抓起张虎向后一甩
+    span:
+    - 248
+    - 266
+  - chunk_id: '000077'
+    chapter_title: 第二卷 修真血影 第086章 丛林废墟
+    quote: 他不知道张虎现在是生是死，心底默默祈祷张虎可以逃过这一劫
+    span:
+    - 1910
+    - 1950
+- from: 王林
+  to: 张虎
+  type: 其他
+  status: 稳定
+  confidence: 0.9
+  notes: 王林出手相救
+  first_seen_chunk: '000027'
+  evidence:
+  - chunk_id: '000027'
+    chapter_title: 第一卷 平庸少年 第026章 歹意
+    quote: 王林眼看来不及救张虎，立刻用出引力术...束缚住对方
+    span:
+    - 1153
+    - 1187
+- from: 王林
+  to: 恒岳派记名弟子
+  type: 上下级
+  status: 稳定
+  confidence: 0.78
+  notes: 以管事身份训斥并管理
+  first_seen_chunk: '000030'
+  evidence:
+  - chunk_id: '000030'
+    chapter_title: 第一卷 平庸少年 第029章 上门
+    quote: 王林有些不耐烦，喝道：“都给我闭嘴”
+    span:
+    - 569
+    - 593
+- from: 王林
+  to: 恒岳派记名弟子
+  type: 交易
+  status: 稳定
+  confidence: 0.86
+  notes: 以减轻/不追责换取仙符
+  first_seen_chunk: '000030'
+  evidence:
+  - chunk_id: '000030'
+    chapter_title: 第一卷 平庸少年 第029章 上门
+    quote: 只要有没完成的，他便冷哼几声，对方自然立刻乖乖献上仙符
+    span:
+    - 2216
+    - 2247
+- from: 王林
+  to: 恒岳派黑衣中年人
+  type: 敌对
+  status: 不确定
+  confidence: 0.58
+  notes: 无情目光暗示压迫/不友好
+  first_seen_chunk: 000009
+  evidence:
+  - chunk_id: 000009
+    chapter_title: 第一卷 平庸少年 第008章 石珠
+    quote: 一会想到恒岳派黑衣中年人无情的目光
+    span:
+    - 1168
+    - 1186
+- from: 王林
+  to: 持有王林魂魄玉简的修士
+  type: 敌对
+  status: 结束
+  confidence: 0.9
+  notes: 王林出手斩杀对方夺回玉简
+  first_seen_chunk: 000109
+  evidence:
+  - chunk_id: 000109
+    chapter_title: 第二卷 修真血影 第102章 悼劫（一）
+    quote: 绿光一闪，刺入修士喉咙，穿透而出...修士...缓缓倒下
+    span:
+    - 515
+    - 551
+- from: 王林
+  to: 教书先生
+  type: 其他
+  status: 稳定
+  confidence: 0.55
+  notes: 仅为接触/获取书籍信息
+  first_seen_chunk: 000009
+  evidence:
+  - chunk_id: 000009
+    chapter_title: 第一卷 平庸少年 第008章 石珠
+    quote: 想到在村子教书先生那里曾经看到一本叫做山海经
+    span:
+    - 1458
+    - 1484
+- from: 王林
+  to: 教书先生
+  type: 其他
+  status: 结束
+  confidence: 0.64
+  notes: 信息来源关系，非当前互动
+  first_seen_chunk: '000060'
+  evidence:
+  - chunk_id: '000060'
+    chapter_title: 第二卷 修真血影 第073章 天水城
+    quote: 这天水城，王林只在教书先生那里听过
+    span:
+    - 520
+    - 540
+- from: 王林
+  to: 无锋谷领头老者
+  type: 敌对
+  status: 结束
+  confidence: 0.94
+  notes: 王林出手致其死亡/失去行动
+  first_seen_chunk: '000122'
+  evidence:
+  - chunk_id: '000122'
+    chapter_title: 第二卷 修真血影 第109章
+    quote: 心底默念：“爆！”...无锋谷假丹修为的老者...被泛着蓝光的冰晶，冻成了雕像。
+    span:
+    - 1540
+    - 1668
+- from: 王林
+  to: 李山
+  type: 交易
+  status: 稳定
+  confidence: 0.88
+  notes: 王林用灵符换取霹雳弹
+  first_seen_chunk: '000046'
+  evidence:
+  - chunk_id: '000046'
+    chapter_title: 第一卷 平庸少年 第045章 下贱
+    quote: 好，换两个吧…李山…拿出三个霹雳弹…买二送一
+    span:
+    - 1129
+    - 1182
+- from: 王林
+  to: 李山
+  type: 交易
+  status: 变化中
+  confidence: 0.84
+  notes: 以威胁方式索取令牌
+  first_seen_chunk: '000121'
+  evidence:
+  - chunk_id: '000121'
+    chapter_title: 第二卷 修真血影 第108章 故人
+    quote: 王林…冷淡的说道：“把所有的令牌，都交出来，否则的话，死。”
+    span:
+    - 1403
+    - 1438
+- from: 王林
+  to: 李山
+  type: 亲友
+  status: 不确定
+  confidence: 0.55
+  notes: 仅说明曾有交集，关系不明
+  first_seen_chunk: '000121'
+  evidence:
+  - chunk_id: '000121'
+    chapter_title: 第二卷 修真血影 第108章 故人
+    quote: …当日在恒岳派与王林有所交集的李山…
+    span:
+    - 197
+    - 216
+- from: 王林
+  to: 李山
+  type: 其他
+  status: 不确定
+  confidence: 0.78
+  notes: 王林察觉异常但暂未揭穿
+  first_seen_chunk: '000046'
+  evidence:
+  - chunk_id: '000046'
+    chapter_title: 第一卷 平庸少年 第045章 下贱
+    quote: 他清晰的感觉到李山体内传出一丝灵气的波动…也不点破
+    span:
+    - 150
+    - 196
+- from: 王林
+  to: 李山
+  type: 其他
+  status: 稳定
+  confidence: 0.88
+  notes: 战斗中保护性带离
+  first_seen_chunk: '000122'
+  evidence:
+  - chunk_id: '000122'
+    chapter_title: 第二卷 修真血影 第109章
+    quote: 王林身子一动，抓起在一旁目瞪口呆的李山，迅速向后退去
+    span:
+    - 1235
+    - 1268
+  - chunk_id: '000124'
+    chapter_title: 第二卷 修真血影 第111章
+    quote: 王林手中有李山的两块
+    span:
+    - 44
+    - 55
+- from: 王林
+  to: 李山
+  type: 利用
+  status: 结束
+  confidence: 0.86
+  notes: 逼其召唤玄道宗众人以获取令牌
+  first_seen_chunk: '000123'
+  evidence:
+  - chunk_id: '000123'
+    chapter_title: 第二卷 修真血影 第110章 柳眉
+    quote: 李山，把玄道宗的人，召唤出来吧，我只要令牌
+    span:
+    - 879
+    - 907
+- from: 王林
+  to: 杨森
+  type: 其他
+  status: 变化中
+  confidence: 0.78
+  notes: 初次接触并进行问路交流
+  first_seen_chunk: '000060'
+  evidence:
+  - chunk_id: '000060'
+    chapter_title: 第二卷 修真血影 第073章 天水城
+    quote: “在下天水城威武镖局杨森...可有什么需要帮忙之事？”王林...“想询问天水城的方向”
+    span:
+    - 2090
+    - 2162
+- from: 王林
+  to: 柳三
+  type: 其他
+  status: 变化中
+  confidence: 0.76
+  notes: 问路对话建立临时交互
+  first_seen_chunk: '000060'
+  evidence:
+  - chunk_id: '000060'
+    chapter_title: 第二卷 修真血影 第073章 天水城
+    quote: 柳三...沉声道：“朋友，不知高姓大名？”...王林...“小可王林...还望镖头告知”
+    span:
+    - 2320
+    - 2406
+- from: 王林
+  to: 柳三
+  type: 其他
+  status: 稳定
+  confidence: 0.74
+  notes: 以“大镖头”称呼，表明对其领队身份认可
+  first_seen_chunk: '000061'
+  evidence:
+  - chunk_id: '000061'
+    chapter_title: 第二卷 修真血影 第074章 血光之灾
+    quote: 王林一脸感激之色，抱拳道：“多谢大镖头。”
+    span:
+    - 270
+    - 295
+- from: 王林
+  to: 柳眉
+  type: 交易
+  status: 结束
+  confidence: 0.83
+  notes: 对方交出令牌，王林未为难并离开
+  first_seen_chunk: '000123'
+  evidence:
+  - chunk_id: '000123'
+    chapter_title: 第二卷 修真血影 第110章 柳眉
+    quote: 柳眉...从储物袋里拿出令牌，扔给王林。把令牌收起后
+    span:
+    - 2142
+    - 2180
+- from: 王林
+  to: 父母
+  type: 家族
+  status: 稳定
+  confidence: 0.92
+  notes: 文本明确提到父母与其期望
+  first_seen_chunk: '000005'
+  evidence:
+  - chunk_id: '000005'
+    chapter_title: 第一卷 平庸少年 第004章 无情
+    quote: 父母期望的眼神一直徘徊心中
+    span:
+    - 218
+    - 230
+  - chunk_id: 000009
+    chapter_title: 第一卷 平庸少年 第008章 石珠
+    quote: 脑子里思绪万千，一会想到父母，一会想到四叔
+    span:
+    - 1130
+    - 1156
+  - chunk_id: '000012'
+    chapter_title: 第一卷 平庸少年 第011章 张虎
+    quote: 想到父母满怀期望的目光
+    span:
+    - 679
+    - 691
+  - chunk_id: 000018
+    chapter_title: 第一卷 平庸少年 第017章 修仙
+    quote: 父母期望的目光涌现脑海，他终于可以修仙了
+    span:
+    - 360
+    - 383
+  - chunk_id: 000058
+    chapter_title: 第一卷 平庸少年 第071章 四年
+    quote: 接下来的几天，王林一直陪伴父母身边...王林与父母告别，在爹娘不舍的送别中
+    span:
+    - 271
+    - 319
+  - chunk_id: '000114'
+    chapter_title: 第二卷 修真血影 第104章 悼劫（终）
+    quote: 他脑中不由自主的浮现出父母慈祥的面貌。
+    span:
+    - 728
+    - 750
+  - chunk_id: '000125'
+    chapter_title: 第二卷 修真血影 第112章
+    quote: 藤化元想必也不敢说个不字，更不敢去找我父母
+    span:
+    - 2193
+    - 2217
+- from: 王林
+  to: 父母
+  type: 家族
+  status: 结束
+  confidence: 0.83
+  notes: 明确父母称呼与亲属关系
+  first_seen_chunk: '000117'
+  evidence:
+  - chunk_id: '000117'
+    chapter_title: 第二卷 修真血影 第106章 等级
+    quote: 他心里默念：“爹，娘，铁柱不孝……”
+    span:
+    - 2768
+    - 2789
+  - chunk_id: 000119
+    chapter_title: 第二卷 修真血影 第107章 米粒之光
+    quote: 王林自祭拜完父母后，神智已经不再混沌
+    span:
+    - 120
+    - 140
+- from: 王林
+  to: 王卓
+  type: 其他
+  status: 不确定
+  confidence: 0.6
+  notes: 对比引发不甘，存在竞争心态
+  first_seen_chunk: '000026'
+  evidence:
+  - chunk_id: '000026'
+    chapter_title: 第一卷 平庸少年 第025章 凝气
+    quote: 尤其是一想到王卓三个月就可以凝气第一层，王林立刻心中涌现强烈的不甘
+    span:
+    - 258
+    - 296
+  - chunk_id: '000034'
+    chapter_title: 第一卷 平庸少年 第033章 口诀
+    quote: 暗道这人十有八九是王卓，不过他也不能肯定
+    span:
+    - 292
+    - 321
+- from: 王林
+  to: 王卓
+  type: 家族
+  status: 稳定
+  confidence: 0.9
+  notes: 文本明确为亲戚关系
+  first_seen_chunk: '000035'
+  evidence:
+  - chunk_id: '000035'
+    chapter_title: 第一卷 平庸少年 第034章 集训
+    quote: “听说你们还是亲戚，怎么差距这么大。”孙大柱嘲讽的说道。
+    span:
+    - 978
+    - 1012
+- from: 王林
+  to: 王林
+  type: 其他
+  status: 不确定
+  confidence: 0.45
+  notes: 王林认出被追者且态度冷
+  first_seen_chunk: '000120'
+  evidence:
+  - chunk_id: '000120'
+    chapter_title: 第二卷 修真血影 第107章 米粒之光
+    quote: 上百道剑光从四面八方向这里飞来，似在追赶一人。王林面起寒霜，自语道：“是他？”
+    span:
+    - 158
+    - 204
+- from: 王林
+  to: 王林
+  type: 敌对
+  status: 变化中
+  confidence: 0.88
+  notes: 王林明确表示报复并加重杂务
+  first_seen_chunk: 000029
+  evidence:
+  - chunk_id: 000029
+    chapter_title: 第一卷 平庸少年 第028章 杂务
+    quote: 你们当初暗地里嘲讽过我的，给我听好了，小爷我今儿就是来报复的
+    span:
+    - 1910
+    - 1942
+  - chunk_id: 000029
+    chapter_title: 第一卷 平庸少年 第028章 杂务
+    quote: 大伙别听他的，咱么去找长老，让长老主持公道，这王林太操蛋了！
+    span:
+    - 1405
+    - 1442
+- from: 王林
+  to: 王林之父
+  type: 家族
+  status: 稳定
+  confidence: 0.72
+  notes: 明确提及父子关系
+  first_seen_chunk: '000021'
+  evidence:
+  - chunk_id: '000021'
+    chapter_title: 第一卷 平庸少年 第020章 九云
+    quote: 你现在应该是在家和你爹干木匠活才对啊
+    span:
+    - 2010
+    - 2031
+- from: 王林
+  to: 王林之爹
+  type: 家族
+  status: 稳定
+  confidence: 0.92
+  notes: 明确父子关系且为父治病
+  first_seen_chunk: '000044'
+  evidence:
+  - chunk_id: '000044'
+    chapter_title: 第一卷 平庸少年 第043章 故友
+    quote: 为了这事，王林没少抓蜈蚣给他爹治病。
+    span:
+    - 431
+    - 454
+- from: 王林
+  to: 王林亲人
+  type: 家族
+  status: 结束
+  confidence: 0.76
+  notes: “你亲人”指王林家人
+  first_seen_chunk: 000118
+  evidence:
+  - chunk_id: 000118
+    chapter_title: 第二卷 修真血影 第106章 等级
+    quote: 那藤化元之所以杀你亲人
+    span:
+    - 132
+    - 144
+- from: 王林
+  to: 王林母亲
+  type: 家族
+  status: 稳定
+  confidence: 0.86
+  notes: 明确母子关系称谓
+  first_seen_chunk: '000017'
+  evidence:
+  - chunk_id: '000017'
+    chapter_title: 第一卷 平庸少年 第016章 弟子
+    quote: 要不是我娘给我带的甘薯，我早就饿死了
+    span:
+    - 1178
+    - 1201
+  - chunk_id: '000031'
+    chapter_title: 第一卷 平庸少年 第030章 王浩
+    quote: 娘则是忙着储存腌菜。
+    span:
+    - 1108
+    - 1120
+- from: 王林
+  to: 王林父亲
+  type: 家族
+  status: 稳定
+  confidence: 0.88
+  notes: 明确父子关系与探亲动机
+  first_seen_chunk: '000013'
+  evidence:
+  - chunk_id: '000013'
+    chapter_title: 第一卷 平庸少年 第012章 仙符
+    quote: 王林记得他爹寿辰将至...我爹明天寿辰，弟子想回家一趟
+    span:
+    - 1240
+    - 1825
+  - chunk_id: '000017'
+    chapter_title: 第一卷 平庸少年 第016章 弟子
+    quote: 我爹要是知道我给人做奴才，非打死我不可
+    span:
+    - 1450
+    - 1474
+  - chunk_id: '000031'
+    chapter_title: 第一卷 平庸少年 第030章 王浩
+    quote: 爹在一旁拿着工具制作木雕...父子之间其乐融融。
+    span:
+    - 1121
+    - 1147
+- from: 王林
+  to: 王林父母
+  type: 家族
+  status: 稳定
+  confidence: 0.7
+  notes: 明确提及父母关系
+  first_seen_chunk: '000060'
+  evidence:
+  - chunk_id: '000060'
+    chapter_title: 第二卷 修真血影 第073章 天水城
+    quote: 顺便把爹娘都接过去。
+    span:
+    - 612
+    - 623
+- from: 王林
+  to: 王林的四叔
+  type: 家族
+  status: 稳定
+  confidence: 0.95
+  notes: 明确称为“四叔”，属亲属关系
+  first_seen_chunk: '000114'
+  evidence:
+  - chunk_id: '000114'
+    chapter_title: 第二卷 修真血影 第104章 悼劫（终）
+    quote: 他袖子一甩，与王林的四叔，消失在王家祖宅。
+    span:
+    - 89
+    - 113
+- from: 王林
+  to: 王浩
+  type: 交易
+  status: 稳定
+  confidence: 0.9
+  notes: 王林给仙符，王浩收下用于购丹
+  first_seen_chunk: '000032'
+  evidence:
+  - chunk_id: '000032'
+    chapter_title: 第一卷 平庸少年 第031章 雪水
+    quote: 王林右手一翻，从储物袋里拿出400张仙符...王浩...接过放在储物袋内
+    span:
+    - 1008
+    - 1054
+  - chunk_id: '000033'
+    chapter_title: 第一卷 平庸少年 第032章 交易
+    quote: 这一天，是与王浩约定的日子，王林没有进入梦境修炼，而是静等对方到来
+    span:
+    - 431
+    - 468
+- from: 王林
+  to: 王浩
+  type: 亲友
+  status: 稳定
+  confidence: 0.78
+  notes: 互相串门称兄道弟，关系熟络
+  first_seen_chunk: '000031'
+  evidence:
+  - chunk_id: '000031'
+    chapter_title: 第一卷 平庸少年 第030章 王浩
+    quote: 王浩...说道：“铁柱哥，你不冷啊...我掐指一算，你小子要来我这里”
+    span:
+    - 1394
+    - 1485
+  - chunk_id: '000034'
+    chapter_title: 第一卷 平庸少年 第033章 口诀
+    quote: 王林对这造化丹...不由为王浩惋惜...身边王浩大声喊道
+    span:
+    - 24
+    - 96
+  - chunk_id: '000044'
+    chapter_title: 第一卷 平庸少年 第043章 故友
+    quote: 他和王浩四年没见，正好借这个机会去看看。
+    span:
+    - 832
+    - 854
+- from: 王林
+  to: 王浩
+  type: 其他
+  status: 稳定
+  confidence: 0.73
+  notes: 明确写出王林对其有防备
+  first_seen_chunk: '000031'
+  evidence:
+  - chunk_id: '000031'
+    chapter_title: 第一卷 平庸少年 第030章 王浩
+    quote: 他毕竟和王浩接触并非太深，言语上自然防备一些。
+    span:
+    - 1854
+    - 1880
+- from: 王林
+  to: 王浩
+  type: 同盟
+  status: 变化中
+  confidence: 0.72
+  notes: 约定一同参加交易会
+  first_seen_chunk: '000032'
+  evidence:
+  - chunk_id: '000032'
+    chapter_title: 第一卷 平庸少年 第031章 雪水
+    quote: 大概还有半个月时间，到时我来找你，咱们一起去
+    span:
+    - 1096
+    - 1123
+- from: 王林
+  to: 白展
+  type: 敌对
+  status: 结束
+  confidence: 0.7
+  notes: 明确提及曾发生战斗
+  first_seen_chunk: '000066'
+  evidence:
+  - chunk_id: '000066'
+    chapter_title: 第二卷 修真血影 第079章 祭炼飞剑
+    quote: 与多日前王林与白展一战时，没有进入剑鞘前一模一样。
+    span:
+    - 2596
+    - 2626
+- from: 王林
+  to: 白衣弟子
+  type: 其他
+  status: 变化中
+  confidence: 0.72
+  notes: 对王林态度由嘲笑转为畏惧
+  first_seen_chunk: '000040'
+  evidence:
+  - chunk_id: '000040'
+    chapter_title: 第一卷 平庸少年 第039章 巨富
+    quote: 胖子紧张的望着他，一改刚才嘲笑之色，寒蝉若惊
+    span:
+    - 1538
+    - 1568
+- from: 王林
+  to: 白衣陌生青年
+  type: 敌对
+  status: 结束
+  confidence: 0.88
+  notes: 王林以绿光小剑击杀青年
+  first_seen_chunk: '000116'
+  evidence:
+  - chunk_id: '000116'
+    chapter_title: 第二卷 修真血影 第105章 极境临世
+    quote: 绿光一闪，一把绿色小剑自他胸口穿过...倒在了地上
+    span:
+    - 425
+    - 461
+- from: 王林
+  to: 白衣青年
+  type: 上下级
+  status: 稳定
+  confidence: 0.62
+  notes: 内门弟子带路通传，地位高于记名弟子
+  first_seen_chunk: '000013'
+  evidence:
+  - chunk_id: '000013'
+    chapter_title: 第一卷 平庸少年 第012章 仙符
+    quote: 一个身穿白衣的年轻人...神情高傲说道：“你就是王林？”...转身向院内走去
+    span:
+    - 1496
+    - 1615
+- from: 王林
+  to: 紫衣男子
+  type: 交易
+  status: 结束
+  confidence: 0.92
+  notes: 以液体交换4到9层口诀
+  first_seen_chunk: '000034'
+  evidence:
+  - chunk_id: '000034'
+    chapter_title: 第一卷 平庸少年 第033章 口诀
+    quote: 你把剩下的液体都给我，这口诀是你的了！王林接过...确定无误后
+    span:
+    - 1140
+    - 1206
+- from: 王林
+  to: 蓝皮肤怪人
+  type: 其他
+  status: 变化中
+  confidence: 0.86
+  notes: 怪人邀同行，王林同意，形成临时同行关系
+  first_seen_chunk: 000089
+  evidence:
+  - chunk_id: 000089
+    chapter_title: 第二卷 修真血影 第092章 尸阴宗（一）
+    quote: 对方的意思似乎是想要让自己跟他走，王林内心一动，点了点头
+    span:
+    - 2226
+    - 2262
+- from: 王林
+  to: 蓝皮肤怪人
+  type: 敌对
+  status: 变化中
+  confidence: 0.78
+  notes: 明确提到敌意减少，关系由敌对趋缓
+  first_seen_chunk: 000089
+  evidence:
+  - chunk_id: 000089
+    chapter_title: 第二卷 修真血影 第092章 尸阴宗（一）
+    quote: 王林轻笑，对于这个怪人，他现在敌意已经不多
+    span:
+    - 33
+    - 56
+- from: 王林
+  to: 蓝肤怪人
+  type: 其他
+  status: 变化中
+  confidence: 0.78
+  notes: 从对抗转为尝试沟通避免死斗
+  first_seen_chunk: 000083
+  evidence:
+  - chunk_id: 000083
+    chapter_title: 第二卷 修真血影 第089章 唬人法宝
+    quote: 王林不愿意与其生死搏斗，所以他选择了沟通。
+    span:
+    - 1499
+    - 1524
+- from: 王林
+  to: 蓝肤怪人
+  type: 敌对
+  status: 变化中
+  confidence: 0.93
+  notes: 互相攻击，明显敌对冲突
+  first_seen_chunk: 000081
+  evidence:
+  - chunk_id: 000081
+    chapter_title: 第二卷 修真血影 第088章 蓝肤怪人
+    quote: 怪人顿时看见了王林，眼中露出嗜血之色，狞笑的迈步走来。
+    span:
+    - 1457
+    - 1487
+  - chunk_id: 000083
+    chapter_title: 第二卷 修真血影 第089章 唬人法宝
+    quote: “你若再到我这来，王某拼了耗费灵力，也定灭了你。”
+    span:
+    - 612
+    - 644
+- from: 王林
+  to: 蓝肤怪人
+  type: 敌对
+  status: 稳定
+  confidence: 0.93
+  notes: 双方交战，王林主动攻击对方
+  first_seen_chunk: 000082
+  evidence:
+  - chunk_id: 000082
+    chapter_title: 第二卷 修真血影 第088章 蓝肤怪人
+    quote: 王林眼都不眨一眼，张口喷出一口灵气，祭出纸符...瞬息再次射中对方胸口伤处。
+    span:
+    - 95
+    - 143
+- from: 王林
+  to: 藤化元
+  type: 敌对
+  status: 变化中
+  confidence: 0.86
+  notes: 明确准备迎战并夺其魂旗
+  first_seen_chunk: '000125'
+  evidence:
+  - chunk_id: '000125'
+    chapter_title: 第二卷 修真血影 第112章
+    quote: 为了迎战藤化元时可以夺下魂旗，王林绞尽脑汁
+    span:
+    - 105
+    - 129
+- from: 王林
+  to: 藤厉
+  type: 其他
+  status: 变化中
+  confidence: 0.74
+  notes: 王林对藤厉施法控制/侵入
+  first_seen_chunk: '000074'
+  evidence:
+  - chunk_id: '000074'
+    chapter_title: 第二卷 修真血影 第084章 夺基（四）
+    quote: 灵雾立刻飘到藤厉身上，从他的七窍中钻了进去
+    span:
+    - 52
+    - 77
+- from: 王林
+  to: 藤厉
+  type: 其他
+  status: 结束
+  confidence: 0.77
+  notes: 王林吞噬并融合藤厉灵根光点
+  first_seen_chunk: '000076'
+  evidence:
+  - chunk_id: '000076'
+    chapter_title: 第二卷 修真血影 第085章 夺基（五）
+    quote: 王林...喷出一口灵雾，包裹住光点，飞快的吞噬...最终只有三分之一成功被灵雾融合
+    span:
+    - 79
+    - 158
+- from: 王林
+  to: 藤厉
+  type: 其他
+  status: 稳定
+  confidence: 0.74
+  notes: 明确提到王林吸收藤厉部分灵根
+  first_seen_chunk: 000080
+  evidence:
+  - chunk_id: 000080
+    chapter_title: 第二卷 修真血影 第087章 黄泉寒丹
+    quote: 吸收了藤厉的部分灵根后，他的天资，提高了不少。
+    span:
+    - 156
+    - 181
+- from: 王林
+  to: 藤厉
+  type: 利用
+  status: 变化中
+  confidence: 0.9
+  notes: 明确将藤厉作为夺基炉鼎
+  first_seen_chunk: '000073'
+  evidence:
+  - chunk_id: '000073'
+    chapter_title: 第二卷 修真血影 第084章 夺基（四）
+    quote: 用他来进行夺基大法，应该可以吧？
+    span:
+    - 2993
+    - 3012
+- from: 王林
+  to: 藤厉
+  type: 利用
+  status: 稳定
+  confidence: 0.95
+  notes: 明确以藤厉为炉鼎夺取血肉骨魂根
+  first_seen_chunk: '000075'
+  evidence:
+  - chunk_id: '000075'
+    chapter_title: 第二卷 修真血影 第085章 夺基（五）
+    quote: 这夺基大法，需要抽离炉鼎的血、肉、骨、魂、根…
+    span:
+    - 559
+    - 599
+  - chunk_id: '000077'
+    chapter_title: 第二卷 修真血影 第086章 丛林废墟
+    quote: 右手一指融合了藤厉灵根的灵雾
+    span:
+    - 40
+    - 57
+- from: 王林
+  to: 藤厉
+  type: 敌对
+  status: 稳定
+  confidence: 0.93
+  notes: 互相攻击造成伤势
+  first_seen_chunk: '000071'
+  evidence:
+  - chunk_id: '000071'
+    chapter_title: 第二卷 修真血影 第083章 夺基（三）
+    quote: 王林的那把诡异的飞剑时而出现偷袭……右臂，就是被王林那把飞剑刺伤。
+    span:
+    - 583
+    - 625
+  - chunk_id: '000075'
+    chapter_title: 第二卷 修真血影 第085章 夺基（五）
+    quote: 王林右手虚空画出一个复杂的符号…印在了藤厉额头。
+    span:
+    - 66
+    - 104
+- from: 王林
+  to: 藤厉
+  type: 敌对
+  status: 结束
+  confidence: 0.96
+  notes: 王林出手击杀/制伏藤厉
+  first_seen_chunk: '000073'
+  evidence:
+  - chunk_id: '000073'
+    chapter_title: 第二卷 修真血影 第084章 夺基（四）
+    quote: 剑光一闪，绿色小剑穿透内甲，从藤厉后背射出
+    span:
+    - 1348
+    - 1374
+  - chunk_id: '000105'
+    chapter_title: 第二卷 修真血影 第100章 祭炼剑鞘
+    quote: 只在夺取了藤厉的筑基后的闭关中祭炼了一次
+    span:
+    - 1665
+    - 1689
+- from: 王林
+  to: 藤厉
+  type: 敌对
+  status: 变化中
+  confidence: 0.62
+  notes: 施加伤害性血符，疑为对抗
+  first_seen_chunk: '000074'
+  evidence:
+  - chunk_id: '000074'
+    chapter_title: 第二卷 修真血影 第084章 夺基（四）
+    quote: 那符号立刻飞出，印在藤厉胸口
+    span:
+    - 190
+    - 206
+- from: 王林
+  to: 藤厉
+  type: 敌对
+  status: 不确定
+  confidence: 0.66
+  notes: 出现“杀了藤厉”表明强烈对立/仇怨
+  first_seen_chunk: '000125'
+  evidence:
+  - chunk_id: '000125'
+    chapter_title: 第二卷 修真血影 第112章
+    quote: 即便是杀了藤厉，或者就算杀光了疼家城所有人
+    span:
+    - 2168
+    - 2192
+- from: 王林
+  to: 郎中先生
+  type: 其他
+  status: 结束
+  confidence: 0.6
+  notes: 王林从郎中处获得医药信息
+  first_seen_chunk: '000044'
+  evidence:
+  - chunk_id: '000044'
+    chapter_title: 第一卷 平庸少年 第043章 故友
+    quote: 村里的郎中先生说了，这蜈蚣毒，若是用好了，可以治病。
+    span:
+    - 235
+    - 266
+- from: 王林
+  to: 铁柱他爹
+  type: 家族
+  status: 稳定
+  confidence: 0.84
+  notes: 与“媳妇”对应为父亲
+  first_seen_chunk: '000057'
+  evidence:
+  - chunk_id: '000057'
+    chapter_title: 第一卷 平庸少年 第064章－070章（改）
+    quote: 铁柱他爹看自己媳妇还要说什么
+    span:
+    - 206
+    - 224
+- from: 王林
+  to: 铁柱母亲
+  type: 家族
+  status: 稳定
+  confidence: 0.86
+  notes: 称呼“娘”且为其母
+  first_seen_chunk: '000057'
+  evidence:
+  - chunk_id: '000057'
+    chapter_title: 第一卷 平庸少年 第064章－070章（改）
+    quote: 铁柱他娘立刻不满，瞪着王林。
+    span:
+    - 84
+    - 101
+- from: 王林
+  to: 阿呆
+  type: 上下级
+  status: 稳定
+  confidence: 0.92
+  notes: 阿呆被明确为王林尸傀并随行
+  first_seen_chunk: 000095
+  evidence:
+  - chunk_id: 000095
+    chapter_title: 第二卷 修真血影 第095章 进宗
+    quote: 怪人阿呆...安静的站在王林身后...青年...问道：“...是您的尸傀？”王林...点了点头。
+    span:
+    - 690
+    - 1115
+- from: 王林
+  to: 阿呆
+  type: 上下级
+  status: 不确定
+  confidence: 0.55
+  notes: 阿呆随行在王林身后
+  first_seen_chunk: 000096
+  evidence:
+  - chunk_id: 000096
+    chapter_title: 第二卷 修真血影 第095章 进宗
+    quote: 木冗看了看王林身后的阿呆
+    span:
+    - 199
+    - 213
+- from: 王林
+  to: 阿呆
+  type: 亲友
+  status: 稳定
+  confidence: 0.72
+  notes: 明确提到二人结识
+  first_seen_chunk: 000092
+  evidence:
+  - chunk_id: 000092
+    chapter_title: 第二卷 修真血影 第093章 尸阴宗（二）
+    quote: 小友，你与阿呆的结识，他早就告诉我了
+    span:
+    - 112
+    - 132
+- from: 王林
+  to: 阿呆
+  type: 其他
+  status: 变化中
+  confidence: 0.8
+  notes: 阿呆跟随王林行动
+  first_seen_chunk: 000093
+  evidence:
+  - chunk_id: 000093
+    chapter_title: 第二卷 修真血影 第094章 尸阴宗（三）
+    quote: 怪人犹豫了一下，跟着王林冲进传送阵
+    span:
+    - 1335
+    - 1353
+- from: 王林
+  to: 马姓老者
+  type: 敌对
+  status: 结束
+  confidence: 0.96
+  notes: 言语冲突后直接击杀
+  first_seen_chunk: '000123'
+  evidence:
+  - chunk_id: '000123'
+    chapter_title: 第二卷 修真血影 第110章 柳眉
+    quote: 马姓老者...冷笑道...忽然间...胸口出现一个碗大的伤口...气绝身亡
+    span:
+    - 1554
+    - 1668
+- from: 王林
+  to: 魔道年轻弟子
+  type: 敌对
+  status: 结束
+  confidence: 0.9
+  notes: 王林以杀气锁定并击杀该弟子
+  first_seen_chunk: '000116'
+  evidence:
+  - chunk_id: '000116'
+    chapter_title: 第二卷 修真血影 第105章 极境临世
+    quote: 魔道的那位修士胸口绿光一闪...身体立刻化成冰雕
+    span:
+    - 1259
+    - 1291
+- from: 王林
+  to: 黄衣青年
+  type: 上下级
+  status: 稳定
+  confidence: 0.86
+  notes: 对方安排杂务并以饭食要挟
+  first_seen_chunk: '000012'
+  evidence:
+  - chunk_id: '000012'
+    chapter_title: 第一卷 平庸少年 第011章 张虎
+    quote: 今天看到他了，和我说从明天开始每天挑满十缸水，否则没有饭吃。
+    span:
+    - 248
+    - 283
+- from: 王林
+  to: 黑衣中年人
+  type: 敌对
+  status: 结束
+  confidence: 0.97
+  notes: 双方斗法互相攻击
+  first_seen_chunk: '000064'
+  evidence:
+  - chunk_id: '000064'
+    chapter_title: 第二卷 修真血影 第077章 即墨老人
+    quote: 中年人目露杀机...对着王林一点...猛地冲去
+    span:
+    - 141
+    - 170
+  - chunk_id: '000064'
+    chapter_title: 第二卷 修真血影 第077章 即墨老人
+    quote: 第三个字符紧追印上，中年人身体轰然间碎裂
+    span:
+    - 1630
+    - 1652
+- from: 王浩
+  to: 主人
+  type: 上下级
+  status: 稳定
+  confidence: 0.86
+  notes: 以“主人”称呼且受其限制
+  first_seen_chunk: '000033'
+  evidence:
+  - chunk_id: '000033'
+    chapter_title: 第一卷 平庸少年 第032章 交易
+    quote: 王浩推门，并未走进，急促道：“主人炼丹耽搁了时间，我好不容易才出来”
+    span:
+    - 507
+    - 542
+- from: 王浩
+  to: 主子
+  type: 上下级
+  status: 稳定
+  confidence: 0.6
+  notes: 童子即仆人，受主子差遣
+  first_seen_chunk: '000012'
+  evidence:
+  - chunk_id: '000012'
+    chapter_title: 第一卷 平庸少年 第011章 张虎
+    quote: 如王浩般成为别人的童子，其实所谓童子，直白来说就是仆人。
+    span:
+    - 2350
+    - 2382
+- from: 王浩
+  to: 王林
+  type: 交易
+  status: 变化中
+  confidence: 0.76
+  notes: 王浩提出借仙符，形成利益请求
+  first_seen_chunk: '000031'
+  evidence:
+  - chunk_id: '000031'
+    chapter_title: 第一卷 平庸少年 第030章 王浩
+    quote: “你能不能借我一些？”
+    span:
+    - 2263
+    - 2276
+  - chunk_id: '000044'
+    chapter_title: 第一卷 平庸少年 第043章 故友
+    quote: 王林...把炼制偏方汤药的事说了出来。王浩立刻打了保票
+    span:
+    - 1496
+    - 1530
+- from: 王浩
+  to: 王林
+  type: 亲友
+  status: 稳定
+  confidence: 0.8
+  notes: 并肩低声交谈，至少相识
+  first_seen_chunk: '000004'
+  evidence:
+  - chunk_id: '000004'
+    chapter_title: 第一卷 平庸少年 第003章 测试
+    quote: 王浩撇了撇嘴，对王林低声道
+    span:
+    - 949
+    - 965
+  - chunk_id: '000032'
+    chapter_title: 第一卷 平庸少年 第031章 雪水
+    quote: 王浩叹了口气...说道：“铁柱哥...我不甘心”
+    span:
+    - 150
+    - 190
+  - chunk_id: '000044'
+    chapter_title: 第一卷 平庸少年 第043章 故友
+    quote: 对了，铁柱哥，你找我，有什么事？
+    span:
+    - 1428
+    - 1446
+- from: 王浩
+  to: 王林
+  type: 亲友
+  status: 变化中
+  confidence: 0.68
+  notes: 主动靠拢，关系亲近但未明示
+  first_seen_chunk: '000055'
+  evidence:
+  - chunk_id: '000055'
+    chapter_title: 第一卷 平庸少年 第063章 强势
+    quote: 他看到王林后，轻叹一声，向着王林靠拢。
+    span:
+    - 642
+    - 666
+- from: 王浩
+  to: 王浩父亲
+  type: 家族
+  status: 稳定
+  confidence: 0.92
+  notes: 家父表明父子关系
+  first_seen_chunk: '000004'
+  evidence:
+  - chunk_id: '000004'
+    chapter_title: 第一卷 平庸少年 第003章 测试
+    quote: 这是家父偶然间在山中得到
+    span:
+    - 1430
+    - 1443
+- from: 王浩
+  to: 黑衣中年人
+  type: 交易
+  status: 变化中
+  confidence: 0.86
+  notes: 以灵芝献礼换取对方收留/身份
+  first_seen_chunk: '000004'
+  evidence:
+  - chunk_id: '000004'
+    chapter_title: 第一卷 平庸少年 第003章 测试
+    quote: 从怀里拿出一个玉盒...献给上仙您
+    span:
+    - 1402
+    - 1424
+- from: 王浩家主人
+  to: 王浩
+  type: 上下级
+  status: 稳定
+  confidence: 0.7
+  notes: 王浩称其为主人，存在主从关系
+  first_seen_chunk: '000032'
+  evidence:
+  - chunk_id: '000032'
+    chapter_title: 第一卷 平庸少年 第031章 雪水
+    quote: 这丹药把持在我家主人那里
+    span:
+    - 820
+    - 833
+- from: 白衣陌生青年
+  to: 王林
+  type: 其他
+  status: 变化中
+  confidence: 0.74
+  notes: 主持测试并对王林表现出兴趣与指示
+  first_seen_chunk: '000005'
+  evidence:
+  - chunk_id: '000005'
+    chapter_title: 第一卷 平庸少年 第004章 无情
+    quote: 青年...说道：“别犹豫...会被收为真正的弟子！”
+    span:
+    - 2060
+    - 2094
+  - chunk_id: 000095
+    chapter_title: 第二卷 修真血影 第095章 进宗
+    quote: 青年...抱拳道：“前辈...不如您随我去见执事长老？”...一路上...态度越是恭敬
+    span:
+    - 800
+    - 1045
+- from: 白衣陌生青年
+  to: 王林
+  type: 敌对
+  status: 结束
+  confidence: 0.86
+  notes: 青年主动袭杀夺宝，后被王林杀
+  first_seen_chunk: '000116'
+  evidence:
+  - chunk_id: '000116'
+    chapter_title: 第二卷 修真血影 第105章 极境临世
+    quote: 他本来远远的看到王林独自一人...想要过来杀人夺宝
+    span:
+    - 333
+    - 372
+- from: 白衣陌生青年
+  to: 青年家师
+  type: 师徒
+  status: 稳定
+  confidence: 0.78
+  notes: 青年称尸傀为家师所赠
+  first_seen_chunk: 000095
+  evidence:
+  - chunk_id: 000095
+    chapter_title: 第二卷 修真血影 第095章 进宗
+    quote: 青年...笑道：“前辈，我这具尸傀是家师所赠...我费了好大的心力，才祭炼成功。”
+    span:
+    - 1260
+    - 1335
+- from: 白衣青年
+  to: 孙长老
+  type: 上下级
+  status: 稳定
+  confidence: 0.82
+  notes: 称孙师叔并代为通传
+  first_seen_chunk: '000013'
+  evidence:
+  - chunk_id: '000013'
+    chapter_title: 第一卷 平庸少年 第012章 仙符
+    quote: 白衣青年懒洋洋的说道：“孙师叔，有记名弟子来找你。”
+    span:
+    - 1638
+    - 1682
+  - chunk_id: '000016'
+    chapter_title: 第一卷 平庸少年 第015章 怀疑
+    quote: 白衣青年一撇嘴...二话不说向院内走去
+    span:
+    - 2570
+    - 2594
+- from: 白衣青年
+  to: 孙长老
+  type: 敌对
+  status: 稳定
+  confidence: 0.66
+  notes: 称其垃圾师父，明显轻蔑对立
+  first_seen_chunk: '000017'
+  evidence:
+  - chunk_id: '000017'
+    chapter_title: 第一卷 平庸少年 第016章 弟子
+    quote: 耻笑自语道：“垃圾师父收了个垃圾弟子”
+    span:
+    - 2056
+    - 2080
+- from: 白衣青年
+  to: 王林
+  type: 上下级
+  status: 稳定
+  confidence: 0.66
+  notes: 正院人员对王林有接待/带路职责
+  first_seen_chunk: '000016'
+  evidence:
+  - chunk_id: '000016'
+    chapter_title: 第一卷 平庸少年 第015章 怀疑
+    quote: 出现的还是那个白衣青年，他略带惊讶，讽刺道：“怎么，又要回家探亲？”
+    span:
+    - 2424
+    - 2468
+- from: 白衣青年
+  to: 王林
+  type: 敌对
+  status: 稳定
+  confidence: 0.67
+  notes: 言语侮辱，表现敌意/轻蔑
+  first_seen_chunk: '000017'
+  evidence:
+  - chunk_id: '000017'
+    chapter_title: 第一卷 平庸少年 第016章 弟子
+    quote: 于是嘴里耻笑自语道：“垃圾师父收了个垃圾弟子”
+    span:
+    - 2048
+    - 2080
+- from: 紫大人
+  to: 吴宇
+  type: 敌对
+  status: 变化中
+  confidence: 0.86
+  notes: 存在吞噬行为，明显对立
+  first_seen_chunk: 000108
+  evidence:
+  - chunk_id: 000108
+    chapter_title: 第二卷 修真血影 第101章 魂魄玉简
+    quote: 助紫大人吞噬我师弟吴宇。
+    span:
+    - 382
+    - 394
+- from: 紫衣男子
+  to: 众人
+  type: 上下级
+  status: 稳定
+  confidence: 0.78
+  notes: 众人对其恭敬称二师兄
+  first_seen_chunk: '000034'
+  evidence:
+  - chunk_id: '000034'
+    chapter_title: 第一卷 平庸少年 第033章 口诀
+    quote: 纷纷恭敬道：“参加二师兄！”
+    span:
+    - 860
+    - 878
+- from: 紫衣男子
+  to: 王林
+  type: 利用
+  status: 变化中
+  confidence: 0.86
+  notes: 公开引诱他人盯上王林
+  first_seen_chunk: '000034'
+  evidence:
+  - chunk_id: '000034'
+    chapter_title: 第一卷 平庸少年 第033章 口诀
+    quote: 若又弄到这液体，可去后山找我...一句便把王林推到一个极其危险的边缘。
+    span:
+    - 1322
+    - 1407
+- from: 红脸老者
+  to: 赵龙
+  type: 师徒
+  status: 稳定
+  confidence: 0.9
+  notes: 明确称“我最得意的弟子”
+  first_seen_chunk: 000049
+  evidence:
+  - chunk_id: 000049
+    chapter_title: 第一卷 平庸少年 第048章 交流（二）
+    quote: 这赵龙是我最得意的弟子...这莲花剑气...已经修炼了五年
+    span:
+    - 685
+    - 734
+- from: 罗刹
+  to: 阿呆
+  type: 上下级
+  status: 不确定
+  confidence: 0.55
+  notes: 被要求提升修为，疑似可支配
+  first_seen_chunk: 000108
+  evidence:
+  - chunk_id: 000108
+    chapter_title: 第二卷 修真血影 第101章 魂魄玉简
+    quote: 罗刹，我要求你把阿呆提升至结丹期
+    span:
+    - 318
+    - 334
+- from: 老妇人
+  to: 黄龙真人
+  type: 上下级
+  status: 稳定
+  confidence: 0.9
+  notes: 老妇人下令黄龙执行召集任务
+  first_seen_chunk: '000054'
+  evidence:
+  - chunk_id: '000054'
+    chapter_title: 第一卷 平庸少年 第062章 劫来
+    quote: “黄龙，速去把所有内门弟子叫来此地，我恒岳派500年来最大的浩劫，就在今日了。”
+    span:
+    - 1611
+    - 1663
+- from: 蓝皮肤怪人
+  to: 王林
+  type: 情感
+  status: 稳定
+  confidence: 0.74
+  notes: 对雕像人物表现出虔诚崇拜
+  first_seen_chunk: 000089
+  evidence:
+  - chunk_id: 000089
+    chapter_title: 第二卷 修真血影 第092章 尸阴宗（一）
+    quote: 全身匍匐在地，眼中露出虔诚之色，嘴里发出一系列仿佛歌声般的吟唱
+    span:
+    - 3296
+    - 3332
+- from: 蓝皮肤怪人
+  to: 王林
+  type: 敌对
+  status: 变化中
+  confidence: 0.62
+  notes: “迅速逼来”带威胁性，倾向敌对但未明示交战
+  first_seen_chunk: 000088
+  evidence:
+  - chunk_id: 000088
+    chapter_title: 第二卷 修真血影 第091章 极阴灵力
+    quote: 蓝皮肤怪人身子如同一道蓝色的闪电，迅速逼来
+    span:
+    - 2047
+    - 2072
+- from: 蓝肤怪人
+  to: 王林
+  type: 交易
+  status: 结束
+  confidence: 0.74
+  notes: 怪人交付圆珠物体给王林
+  first_seen_chunk: 000083
+  evidence:
+  - chunk_id: 000083
+    chapter_title: 第二卷 修真血影 第089章 唬人法宝
+    quote: 于是把手中物体扔向王林。
+    span:
+    - 1797
+    - 1811
+- from: 蓝肤怪人
+  to: 王林
+  type: 亲友
+  status: 不确定
+  confidence: 0.55
+  notes: 王林推测其补偿心理，偏善意但不确定
+  first_seen_chunk: 000083
+  evidence:
+  - chunk_id: 000083
+    chapter_title: 第二卷 修真血影 第089章 唬人法宝
+    quote: 拿走小迷踪阵法，定是觉得过意不去，所以给我送来这么一个宝贝。
+    span:
+    - 3330
+    - 3366
+- from: 蓝肤怪人
+  to: 王林
+  type: 敌对
+  status: 稳定
+  confidence: 0.9
+  notes: 怪人对王林怨恨并对峙
+  first_seen_chunk: 000082
+  evidence:
+  - chunk_id: 000082
+    chapter_title: 第二卷 修真血影 第088章 蓝肤怪人
+    quote: 他盯着王林，目中露出怨恨之色，不过显然对王林有很深的忌惮
+    span:
+    - 503
+    - 536
+- from: 藤刑森
+  to: 无锋谷
+  type: 其他
+  status: 稳定
+  confidence: 0.88
+  notes: 客卿身份隶属/合作关系
+  first_seen_chunk: '000066'
+  evidence:
+  - chunk_id: '000066'
+    chapter_title: 第二卷 修真血影 第079章 祭炼飞剑
+    quote: 同时，他还是无锋谷的客卿，地位尊高，身份超然。
+    span:
+    - 463
+    - 490
+- from: 藤刑森
+  to: 藤家弟子
+  type: 上下级
+  status: 稳定
+  confidence: 0.72
+  notes: 始祖发布禁令，体现统辖
+  first_seen_chunk: '000066'
+  evidence:
+  - chunk_id: '000066'
+    chapter_title: 第二卷 修真血影 第079章 祭炼飞剑
+    quote: 有鉴于此，藤家始祖藤邢森对藤家城下了禁斗令。
+    span:
+    - 673
+    - 699
+- from: 藤化元
+  to: 伙计
+  type: 敌对
+  status: 结束
+  confidence: 0.85
+  notes: 藤化元出手致其死亡
+  first_seen_chunk: '000112'
+  evidence:
+  - chunk_id: '000112'
+    chapter_title: 第二卷 修真血影 第103章 悼劫（二）
+    quote: 那伙计与他妹妹，头颅立刻炸开
+    span:
+    - 13
+    - 30
+- from: 藤化元
+  to: 修士天
+  type: 交易
+  status: 不确定
+  confidence: 0.46
+  notes: 仅知其借助对方术法获知信息
+  first_seen_chunk: '000117'
+  evidence:
+  - chunk_id: '000117'
+    chapter_title: 第二卷 修真血影 第106章 等级
+    quote: 藤化元为何从仙风道骨般的修士天算之法中得知明知王林在谷内
+    span:
+    - 1604
+    - 1637
+- from: 藤化元
+  to: 启明
+  type: 交易
+  status: 变化中
+  confidence: 0.86
+  notes: 以令牌换取启明施展天算寻人
+  first_seen_chunk: '000110'
+  evidence:
+  - chunk_id: '000110'
+    chapter_title: 第二卷 修真血影 第102章 悼劫（一）
+    quote: 老夫不惜开罪无锋谷，取来域外战场的资格令牌，就是为了你的天算之术
+    span:
+    - 474
+    - 510
+- from: 藤化元
+  to: 妹妹
+  type: 敌对
+  status: 结束
+  confidence: 0.85
+  notes: 藤化元出手致其死亡
+  first_seen_chunk: '000112'
+  evidence:
+  - chunk_id: '000112'
+    chapter_title: 第二卷 修真血影 第103章 悼劫（二）
+    quote: 那伙计与他妹妹，头颅立刻炸开
+    span:
+    - 13
+    - 30
+- from: 藤化元
+  to: 王卓
+  type: 敌对
+  status: 不确定
+  confidence: 0.45
+  notes: 在其身边杀人并越过进入宅内
+  first_seen_chunk: '000112'
+  evidence:
+  - chunk_id: '000112'
+    chapter_title: 第二卷 修真血影 第103章 悼劫（二）
+    quote: 越过王卓与王浩，向宅子内走去
+    span:
+    - 150
+    - 168
+- from: 藤化元
+  to: 王林
+  type: 其他
+  status: 稳定
+  confidence: 0.9
+  notes: 对王林施加诅咒（紫色菱形印记）
+  first_seen_chunk: '000075'
+  evidence:
+  - chunk_id: '000075'
+    chapter_title: 第二卷 修真血影 第085章 夺基（五）
+    quote: 杀我藤家人，必受我藤化元诅咒！
+    span:
+    - 3430
+    - 3450
+- from: 藤化元
+  to: 王林
+  type: 其他
+  status: 不确定
+  confidence: 0.7
+  notes: 试图接近王林，目的未说明
+  first_seen_chunk: 000087
+  evidence:
+  - chunk_id: 000087
+    chapter_title: 第二卷 修真血影 第091章 极阴灵力
+    quote: 察觉到王林所在，正要瞬移过去
+    span:
+    - 63
+    - 79
+- from: 藤化元
+  to: 王林
+  type: 敌对
+  status: 变化中
+  confidence: 0.94
+  notes: 明确威胁追杀并结怨
+  first_seen_chunk: '000075'
+  evidence:
+  - chunk_id: '000075'
+    chapter_title: 第二卷 修真血影 第085章 夺基（五）
+    quote: 杀我藤家之人，必受诅咒，你死定了，我藤化元终有一日会找到你
+    span:
+    - 2500
+    - 2540
+  - chunk_id: '000076'
+    chapter_title: 第二卷 修真血影 第085章 夺基（五）
+    quote: 你被一个元婴期高手不惜耗费寿命诅咒了，只要你进入他一定范围之内，他就可瞬间出现在你的身边
+    span:
+    - 269
+    - 327
+  - chunk_id: 000128
+    chapter_title: 第二卷 修真血影 第115章
+    quote: 藤化元...狂声道：“王林，我看你往哪跑！”
+    span:
+    - 820
+    - 850
+- from: 藤化元
+  to: 王林
+  type: 敌对
+  status: 稳定
+  confidence: 0.95
+  notes: 以黑旗追踪并带敌意狞笑
+  first_seen_chunk: '000114'
+  evidence:
+  - chunk_id: '000114'
+    chapter_title: 第二卷 修真血影 第104章 悼劫（终）
+    quote: 露出一副画面，画面中，王林正在一处密林间飞快的行走。藤化元狞笑一声
+    span:
+    - 456
+    - 502
+  - chunk_id: '000117'
+    chapter_title: 第二卷 修真血影 第106章 等级
+    quote: 藤化元正是因为知道这些，所以才屠杀王林全族，收其魂魄，逼王林走出决明谷。
+    span:
+    - 1796
+    - 1834
+  - chunk_id: 000118
+    chapter_title: 第二卷 修真血影 第106章 等级
+    quote: 那藤化元之所以杀你亲人，是因为怕你跑了，这是在逼你现身
+    span:
+    - 132
+    - 166
+- from: 藤化元
+  to: 王林亲人
+  type: 敌对
+  status: 结束
+  confidence: 0.83
+  notes: 明确实施杀害行为
+  first_seen_chunk: 000118
+  evidence:
+  - chunk_id: 000118
+    chapter_title: 第二卷 修真血影 第106章 等级
+    quote: 那藤化元之所以杀你亲人
+    span:
+    - 132
+    - 144
+- from: 藤化元
+  to: 王浩
+  type: 敌对
+  status: 不确定
+  confidence: 0.45
+  notes: 行为显示对其不友好但未明言
+  first_seen_chunk: '000112'
+  evidence:
+  - chunk_id: '000112'
+    chapter_title: 第二卷 修真血影 第103章 悼劫（二）
+    quote: 越过王卓与王浩，向宅子内走去
+    span:
+    - 150
+    - 168
+- from: 藤化元
+  to: 王鹏
+  type: 家族
+  status: 结束
+  confidence: 0.62
+  notes: 提到玄孙被杀；王鹏死讯在前
+  first_seen_chunk: 000128
+  evidence:
+  - chunk_id: 000128
+    chapter_title: 第二卷 修真血影 第115章
+    quote: “诸位道友，此人杀我玄孙，与藤某有不共戴天之仇”
+    span:
+    - 1086
+    - 1114
+- from: 藤化元
+  to: 藤厉
+  type: 家族
+  status: 稳定
+  confidence: 0.92
+  notes: 藤厉称其为太爷爷，家族长辈关系
+  first_seen_chunk: '000075'
+  evidence:
+  - chunk_id: '000075'
+    chapter_title: 第二卷 修真血影 第085章 夺基（五）
+    quote: 你若杀我，我太爷爷不会放过你！他老人家是元婴期高手
+    span:
+    - 1415
+    - 1450
+- from: 藤化元
+  to: 藤厉
+  type: 情感
+  status: 稳定
+  confidence: 0.86
+  notes: 爱护并留神识保护/感知
+  first_seen_chunk: '000075'
+  evidence:
+  - chunk_id: '000075'
+    chapter_title: 第二卷 修真血影 第085章 夺基（五）
+    quote: 定是对于这藤厉爱护有佳，所以一直在其灵魂内留有一丝神识。
+    span:
+    - 2263
+    - 2300
+- from: 藤厉
+  to: 尸魅
+  type: 敌对
+  status: 稳定
+  confidence: 0.9
+  notes: 藤厉以雷球、巨剑攻击尸魅
+  first_seen_chunk: '000072'
+  evidence:
+  - chunk_id: '000072'
+    chapter_title: 第二卷 修真血影 第083章 夺基（三）
+    quote: 巨剑上的雷球如雨点一般落下，砸在尸魅身上
+    span:
+    - 196
+    - 219
+- from: 藤厉
+  to: 王林
+  type: 其他
+  status: 结束
+  confidence: 0.83
+  notes: 王林吸收其灵根，体现被夺取/受害关系
+  first_seen_chunk: 000079
+  evidence:
+  - chunk_id: 000079
+    chapter_title: 第二卷 修真血影 第087章 黄泉寒丹
+    quote: 三，吸收了藤厉的部分灵根后，他的天资，提高了不少。
+    span:
+    - 3595
+    - 3623
+- from: 藤厉
+  to: 王林
+  type: 敌对
+  status: 稳定
+  confidence: 0.97
+  notes: 明确追击王林，呈对立关系
+  first_seen_chunk: '000070'
+  evidence:
+  - chunk_id: '000070'
+    chapter_title: 第二卷 修真血影 第082章 夺基（二）
+    quote: 他离开后不久，藤厉追到了此处，他为了追上王林，一直在用法术行走
+    span:
+    - 431
+    - 467
+  - chunk_id: '000071'
+    chapter_title: 第二卷 修真血影 第083章 夺基（三）
+    quote: 他对王林的恨已经超越了一切……这一切，都是拜王林所赐。
+    span:
+    - 214
+    - 252
+- from: 藤厉
+  to: 王林
+  type: 敌对
+  status: 结束
+  confidence: 0.95
+  notes: 明确追杀关系，后被王林击败
+  first_seen_chunk: '000073'
+  evidence:
+  - chunk_id: '000073'
+    chapter_title: 第二卷 修真血影 第084章 夺基（四）
+    quote: 这人追杀我多日，若是放任他离开，日后定是个大麻烦
+    span:
+    - 2637
+    - 2666
+- from: 藤家弟子
+  to: 筑基期阴沉男子
+  type: 上下级
+  status: 不确定
+  confidence: 0.55
+  notes: 对其恭敬陪同，疑似身份更高
+  first_seen_chunk: '000066'
+  evidence:
+  - chunk_id: '000066'
+    chapter_title: 第二卷 修真血影 第079章 祭炼飞剑
+    quote: 扔出一个腰牌，两个藤家弟子立刻神态极为恭敬，其中一人更是亲自陪同
+    span:
+    - 1374
+    - 1416
+- from: 藤家老太爷
+  to: 藤厉
+  type: 家族
+  status: 稳定
+  confidence: 0.92
+  notes: 家族长辈给予保命法宝
+  first_seen_chunk: '000071'
+  evidence:
+  - chunk_id: '000071'
+    chapter_title: 第二卷 修真血影 第083章 夺基（三）
+    quote: 藤厉不得已拿出了藤家老太爷给他的保命法宝
+    span:
+    - 667
+    - 690
+- from: 藤家老祖腾化元
+  to: 未知仇人
+  type: 敌对
+  status: 变化中
+  confidence: 0.66
+  notes: 杀机与“寻找仇人”指向敌对但未指名
+  first_seen_chunk: 000086
+  evidence:
+  - chunk_id: 000086
+    chapter_title: 第二卷 修真血影 第090章 初露迹象
+    quote: 他面目阴沉，盯着脚下丛林，眼中露出强烈的杀机。
+    span:
+    - 430
+    - 458
+- from: 藤家老祖腾化元
+  to: 藤厉
+  type: 家族
+  status: 稳定
+  confidence: 0.93
+  notes: 自称太爷爷，明确家族长辈关系
+  first_seen_chunk: 000086
+  evidence:
+  - chunk_id: 000086
+    chapter_title: 第二卷 修真血影 第090章 初露迹象
+    quote: “厉儿，太爷爷来为你报仇了。”
+    span:
+    - 486
+    - 503
+- from: 藤家老祖腾化元
+  to: 藤厉
+  type: 情感
+  status: 稳定
+  confidence: 0.78
+  notes: 为其报仇体现强烈亲情/维护
+  first_seen_chunk: 000086
+  evidence:
+  - chunk_id: 000086
+    chapter_title: 第二卷 修真血影 第090章 初露迹象
+    quote: “厉儿，太爷爷来为你报仇了。”
+    span:
+    - 486
+    - 503
+- from: 虚幻的身影
+  to: 主人
+  type: 上下级
+  status: 稳定
+  confidence: 0.74
+  notes: 称其为主人，语气像属下/仆从
+  first_seen_chunk: 000090
+  evidence:
+  - chunk_id: 000090
+    chapter_title: 第二卷 修真血影 第092章 尸阴宗（一）
+    quote: “你是说，主人的元婴，就躲这雕像之内？”
+    span:
+    - 624
+    - 647
+- from: 虚幻的身影
+  to: 蓝肤怪人
+  type: 其他
+  status: 变化中
+  confidence: 0.62
+  notes: 虚影发问，怪人反应剧变，疑对峙将起
+  first_seen_chunk: 000090
+  evidence:
+  - chunk_id: 000090
+    chapter_title: 第二卷 修真血影 第092章 尸阴宗（一）
+    quote: 沙哑的声音自天空传来。“你是说，主人的元婴，就躲这雕像之内？”地面上怪人面色大变
+    span:
+    - 607
+    - 659
+- from: 赵富贵
+  to: 刘师兄
+  type: 交易
+  status: 不确定
+  confidence: 0.86
+  notes: 送仙符换取轻松差事
+  first_seen_chunk: '000027'
+  evidence:
+  - chunk_id: '000027'
+    chapter_title: 第一卷 平庸少年 第026章 歹意
+    quote: 前几天赵富贵给你送了一张仙符，让你帮着挑选个轻松点的活儿
+    span:
+    - 820
+    - 857
+- from: 赵小二
+  to: 赵小三
+  type: 家族
+  status: 稳定
+  confidence: 0.95
+  notes: 明确自称兄弟关系
+  first_seen_chunk: '000030'
+  evidence:
+  - chunk_id: '000030'
+    chapter_title: 第一卷 平庸少年 第029章 上门
+    quote: “赵小三，我是你哥，你这个吃里爬外的狗蛋
+    span:
+    - 86
+    - 112
+- from: 辛海
+  to: 上官云
+  type: 交易
+  status: 稳定
+  confidence: 0.74
+  notes: 明确提到两人之间有约定并将履行
+  first_seen_chunk: '000126'
+  evidence:
+  - chunk_id: '000126'
+    chapter_title: 第二卷 修真血影 第113章
+    quote: “输了就是输了，老夫不会耍赖，我们之间的约定，老夫自然会遵守。”
+    span:
+    - 1708
+    - 1750
+- from: 辛海
+  to: 上官云
+  type: 敌对
+  status: 变化中
+  confidence: 0.58
+  notes: 言语交锋，关系紧张但未明示为仇敌
+  first_seen_chunk: '000126'
+  evidence:
+  - chunk_id: '000126'
+    chapter_title: 第二卷 修真血影 第113章
+    quote: 辛海冷笑道：“上官老弟，你不用在这里说风凉话”
+    span:
+    - 1658
+    - 1685
+- from: 辛海
+  to: 周游
+  type: 上下级
+  status: 稳定
+  confidence: 0.6
+  notes: 周游为飘渺宗弟子，辛海为其始祖
+  first_seen_chunk: '000126'
+  evidence:
+  - chunk_id: '000126'
+    chapter_title: 第二卷 修真血影 第113章
+    quote: “出来了，我看见周游了，他是飘渺宗的弟子……”
+    span:
+    - 1143
+    - 1172
+- from: 道虚师叔
+  to: 恒岳派内门弟子
+  type: 上下级
+  status: 稳定
+  confidence: 0.66
+  notes: 师叔对弟子训示
+  first_seen_chunk: 000049
+  evidence:
+  - chunk_id: 000049
+    chapter_title: 第一卷 平庸少年 第048章 交流（二）
+    quote: 道虚师叔，含笑对四周弟子说道：“...你们这些内门弟子看好了”
+    span:
+    - 820
+    - 872
+- from: 道虚师叔
+  to: 王卓
+  type: 其他
+  status: 稳定
+  confidence: 0.7
+  notes: 明确提及道虚师叔曾提到王卓
+  first_seen_chunk: '000004'
+  evidence:
+  - chunk_id: '000004'
+    chapter_title: 第一卷 平庸少年 第003章 测试
+    quote: 原来你就是道虚师叔提到过的王卓
+    span:
+    - 790
+    - 807
+- from: 道虚师叔
+  to: 王卓
+  type: 师徒
+  status: 稳定
+  confidence: 0.95
+  notes: 以“为师”称呼并下达任务
+  first_seen_chunk: '000042'
+  evidence:
+  - chunk_id: '000042'
+    chapter_title: 第一卷 平庸少年 第041章 蜈蚣
+    quote: 道虚师叔...说道：“王卓...你负责招待...为师定不饶你！”
+    span:
+    - 918
+    - 959
+- from: 郎中先生
+  to: 王林之爹
+  type: 其他
+  status: 结束
+  confidence: 0.72
+  notes: 医患关系：曾为其开方
+  first_seen_chunk: '000044'
+  evidence:
+  - chunk_id: '000044'
+    chapter_title: 第一卷 平庸少年 第043章 故友
+    quote: 当时郎中开出的药方里，就有蜈蚣。
+    span:
+    - 337
+    - 356
+- from: 铁柱
+  to: 四叔
+  type: 家族
+  status: 稳定
+  confidence: 0.9
+  notes: 明确称“四叔”，为叔侄关系
+  first_seen_chunk: '000002'
+  evidence:
+  - chunk_id: '000002'
+    chapter_title: 第一卷 平庸少年 第001章 离乡
+    quote: “行，铁柱，跟着你四叔走吧”
+    span:
+    - 6
+    - 21
+- from: 铁柱
+  to: 铁柱母亲
+  type: 家族
+  status: 稳定
+  confidence: 0.95
+  notes: 明确为其母亲
+  first_seen_chunk: '000002'
+  evidence:
+  - chunk_id: '000002'
+    chapter_title: 第一卷 平庸少年 第001章 离乡
+    quote: 他母亲从房间拿出个包裹，爱怜的说道：“铁柱”
+    span:
+    - 76
+    - 104
+- from: 铁柱
+  to: 铁柱父亲
+  type: 家族
+  status: 稳定
+  confidence: 0.85
+  notes: 父母指向其父亲
+  first_seen_chunk: '000002'
+  evidence:
+  - chunk_id: '000002'
+    chapter_title: 第一卷 平庸少年 第001章 离乡
+    quote: 铁柱不舍的望着父母
+    span:
+    - 55
+    - 64
+- from: 铁柱他爹
+  to: 铁柱母亲
+  type: 家族
+  status: 稳定
+  confidence: 0.9
+  notes: 明确称“自己媳妇”
+  first_seen_chunk: '000057'
+  evidence:
+  - chunk_id: '000057'
+    chapter_title: 第一卷 平庸少年 第064章－070章（改）
+    quote: 铁柱他爹看自己媳妇还要说什么
+    span:
+    - 206
+    - 224
+- from: 铁柱母亲
+  to: 四叔
+  type: 上下级
+  status: 变化中
+  confidence: 0.6
+  notes: 出行期间四叔对铁柱有管束权
+  first_seen_chunk: '000002'
+  evidence:
+  - chunk_id: '000002'
+    chapter_title: 第一卷 平庸少年 第001章 离乡
+    quote: “铁柱，出去要听四叔话”
+    span:
+    - 120
+    - 133
+- from: 阿呆
+  to: 吴宇
+  type: 上下级
+  status: 稳定
+  confidence: 0.78
+  notes: 吴宇能命令阿呆，呈主从
+  first_seen_chunk: 000091
+  evidence:
+  - chunk_id: 000091
+    chapter_title: 第二卷 修真血影 第093章 尸阴宗（二）
+    quote: 小人...拍了拍怪人，说道：“阿呆，不要对客人无礼。”
+    span:
+    - 1129
+    - 1162
+- from: 阿呆
+  to: 王林
+  type: 交易
+  status: 结束
+  confidence: 0.74
+  notes: 明确赠送法宝，属赠与/往来
+  first_seen_chunk: '000124'
+  evidence:
+  - chunk_id: '000124'
+    chapter_title: 第二卷 修真血影 第111章
+    quote: 这珠子是怪人阿呆送给他的第一个法宝。
+    span:
+    - 520
+    - 542
+- from: 阿呆
+  to: 王林
+  type: 其他
+  status: 变化中
+  confidence: 0.62
+  notes: 救下后仍警惕，关系未定
+  first_seen_chunk: 000091
+  evidence:
+  - chunk_id: 000091
+    chapter_title: 第二卷 修真血影 第093章 尸阴宗（二）
+    quote: 怪人立刻缓和，但仍然警惕的扫着王林。
+    span:
+    - 1163
+    - 1182
+- from: 阿木
+  to: 吴宇
+  type: 敌对
+  status: 稳定
+  confidence: 0.92
+  notes: 叛变并重伤吴宇，持续追杀
+  first_seen_chunk: 000091
+  evidence:
+  - chunk_id: 000091
+    chapter_title: 第二卷 修真血影 第093章 尸阴宗（二）
+    quote: 尸傀更是趁着这个机会重伤于我，在我心神巨震时，逃脱了我的控制
+    span:
+    - 1997
+    - 2034
+- from: 阿木
+  to: 尸阴宗弟子
+  type: 上下级
+  status: 变化中
+  confidence: 0.72
+  notes: 称其为主人，原为受控尸傀
+  first_seen_chunk: 000109
+  evidence:
+  - chunk_id: 000109
+    chapter_title: 第二卷 修真血影 第102章 悼劫（一）
+    quote: 最后目光放在距离自己最近的主人身上
+    span:
+    - 1010
+    - 1031
+- from: 阿木
+  to: 尸阴宗弟子
+  type: 敌对
+  status: 变化中
+  confidence: 0.86
+  notes: 尸傀吞噬主人并杀死
+  first_seen_chunk: 000109
+  evidence:
+  - chunk_id: 000109
+    chapter_title: 第二卷 修真血影 第102章 悼劫（一）
+    quote: 猛然间跃起...一把抓住他的主人...修士...气绝身亡
+    span:
+    - 1060
+    - 1148
+- from: 阿木
+  to: 尸魅
+  type: 利用
+  status: 稳定
+  confidence: 0.72
+  notes: 利用尸魅与吴宇感应追踪
+  first_seen_chunk: 000091
+  evidence:
+  - chunk_id: 000091
+    chapter_title: 第二卷 修真血影 第093章 尸阴宗（二）
+    quote: 这次没想到我那肉身居然有了神智，凭借肉身与我的感应，他这才找到了这里
+    span:
+    - 2904
+    - 2940
+- from: 面色蜡黄的中年人
+  to: 王林
+  type: 其他
+  status: 结束
+  confidence: 0.74
+  notes: 对王林进行询问并检查资质
+  first_seen_chunk: '000005'
+  evidence:
+  - chunk_id: '000005'
+    chapter_title: 第一卷 平庸少年 第004章 无情
+    quote: 问道：“孩子，你叫什么名字？”...手在王林头上一按
+    span:
+    - 821
+    - 859
+- from: 飞剑制作者
+  to: 白展
+  type: 其他
+  status: 结束
+  confidence: 0.7
+  notes: 明确提到制作者曾帮助白展
+  first_seen_chunk: '000067'
+  evidence:
+  - chunk_id: '000067'
+    chapter_title: 第二卷 修真血影 第080章 血炼之法
+    quote: 那白展也一定是在那时受飞剑制作者的帮助，这才祭炼成自身之物
+    span:
+    - 1042
+    - 1078
+- from: 魔道年轻弟子
+  to: 几个师兄
+  type: 师徒
+  status: 稳定
+  confidence: 0.74
+  notes: 称对方为师兄，推定同门师承关系
+  first_seen_chunk: '000116'
+  evidence:
+  - chunk_id: '000116'
+    chapter_title: 第二卷 修真血影 第105章 极境临世
+    quote: 魔道中有个年轻的弟子...心底冷笑：“杀我师兄，我记住你了。”
+    span:
+    - 1007
+    - 1044
+- from: 魔道年轻弟子
+  to: 王林
+  type: 敌对
+  status: 结束
+  confidence: 0.86
+  notes: 因师兄被杀而生恨意与杀气
+  first_seen_chunk: '000116'
+  evidence:
+  - chunk_id: '000116'
+    chapter_title: 第二卷 修真血影 第105章 极境临世
+    quote: 盯着王林的背影...冷笑：“杀我师兄，我记住你了。”
+    span:
+    - 1019
+    - 1044
+- from: 鹤发童颜的老者
+  to: 老妇人
+  type: 同盟
+  status: 稳定
+  confidence: 0.76
+  notes: 共同应对外敌并主持阵法
+  first_seen_chunk: '000054'
+  evidence:
+  - chunk_id: '000054'
+    chapter_title: 第一卷 平庸少年 第062章 劫来
+    quote: 鹤发童颜的老者与老妇人面色大变，身子疾驰而出，来到苍松峰的石台之上
+    span:
+    - 1322
+    - 1362
+- from: 黄衣青年
+  to: 王林
+  type: 利用
+  status: 稳定
+  confidence: 0.7
+  notes: 指派挑水杂务，驱使劳作
+  first_seen_chunk: '000012'
+  evidence:
+  - chunk_id: '000012'
+    chapter_title: 第一卷 平庸少年 第011章 张虎
+    quote: 进去拿水桶吧，顺着东门出去，山间有个泉眼，到那里挑水。
+    span:
+    - 812
+    - 844
+- from: 黄龙真人
+  to: 欧阳师侄
+  type: 其他
+  status: 不确定
+  confidence: 0.55
+  notes: 剑被索取因欧阳看中，间接关联
+  first_seen_chunk: '000055'
+  evidence:
+  - chunk_id: '000055'
+    chapter_title: 第一卷 平庸少年 第063章 强势
+    quote: 你，把紫岳仙剑留下，这把剑，我欧阳师侄看中了。
+    span:
+    - 1984
+    - 2010
+- from: 黄龙真人
+  to: 欧阳道友
+  type: 其他
+  status: 稳定
+  confidence: 0.7
+  notes: 以道友相称并邀请入殿
+  first_seen_chunk: '000042'
+  evidence:
+  - chunk_id: '000042'
+    chapter_title: 第一卷 平庸少年 第041章 蜈蚣
+    quote: “欧阳道友，弟子们一路奔波...来，请进大殿！”
+    span:
+    - 740
+    - 774
+- from: 黄龙真人
+  to: 赵龙
+  type: 上下级
+  status: 稳定
+  confidence: 0.7
+  notes: 掌门评价门下弟子
+  first_seen_chunk: 000049
+  evidence:
+  - chunk_id: 000049
+    chapter_title: 第一卷 平庸少年 第048章 交流（二）
+    quote: 掌门黄龙真人露出微笑，说道：“赵龙这招莲花剑意...不错。”
+    span:
+    - 607
+    - 651
+- from: 黑脸老者
+  to: 无锋谷筑基初期弟子
+  type: 上下级
+  status: 结束
+  confidence: 0.83
+  notes: 直接处置门下弟子
+  first_seen_chunk: 000128
+  evidence:
+  - chunk_id: 000128
+    chapter_title: 第二卷 修真血影 第115章
+    quote: 黑脸老者盯着弟子，蓦然间一掌拍在他的头上，沉声道：“既然都死了，你也不该独活。”
+    span:
+    - 223
+    - 284
+- from: 黑色青年
+  to: 王林
+  type: 敌对
+  status: 不确定
+  confidence: 0.62
+  notes: 以守卫姿态对峙，形成阻拦与威慑
+  first_seen_chunk: '000103'
+  evidence:
+  - chunk_id: '000103'
+    chapter_title: 第二卷 修真血影 第099章 石珠变化
+    quote: 盘膝坐着一个黑色青年...盯着王林，一语不发...王林...转身离开
+    span:
+    - 2480
+    - 2550
+- from: 黑衣中年人
+  to: 即墨老人
+  type: 师徒
+  status: 不确定
+  confidence: 0.86
+  notes: 自称其弟子，未被他人证实
+  first_seen_chunk: '000064'
+  evidence:
+  - chunk_id: '000064'
+    chapter_title: 第二卷 修真血影 第077章 即墨老人
+    quote: 道友，在下是即墨老人坐下弟子……
+    span:
+    - 1559
+    - 1578
+- from: 黑衣中年人
+  to: 恒岳派女弟子
+  type: 上下级
+  status: 稳定
+  confidence: 0.82
+  notes: 女弟子称师兄并回报，体现上下级
+  first_seen_chunk: '000005'
+  evidence:
+  - chunk_id: '000005'
+    chapter_title: 第一卷 平庸少年 第004章 无情
+    quote: “师兄，39个测试者...”一个恒岳派女弟子...回报
+    span:
+    - 1335
+    - 1366
+- from: 黑衣中年人
+  to: 恒岳派弟子
+  type: 上下级
+  status: 稳定
+  confidence: 0.68
+  notes: 其后续发号施令，弟子执行
+  first_seen_chunk: '000005'
+  evidence:
+  - chunk_id: '000005'
+    chapter_title: 第一卷 平庸少年 第004章 无情
+    quote: 几个恒岳派弟子迅速从山顶向下走去
+    span:
+    - 1217
+    - 1234
+- from: 黑衣中年人
+  to: 掌门
+  type: 上下级
+  status: 稳定
+  confidence: 0.7
+  notes: 掌门为门派最高者，中年人带人去见
+  first_seen_chunk: '000004'
+  evidence:
+  - chunk_id: '000004'
+    chapter_title: 第一卷 平庸少年 第003章 测试
+    quote: 你们随我去见掌门
+    span:
+    - 2790
+    - 2799
+- from: 黑衣中年人
+  to: 王林
+  type: 其他
+  status: 变化中
+  confidence: 0.6
+  notes: 作为测试裁定者对其冷漠处置
+  first_seen_chunk: '000005'
+  evidence:
+  - chunk_id: '000005'
+    chapter_title: 第一卷 平庸少年 第004章 无情
+    quote: 黑衣中年人...望着...王林，眼露无情之色
+    span:
+    - 1140
+    - 1164
+- from: 黑衣中年人
+  to: 王浩
+  type: 上下级
+  status: 稳定
+  confidence: 0.9
+  notes: 收为小童/药童，形成主从关系
+  first_seen_chunk: '000004'
+  evidence:
+  - chunk_id: '000004'
+    chapter_title: 第一卷 平庸少年 第003章 测试
+    quote: 我身边缺个炼丹的小童...可愿意做我小童？
+    span:
+    - 1626
+    - 1654
+- from: 黑衣中年人
+  to: 道虚师叔
+  type: 上下级
+  status: 稳定
+  confidence: 0.76
+  notes: 称其为师叔，辈分上低于道虚
+  first_seen_chunk: '000004'
+  evidence:
+  - chunk_id: '000004'
+    chapter_title: 第一卷 平庸少年 第003章 测试
+    quote: 原来你就是道虚师叔提到过的王卓
+    span:
+    - 790
+    - 807
