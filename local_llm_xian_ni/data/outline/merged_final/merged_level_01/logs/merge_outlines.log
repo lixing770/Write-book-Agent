@@ -1,0 +1,25 @@
+[2026-02-06 10:41:23] 扫描到文件数=9 batch_size=5
+[2026-02-06 10:41:23] model=deepseek-reasoner base_url=https://api.deepseek.com
+[2026-02-06 10:41:23] === Batch 1/2: 1-1250 files=5 ===
+[2026-02-06 10:41:23] 合并 <- study_outline_1_250.txt part 1/2 chars=8837
+[2026-02-06 10:42:27] 合并 <- study_outline_1_250.txt part 2/2 chars=4983
+[2026-02-06 10:43:32] 合并 <- study_outline_251_500.txt part 1/2 chars=8626
+[2026-02-06 10:44:38] 合并 <- study_outline_251_500.txt part 2/2 chars=7041
+[2026-02-06 10:45:45] 合并 <- study_outline_501_750.txt part 1/2 chars=8592
+[2026-02-06 10:46:51] 合并 <- study_outline_501_750.txt part 2/2 chars=3480
+[2026-02-06 10:47:54] 合并 <- study_outline_751_1000.txt part 1/2 chars=8681
+[2026-02-06 10:48:59] 合并 <- study_outline_751_1000.txt part 2/2 chars=2285
+[2026-02-06 10:50:03] 合并 <- study_outline_1001_1250.txt chars=8911
+[2026-02-06 10:51:10] 生成学习大纲 <- 1-1250
+[2026-02-06 10:59:43] 写出：/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_final/merged_level_01/study_outline_1_1250.txt
+[2026-02-06 10:59:43] === Batch 2/2: 1251-2085 files=4 ===
+[2026-02-06 10:59:43] 合并 <- study_outline_1251_1500.txt part 1/2 chars=8924
+[2026-02-06 11:00:49] 合并 <- study_outline_1251_1500.txt part 2/2 chars=1253
+[2026-02-06 11:01:54] 合并 <- study_outline_1501_1750.txt part 1/2 chars=8948
+[2026-02-06 11:02:59] 合并 <- study_outline_1501_1750.txt part 2/2 chars=7481
+[2026-02-06 11:04:03] 合并 <- study_outline_1751_2000.txt part 1/2 chars=8886
+[2026-02-06 11:05:08] 合并 <- study_outline_1751_2000.txt part 2/2 chars=910
+[2026-02-06 11:06:03] 合并 <- study_outline_2001_2085.txt part 1/2 chars=8259
+[2026-02-06 11:07:12] 合并 <- study_outline_2001_2085.txt part 2/2 chars=3722
+[2026-02-06 11:08:15] 生成学习大纲 <- 1251-2085
+[2026-02-06 11:17:56] 写出：/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_final/merged_level_01/study_outline_1251_2085.txt

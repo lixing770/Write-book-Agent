@@ -1,0 +1,1220 @@
+{
+  "501": {
+    "chapter": 501,
+    "status": "failed",
+    "error": "validation failed: [\"missing_upgrade_steps: need >=3 'n) 手段：' lines\"]"
+  },
+  "502": {
+    "chapter": 502,
+    "status": "ok"
+  },
+  "503": {
+    "chapter": 503,
+    "status": "ok"
+  },
+  "504": {
+    "chapter": 504,
+    "status": "ok"
+  },
+  "505": {
+    "chapter": 505,
+    "status": "ok"
+  },
+  "506": {
+    "chapter": 506,
+    "status": "ok"
+  },
+  "507": {
+    "chapter": 507,
+    "status": "ok"
+  },
+  "508": {
+    "chapter": 508,
+    "status": "ok"
+  },
+  "509": {
+    "chapter": 509,
+    "status": "ok"
+  },
+  "510": {
+    "chapter": 510,
+    "status": "ok"
+  },
+  "511": {
+    "chapter": 511,
+    "status": "ok"
+  },
+  "512": {
+    "chapter": 512,
+    "status": "ok"
+  },
+  "513": {
+    "chapter": 513,
+    "status": "ok"
+  },
+  "514": {
+    "chapter": 514,
+    "status": "ok"
+  },
+  "515": {
+    "chapter": 515,
+    "status": "ok"
+  },
+  "516": {
+    "chapter": 516,
+    "status": "ok"
+  },
+  "517": {
+    "chapter": 517,
+    "status": "ok"
+  },
+  "518": {
+    "chapter": 518,
+    "status": "ok"
+  },
+  "519": {
+    "chapter": 519,
+    "status": "ok"
+  },
+  "520": {
+    "chapter": 520,
+    "status": "ok"
+  },
+  "521": {
+    "chapter": 521,
+    "status": "ok"
+  },
+  "522": {
+    "chapter": 522,
+    "status": "ok"
+  },
+  "523": {
+    "chapter": 523,
+    "status": "ok"
+  },
+  "524": {
+    "chapter": 524,
+    "status": "ok"
+  },
+  "525": {
+    "chapter": 525,
+    "status": "ok"
+  },
+  "526": {
+    "chapter": 526,
+    "status": "ok"
+  },
+  "527": {
+    "chapter": 527,
+    "status": "ok"
+  },
+  "528": {
+    "chapter": 528,
+    "status": "ok"
+  },
+  "529": {
+    "chapter": 529,
+    "status": "ok"
+  },
+  "530": {
+    "chapter": 530,
+    "status": "failed",
+    "error": "validation failed: [\"missing_upgrade_steps: need >=3 'n) 手段：' lines\"]"
+  },
+  "531": {
+    "chapter": 531,
+    "status": "ok"
+  },
+  "532": {
+    "chapter": 532,
+    "status": "ok"
+  },
+  "533": {
+    "chapter": 533,
+    "status": "ok"
+  },
+  "534": {
+    "chapter": 534,
+    "status": "ok"
+  },
+  "535": {
+    "chapter": 535,
+    "status": "ok"
+  },
+  "536": {
+    "chapter": 536,
+    "status": "ok"
+  },
+  "537": {
+    "chapter": 537,
+    "status": "ok"
+  },
+  "538": {
+    "chapter": 538,
+    "status": "ok"
+  },
+  "539": {
+    "chapter": 539,
+    "status": "ok"
+  },
+  "540": {
+    "chapter": 540,
+    "status": "ok"
+  },
+  "541": {
+    "chapter": 541,
+    "status": "ok"
+  },
+  "542": {
+    "chapter": 542,
+    "status": "ok"
+  },
+  "543": {
+    "chapter": 543,
+    "status": "ok"
+  },
+  "544": {
+    "chapter": 544,
+    "status": "ok"
+  },
+  "545": {
+    "chapter": 545,
+    "status": "ok"
+  },
+  "546": {
+    "chapter": 546,
+    "status": "ok"
+  },
+  "547": {
+    "chapter": 547,
+    "status": "ok"
+  },
+  "548": {
+    "chapter": 548,
+    "status": "ok"
+  },
+  "549": {
+    "chapter": 549,
+    "status": "ok"
+  },
+  "550": {
+    "chapter": 550,
+    "status": "ok"
+  },
+  "551": {
+    "chapter": 551,
+    "status": "ok"
+  },
+  "552": {
+    "chapter": 552,
+    "status": "ok"
+  },
+  "553": {
+    "chapter": 553,
+    "status": "ok"
+  },
+  "554": {
+    "chapter": 554,
+    "status": "ok"
+  },
+  "555": {
+    "chapter": 555,
+    "status": "ok"
+  },
+  "556": {
+    "chapter": 556,
+    "status": "ok"
+  },
+  "557": {
+    "chapter": 557,
+    "status": "missing_raw"
+  },
+  "558": {
+    "chapter": 558,
+    "status": "missing_raw"
+  },
+  "559": {
+    "chapter": 559,
+    "status": "ok"
+  },
+  "560": {
+    "chapter": 560,
+    "status": "ok"
+  },
+  "561": {
+    "chapter": 561,
+    "status": "ok"
+  },
+  "562": {
+    "chapter": 562,
+    "status": "failed",
+    "error": "validation failed: [\"missing_upgrade_steps: need >=3 'n) 手段：' lines\"]"
+  },
+  "563": {
+    "chapter": 563,
+    "status": "ok"
+  },
+  "564": {
+    "chapter": 564,
+    "status": "ok"
+  },
+  "565": {
+    "chapter": 565,
+    "status": "ok"
+  },
+  "566": {
+    "chapter": 566,
+    "status": "ok"
+  },
+  "567": {
+    "chapter": 567,
+    "status": "ok"
+  },
+  "568": {
+    "chapter": 568,
+    "status": "ok"
+  },
+  "569": {
+    "chapter": 569,
+    "status": "ok"
+  },
+  "570": {
+    "chapter": 570,
+    "status": "ok"
+  },
+  "571": {
+    "chapter": 571,
+    "status": "ok"
+  },
+  "572": {
+    "chapter": 572,
+    "status": "ok"
+  },
+  "573": {
+    "chapter": 573,
+    "status": "missing_raw"
+  },
+  "574": {
+    "chapter": 574,
+    "status": "missing_raw"
+  },
+  "575": {
+    "chapter": 575,
+    "status": "ok"
+  },
+  "576": {
+    "chapter": 576,
+    "status": "ok"
+  },
+  "577": {
+    "chapter": 577,
+    "status": "ok"
+  },
+  "578": {
+    "chapter": 578,
+    "status": "ok"
+  },
+  "579": {
+    "chapter": 579,
+    "status": "ok"
+  },
+  "580": {
+    "chapter": 580,
+    "status": "missing_raw"
+  },
+  "581": {
+    "chapter": 581,
+    "status": "ok"
+  },
+  "582": {
+    "chapter": 582,
+    "status": "failed",
+    "error": "validation failed: [\"missing_upgrade_steps: need >=3 'n) 手段：' lines\"]"
+  },
+  "583": {
+    "chapter": 583,
+    "status": "ok"
+  },
+  "584": {
+    "chapter": 584,
+    "status": "ok"
+  },
+  "585": {
+    "chapter": 585,
+    "status": "ok"
+  },
+  "586": {
+    "chapter": 586,
+    "status": "missing_raw"
+  },
+  "587": {
+    "chapter": 587,
+    "status": "missing_raw"
+  },
+  "588": {
+    "chapter": 588,
+    "status": "ok"
+  },
+  "589": {
+    "chapter": 589,
+    "status": "missing_raw"
+  },
+  "590": {
+    "chapter": 590,
+    "status": "ok"
+  },
+  "591": {
+    "chapter": 591,
+    "status": "ok"
+  },
+  "592": {
+    "chapter": 592,
+    "status": "failed",
+    "error": "validation failed: [\"missing_upgrade_steps: need >=3 'n) 手段：' lines\"]"
+  },
+  "593": {
+    "chapter": 593,
+    "status": "ok"
+  },
+  "594": {
+    "chapter": 594,
+    "status": "ok"
+  },
+  "595": {
+    "chapter": 595,
+    "status": "ok"
+  },
+  "596": {
+    "chapter": 596,
+    "status": "ok"
+  },
+  "597": {
+    "chapter": 597,
+    "status": "ok"
+  },
+  "598": {
+    "chapter": 598,
+    "status": "ok"
+  },
+  "599": {
+    "chapter": 599,
+    "status": "ok"
+  },
+  "600": {
+    "chapter": 600,
+    "status": "ok"
+  },
+  "601": {
+    "chapter": 601,
+    "status": "ok"
+  },
+  "602": {
+    "chapter": 602,
+    "status": "failed",
+    "error": "validation failed: [\"missing_upgrade_steps: need >=3 'n) 手段：' lines\"]"
+  },
+  "603": {
+    "chapter": 603,
+    "status": "ok"
+  },
+  "604": {
+    "chapter": 604,
+    "status": "ok"
+  },
+  "605": {
+    "chapter": 605,
+    "status": "ok"
+  },
+  "606": {
+    "chapter": 606,
+    "status": "ok"
+  },
+  "607": {
+    "chapter": 607,
+    "status": "ok"
+  },
+  "608": {
+    "chapter": 608,
+    "status": "ok"
+  },
+  "609": {
+    "chapter": 609,
+    "status": "ok"
+  },
+  "610": {
+    "chapter": 610,
+    "status": "ok"
+  },
+  "611": {
+    "chapter": 611,
+    "status": "ok"
+  },
+  "612": {
+    "chapter": 612,
+    "status": "ok"
+  },
+  "613": {
+    "chapter": 613,
+    "status": "ok"
+  },
+  "614": {
+    "chapter": 614,
+    "status": "failed",
+    "error": "validation failed: [\"missing_upgrade_steps: need >=3 'n) 手段：' lines\"]"
+  },
+  "615": {
+    "chapter": 615,
+    "status": "ok"
+  },
+  "616": {
+    "chapter": 616,
+    "status": "ok"
+  },
+  "617": {
+    "chapter": 617,
+    "status": "failed",
+    "error": "validation failed: [\"missing_upgrade_steps: need >=3 'n) 手段：' lines\"]"
+  },
+  "618": {
+    "chapter": 618,
+    "status": "ok"
+  },
+  "619": {
+    "chapter": 619,
+    "status": "ok"
+  },
+  "620": {
+    "chapter": 620,
+    "status": "ok"
+  },
+  "621": {
+    "chapter": 621,
+    "status": "ok"
+  },
+  "622": {
+    "chapter": 622,
+    "status": "ok"
+  },
+  "623": {
+    "chapter": 623,
+    "status": "ok"
+  },
+  "624": {
+    "chapter": 624,
+    "status": "failed",
+    "error": "validation failed: [\"missing_upgrade_steps: need >=3 'n) 手段：' lines\"]"
+  },
+  "625": {
+    "chapter": 625,
+    "status": "ok"
+  },
+  "626": {
+    "chapter": 626,
+    "status": "ok"
+  },
+  "627": {
+    "chapter": 627,
+    "status": "failed",
+    "error": "validation failed: [\"missing_upgrade_steps: need >=3 'n) 手段：' lines\"]"
+  },
+  "628": {
+    "chapter": 628,
+    "status": "failed",
+    "error": "validation failed: [\"missing_upgrade_steps: need >=3 'n) 手段：' lines\"]"
+  },
+  "629": {
+    "chapter": 629,
+    "status": "ok"
+  },
+  "630": {
+    "chapter": 630,
+    "status": "ok"
+  },
+  "631": {
+    "chapter": 631,
+    "status": "ok"
+  },
+  "632": {
+    "chapter": 632,
+    "status": "ok"
+  },
+  "633": {
+    "chapter": 633,
+    "status": "ok"
+  },
+  "634": {
+    "chapter": 634,
+    "status": "ok"
+  },
+  "635": {
+    "chapter": 635,
+    "status": "ok"
+  },
+  "636": {
+    "chapter": 636,
+    "status": "ok"
+  },
+  "637": {
+    "chapter": 637,
+    "status": "ok"
+  },
+  "638": {
+    "chapter": 638,
+    "status": "ok"
+  },
+  "639": {
+    "chapter": 639,
+    "status": "ok"
+  },
+  "640": {
+    "chapter": 640,
+    "status": "ok"
+  },
+  "641": {
+    "chapter": 641,
+    "status": "ok"
+  },
+  "642": {
+    "chapter": 642,
+    "status": "ok"
+  },
+  "643": {
+    "chapter": 643,
+    "status": "missing_raw"
+  },
+  "644": {
+    "chapter": 644,
+    "status": "ok"
+  },
+  "645": {
+    "chapter": 645,
+    "status": "ok"
+  },
+  "646": {
+    "chapter": 646,
+    "status": "ok"
+  },
+  "647": {
+    "chapter": 647,
+    "status": "ok"
+  },
+  "648": {
+    "chapter": 648,
+    "status": "ok"
+  },
+  "649": {
+    "chapter": 649,
+    "status": "ok"
+  },
+  "650": {
+    "chapter": 650,
+    "status": "ok"
+  },
+  "651": {
+    "chapter": 651,
+    "status": "ok"
+  },
+  "652": {
+    "chapter": 652,
+    "status": "ok"
+  },
+  "653": {
+    "chapter": 653,
+    "status": "ok"
+  },
+  "654": {
+    "chapter": 654,
+    "status": "ok"
+  },
+  "655": {
+    "chapter": 655,
+    "status": "ok"
+  },
+  "656": {
+    "chapter": 656,
+    "status": "ok"
+  },
+  "657": {
+    "chapter": 657,
+    "status": "missing_raw"
+  },
+  "658": {
+    "chapter": 658,
+    "status": "missing_raw"
+  },
+  "659": {
+    "chapter": 659,
+    "status": "ok"
+  },
+  "660": {
+    "chapter": 660,
+    "status": "ok"
+  },
+  "661": {
+    "chapter": 661,
+    "status": "ok"
+  },
+  "662": {
+    "chapter": 662,
+    "status": "ok"
+  },
+  "663": {
+    "chapter": 663,
+    "status": "ok"
+  },
+  "664": {
+    "chapter": 664,
+    "status": "ok"
+  },
+  "665": {
+    "chapter": 665,
+    "status": "ok"
+  },
+  "666": {
+    "chapter": 666,
+    "status": "ok"
+  },
+  "667": {
+    "chapter": 667,
+    "status": "ok"
+  },
+  "668": {
+    "chapter": 668,
+    "status": "ok"
+  },
+  "669": {
+    "chapter": 669,
+    "status": "ok"
+  },
+  "670": {
+    "chapter": 670,
+    "status": "ok"
+  },
+  "671": {
+    "chapter": 671,
+    "status": "failed",
+    "error": "validation failed: [\"missing_upgrade_steps: need >=3 'n) 手段：' lines\"]"
+  },
+  "672": {
+    "chapter": 672,
+    "status": "ok"
+  },
+  "673": {
+    "chapter": 673,
+    "status": "ok"
+  },
+  "674": {
+    "chapter": 674,
+    "status": "ok"
+  },
+  "675": {
+    "chapter": 675,
+    "status": "ok"
+  },
+  "676": {
+    "chapter": 676,
+    "status": "ok"
+  },
+  "677": {
+    "chapter": 677,
+    "status": "ok"
+  },
+  "678": {
+    "chapter": 678,
+    "status": "ok"
+  },
+  "679": {
+    "chapter": 679,
+    "status": "ok"
+  },
+  "680": {
+    "chapter": 680,
+    "status": "ok"
+  },
+  "681": {
+    "chapter": 681,
+    "status": "ok"
+  },
+  "682": {
+    "chapter": 682,
+    "status": "ok"
+  },
+  "683": {
+    "chapter": 683,
+    "status": "ok"
+  },
+  "684": {
+    "chapter": 684,
+    "status": "ok"
+  },
+  "685": {
+    "chapter": 685,
+    "status": "ok"
+  },
+  "686": {
+    "chapter": 686,
+    "status": "ok"
+  },
+  "687": {
+    "chapter": 687,
+    "status": "ok"
+  },
+  "688": {
+    "chapter": 688,
+    "status": "ok"
+  },
+  "689": {
+    "chapter": 689,
+    "status": "ok"
+  },
+  "690": {
+    "chapter": 690,
+    "status": "ok"
+  },
+  "691": {
+    "chapter": 691,
+    "status": "ok"
+  },
+  "692": {
+    "chapter": 692,
+    "status": "ok"
+  },
+  "693": {
+    "chapter": 693,
+    "status": "ok"
+  },
+  "694": {
+    "chapter": 694,
+    "status": "ok"
+  },
+  "695": {
+    "chapter": 695,
+    "status": "ok"
+  },
+  "696": {
+    "chapter": 696,
+    "status": "ok"
+  },
+  "697": {
+    "chapter": 697,
+    "status": "ok"
+  },
+  "698": {
+    "chapter": 698,
+    "status": "ok"
+  },
+  "699": {
+    "chapter": 699,
+    "status": "ok"
+  },
+  "700": {
+    "chapter": 700,
+    "status": "ok"
+  },
+  "701": {
+    "chapter": 701,
+    "status": "ok"
+  },
+  "702": {
+    "chapter": 702,
+    "status": "ok"
+  },
+  "703": {
+    "chapter": 703,
+    "status": "ok"
+  },
+  "704": {
+    "chapter": 704,
+    "status": "ok"
+  },
+  "705": {
+    "chapter": 705,
+    "status": "ok"
+  },
+  "706": {
+    "chapter": 706,
+    "status": "ok"
+  },
+  "707": {
+    "chapter": 707,
+    "status": "ok"
+  },
+  "708": {
+    "chapter": 708,
+    "status": "ok"
+  },
+  "709": {
+    "chapter": 709,
+    "status": "ok"
+  },
+  "710": {
+    "chapter": 710,
+    "status": "ok"
+  },
+  "711": {
+    "chapter": 711,
+    "status": "ok"
+  },
+  "712": {
+    "chapter": 712,
+    "status": "ok"
+  },
+  "713": {
+    "chapter": 713,
+    "status": "ok"
+  },
+  "714": {
+    "chapter": 714,
+    "status": "ok"
+  },
+  "715": {
+    "chapter": 715,
+    "status": "failed",
+    "error": "validation failed: [\"missing_upgrade_steps: need >=3 'n) 手段：' lines\"]"
+  },
+  "716": {
+    "chapter": 716,
+    "status": "ok"
+  },
+  "717": {
+    "chapter": 717,
+    "status": "ok"
+  },
+  "718": {
+    "chapter": 718,
+    "status": "ok"
+  },
+  "719": {
+    "chapter": 719,
+    "status": "ok"
+  },
+  "720": {
+    "chapter": 720,
+    "status": "ok"
+  },
+  "721": {
+    "chapter": 721,
+    "status": "ok"
+  },
+  "722": {
+    "chapter": 722,
+    "status": "ok"
+  },
+  "723": {
+    "chapter": 723,
+    "status": "ok"
+  },
+  "724": {
+    "chapter": 724,
+    "status": "ok"
+  },
+  "725": {
+    "chapter": 725,
+    "status": "ok"
+  },
+  "726": {
+    "chapter": 726,
+    "status": "ok"
+  },
+  "727": {
+    "chapter": 727,
+    "status": "ok"
+  },
+  "728": {
+    "chapter": 728,
+    "status": "ok"
+  },
+  "729": {
+    "chapter": 729,
+    "status": "ok"
+  },
+  "730": {
+    "chapter": 730,
+    "status": "ok"
+  },
+  "731": {
+    "chapter": 731,
+    "status": "ok"
+  },
+  "732": {
+    "chapter": 732,
+    "status": "ok"
+  },
+  "733": {
+    "chapter": 733,
+    "status": "ok"
+  },
+  "734": {
+    "chapter": 734,
+    "status": "ok"
+  },
+  "735": {
+    "chapter": 735,
+    "status": "ok"
+  },
+  "736": {
+    "chapter": 736,
+    "status": "ok"
+  },
+  "737": {
+    "chapter": 737,
+    "status": "ok"
+  },
+  "738": {
+    "chapter": 738,
+    "status": "ok"
+  },
+  "739": {
+    "chapter": 739,
+    "status": "ok"
+  },
+  "740": {
+    "chapter": 740,
+    "status": "ok"
+  },
+  "741": {
+    "chapter": 741,
+    "status": "ok"
+  },
+  "742": {
+    "chapter": 742,
+    "status": "ok"
+  },
+  "743": {
+    "chapter": 743,
+    "status": "ok"
+  },
+  "744": {
+    "chapter": 744,
+    "status": "ok"
+  },
+  "745": {
+    "chapter": 745,
+    "status": "ok"
+  },
+  "746": {
+    "chapter": 746,
+    "status": "ok"
+  },
+  "747": {
+    "chapter": 747,
+    "status": "failed",
+    "error": "validation failed: [\"missing_upgrade_steps: need >=3 'n) 手段：' lines\"]"
+  },
+  "748": {
+    "chapter": 748,
+    "status": "ok"
+  },
+  "749": {
+    "chapter": 749,
+    "status": "ok"
+  },
+  "750": {
+    "chapter": 750,
+    "status": "ok"
+  },
+  "751": {
+    "chapter": 751,
+    "status": "ok"
+  },
+  "752": {
+    "chapter": 752,
+    "status": "ok"
+  },
+  "753": {
+    "chapter": 753,
+    "status": "ok"
+  },
+  "754": {
+    "chapter": 754,
+    "status": "ok"
+  },
+  "755": {
+    "chapter": 755,
+    "status": "ok"
+  },
+  "756": {
+    "chapter": 756,
+    "status": "ok"
+  },
+  "757": {
+    "chapter": 757,
+    "status": "failed",
+    "error": "validation failed: [\"missing_upgrade_steps: need >=3 'n) 手段：' lines\"]"
+  },
+  "758": {
+    "chapter": 758,
+    "status": "ok"
+  },
+  "759": {
+    "chapter": 759,
+    "status": "ok"
+  },
+  "760": {
+    "chapter": 760,
+    "status": "ok"
+  },
+  "761": {
+    "chapter": 761,
+    "status": "ok"
+  },
+  "762": {
+    "chapter": 762,
+    "status": "ok"
+  },
+  "763": {
+    "chapter": 763,
+    "status": "ok"
+  },
+  "764": {
+    "chapter": 764,
+    "status": "ok"
+  },
+  "765": {
+    "chapter": 765,
+    "status": "ok"
+  },
+  "766": {
+    "chapter": 766,
+    "status": "ok"
+  },
+  "767": {
+    "chapter": 767,
+    "status": "ok"
+  },
+  "768": {
+    "chapter": 768,
+    "status": "ok"
+  },
+  "769": {
+    "chapter": 769,
+    "status": "ok"
+  },
+  "770": {
+    "chapter": 770,
+    "status": "missing_raw"
+  },
+  "771": {
+    "chapter": 771,
+    "status": "missing_raw"
+  },
+  "772": {
+    "chapter": 772,
+    "status": "missing_raw"
+  },
+  "773": {
+    "chapter": 773,
+    "status": "ok"
+  },
+  "774": {
+    "chapter": 774,
+    "status": "failed",
+    "error": "validation failed: [\"missing_upgrade_steps: need >=3 'n) 手段：' lines\"]"
+  },
+  "775": {
+    "chapter": 775,
+    "status": "ok"
+  },
+  "776": {
+    "chapter": 776,
+    "status": "ok"
+  },
+  "777": {
+    "chapter": 777,
+    "status": "ok"
+  },
+  "778": {
+    "chapter": 778,
+    "status": "ok"
+  },
+  "779": {
+    "chapter": 779,
+    "status": "ok"
+  },
+  "780": {
+    "chapter": 780,
+    "status": "ok"
+  },
+  "781": {
+    "chapter": 781,
+    "status": "failed",
+    "error": "validation failed: [\"missing_upgrade_steps: need >=3 'n) 手段：' lines\"]"
+  },
+  "782": {
+    "chapter": 782,
+    "status": "ok"
+  },
+  "783": {
+    "chapter": 783,
+    "status": "failed",
+    "error": "validation failed: [\"missing_upgrade_steps: need >=3 'n) 手段：' lines\"]"
+  },
+  "784": {
+    "chapter": 784,
+    "status": "ok"
+  },
+  "785": {
+    "chapter": 785,
+    "status": "ok"
+  },
+  "786": {
+    "chapter": 786,
+    "status": "ok"
+  },
+  "787": {
+    "chapter": 787,
+    "status": "missing_raw"
+  },
+  "788": {
+    "chapter": 788,
+    "status": "missing_raw"
+  },
+  "789": {
+    "chapter": 789,
+    "status": "ok"
+  },
+  "790": {
+    "chapter": 790,
+    "status": "ok"
+  },
+  "791": {
+    "chapter": 791,
+    "status": "ok"
+  },
+  "792": {
+    "chapter": 792,
+    "status": "ok"
+  },
+  "793": {
+    "chapter": 793,
+    "status": "ok"
+  },
+  "794": {
+    "chapter": 794,
+    "status": "ok"
+  },
+  "795": {
+    "chapter": 795,
+    "status": "ok"
+  },
+  "796": {
+    "chapter": 796,
+    "status": "ok"
+  },
+  "797": {
+    "chapter": 797,
+    "status": "missing_raw"
+  },
+  "798": {
+    "chapter": 798,
+    "status": "missing_raw"
+  },
+  "799": {
+    "chapter": 799,
+    "status": "missing_raw"
+  },
+  "800": {
+    "chapter": 800,
+    "status": "ok"
+  }
+}

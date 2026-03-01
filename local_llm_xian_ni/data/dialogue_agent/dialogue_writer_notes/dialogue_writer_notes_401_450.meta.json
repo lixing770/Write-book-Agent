@@ -1,0 +1,17 @@
+{
+  "batch_start": 401,
+  "batch_end": 450,
+  "input_mode": "range",
+  "input_max_chars": 120000,
+  "source_files": [
+    "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/split/396_405.txt",
+    "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/split/406_415.txt",
+    "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/split/416_425.txt",
+    "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/split/426_435.txt",
+    "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/split/436_445.txt",
+    "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/split/446_455.txt"
+  ],
+  "model": "deepseek-reasoner",
+  "max_tokens": 8000,
+  "temperature": 0.25
+}

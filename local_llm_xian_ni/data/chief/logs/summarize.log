@@ -1,0 +1,86 @@
+[2026-02-19 20:11:40] START in_dir=/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/chief/batches files=42 done=0 model=deepseek-reasoner
+[2026-02-19 20:11:40] PROCESS chief_editor_notes_1_50.md (1-50) chunks=1
+[2026-02-19 20:12:33] DONE chief_editor_notes_1_50.md (1-50)
+[2026-02-19 20:12:33] PROCESS chief_editor_notes_51_100.md (51-100) chunks=1
+[2026-02-19 20:13:16] DONE chief_editor_notes_51_100.md (51-100)
+[2026-02-19 20:13:16] PROCESS chief_editor_notes_101_150.md (101-150) chunks=1
+[2026-02-19 20:14:01] DONE chief_editor_notes_101_150.md (101-150)
+[2026-02-19 20:14:01] PROCESS chief_editor_notes_151_200.md (151-200) chunks=1
+[2026-02-19 20:14:53] DONE chief_editor_notes_151_200.md (151-200)
+[2026-02-19 20:14:53] PROCESS chief_editor_notes_201_250.md (201-250) chunks=1
+[2026-02-19 20:15:51] DONE chief_editor_notes_201_250.md (201-250)
+[2026-02-19 20:15:51] PROCESS chief_editor_notes_251_300.md (251-300) chunks=1
+[2026-02-19 20:16:37] DONE chief_editor_notes_251_300.md (251-300)
+[2026-02-19 20:16:37] PROCESS chief_editor_notes_301_350.md (301-350) chunks=1
+[2026-02-19 20:17:21] DONE chief_editor_notes_301_350.md (301-350)
+[2026-02-19 20:17:21] PROCESS chief_editor_notes_351_400.md (351-400) chunks=1
+[2026-02-19 20:18:04] DONE chief_editor_notes_351_400.md (351-400)
+[2026-02-19 20:18:04] PROCESS chief_editor_notes_401_450.md (401-450) chunks=1
+[2026-02-19 20:18:55] DONE chief_editor_notes_401_450.md (401-450)
+[2026-02-19 20:18:55] PROCESS chief_editor_notes_451_500.md (451-500) chunks=1
+[2026-02-19 20:19:47] DONE chief_editor_notes_451_500.md (451-500)
+[2026-02-19 20:19:47] PROCESS chief_editor_notes_501_550.md (501-550) chunks=1
+[2026-02-19 20:21:11] DONE chief_editor_notes_501_550.md (501-550)
+[2026-02-19 20:21:11] PROCESS chief_editor_notes_551_600.md (551-600) chunks=1
+[2026-02-19 20:22:32] DONE chief_editor_notes_551_600.md (551-600)
+[2026-02-19 20:22:32] PROCESS chief_editor_notes_601_650.md (601-650) chunks=1
+[2026-02-19 20:23:22] DONE chief_editor_notes_601_650.md (601-650)
+[2026-02-19 20:23:22] PROCESS chief_editor_notes_651_700.md (651-700) chunks=1
+[2026-02-19 20:24:53] DONE chief_editor_notes_651_700.md (651-700)
+[2026-02-19 20:24:53] PROCESS chief_editor_notes_701_750.md (701-750) chunks=1
+[2026-02-19 20:25:37] DONE chief_editor_notes_701_750.md (701-750)
+[2026-02-19 20:25:37] PROCESS chief_editor_notes_751_800.md (751-800) chunks=1
+[2026-02-19 20:26:28] DONE chief_editor_notes_751_800.md (751-800)
+[2026-02-19 20:26:28] PROCESS chief_editor_notes_801_850.md (801-850) chunks=1
+[2026-02-19 20:27:21] DONE chief_editor_notes_801_850.md (801-850)
+[2026-02-19 20:27:21] PROCESS chief_editor_notes_851_900.md (851-900) chunks=1
+[2026-02-19 20:28:06] DONE chief_editor_notes_851_900.md (851-900)
+[2026-02-19 20:28:06] PROCESS chief_editor_notes_901_950.md (901-950) chunks=1
+[2026-02-19 20:28:56] DONE chief_editor_notes_901_950.md (901-950)
+[2026-02-19 20:28:56] PROCESS chief_editor_notes_951_1000.md (951-1000) chunks=1
+[2026-02-19 20:29:58] DONE chief_editor_notes_951_1000.md (951-1000)
+[2026-02-19 20:29:58] PROCESS chief_editor_notes_1001_1050.md (1001-1050) chunks=1
+[2026-02-19 20:31:42] DONE chief_editor_notes_1001_1050.md (1001-1050)
+[2026-02-19 20:31:42] PROCESS chief_editor_notes_1051_1100.md (1051-1100) chunks=1
+[2026-02-19 20:33:50] DONE chief_editor_notes_1051_1100.md (1051-1100)
+[2026-02-19 20:33:50] PROCESS chief_editor_notes_1101_1150.md (1101-1150) chunks=1
+[2026-02-19 20:34:40] DONE chief_editor_notes_1101_1150.md (1101-1150)
+[2026-02-19 20:34:40] PROCESS chief_editor_notes_1151_1200.md (1151-1200) chunks=1
+[2026-02-19 20:35:33] DONE chief_editor_notes_1151_1200.md (1151-1200)
+[2026-02-19 20:35:33] PROCESS chief_editor_notes_1201_1250.md (1201-1250) chunks=1
+[2026-02-19 20:36:27] DONE chief_editor_notes_1201_1250.md (1201-1250)
+[2026-02-19 20:36:27] PROCESS chief_editor_notes_1251_1300.md (1251-1300) chunks=1
+[2026-02-19 20:37:12] DONE chief_editor_notes_1251_1300.md (1251-1300)
+[2026-02-19 20:37:12] PROCESS chief_editor_notes_1301_1350.md (1301-1350) chunks=1
+[2026-02-19 20:37:56] DONE chief_editor_notes_1301_1350.md (1301-1350)
+[2026-02-19 20:37:56] PROCESS chief_editor_notes_1351_1400.md (1351-1400) chunks=1
+[2026-02-19 20:38:41] DONE chief_editor_notes_1351_1400.md (1351-1400)
+[2026-02-19 20:38:41] PROCESS chief_editor_notes_1401_1450.md (1401-1450) chunks=1
+[2026-02-19 20:39:23] DONE chief_editor_notes_1401_1450.md (1401-1450)
+[2026-02-19 20:39:23] PROCESS chief_editor_notes_1451_1500.md (1451-1500) chunks=1
+[2026-02-19 20:40:06] DONE chief_editor_notes_1451_1500.md (1451-1500)
+[2026-02-19 20:40:06] PROCESS chief_editor_notes_1501_1550.md (1501-1550) chunks=1
+[2026-02-19 20:40:46] DONE chief_editor_notes_1501_1550.md (1501-1550)
+[2026-02-19 20:40:46] PROCESS chief_editor_notes_1551_1600.md (1551-1600) chunks=1
+[2026-02-19 20:41:27] DONE chief_editor_notes_1551_1600.md (1551-1600)
+[2026-02-19 20:41:27] PROCESS chief_editor_notes_1601_1650.md (1601-1650) chunks=1
+[2026-02-19 20:42:08] DONE chief_editor_notes_1601_1650.md (1601-1650)
+[2026-02-19 20:42:08] PROCESS chief_editor_notes_1651_1700.md (1651-1700) chunks=1
+[2026-02-19 20:43:21] DONE chief_editor_notes_1651_1700.md (1651-1700)
+[2026-02-19 20:43:21] PROCESS chief_editor_notes_1701_1750.md (1701-1750) chunks=1
+[2026-02-19 20:44:01] DONE chief_editor_notes_1701_1750.md (1701-1750)
+[2026-02-19 20:44:01] PROCESS chief_editor_notes_1751_1800.md (1751-1800) chunks=1
+[2026-02-19 20:44:52] DONE chief_editor_notes_1751_1800.md (1751-1800)
+[2026-02-19 20:44:52] PROCESS chief_editor_notes_1801_1850.md (1801-1850) chunks=1
+[2026-02-19 20:45:45] DONE chief_editor_notes_1801_1850.md (1801-1850)
+[2026-02-19 20:45:45] PROCESS chief_editor_notes_1851_1900.md (1851-1900) chunks=1
+[2026-02-19 20:46:30] DONE chief_editor_notes_1851_1900.md (1851-1900)
+[2026-02-19 20:46:30] PROCESS chief_editor_notes_1901_1950.md (1901-1950) chunks=1
+[2026-02-19 20:47:19] DONE chief_editor_notes_1901_1950.md (1901-1950)
+[2026-02-19 20:47:19] PROCESS chief_editor_notes_1951_2000.md (1951-2000) chunks=1
+[2026-02-19 20:48:07] DONE chief_editor_notes_1951_2000.md (1951-2000)
+[2026-02-19 20:48:07] PROCESS chief_editor_notes_2001_2050.md (2001-2050) chunks=1
+[2026-02-19 20:49:26] DONE chief_editor_notes_2001_2050.md (2001-2050)
+[2026-02-19 20:49:26] PROCESS chief_editor_notes_2051_2088.md (2051-2088) chunks=1
+[2026-02-19 20:50:06] DONE chief_editor_notes_2051_2088.md (2051-2088)
+[2026-02-19 20:50:06] FINISH out=/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/chief/chief_editor_kb_summary.md

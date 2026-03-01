@@ -1,0 +1,86 @@
+[2026-02-06 07:39:02] 扫描到文件数=42 batch_size=5
+[2026-02-06 07:39:02] model=deepseek-reasoner base_url=https://api.deepseek.com
+[2026-02-06 07:39:02] === Batch 1/9: 1-250 files=5 ===
+[2026-02-06 07:39:02] 合并 <- study_outline_1_50.txt chars=7048
+[2026-02-06 07:40:07] 合并 <- study_outline_51_100.txt chars=7333
+[2026-02-06 07:41:12] 合并 <- study_outline_101_150.txt chars=6697
+[2026-02-06 07:42:15] 合并 <- study_outline_151_200.txt part 1/2 chars=8936
+[2026-02-06 07:43:21] 合并 <- study_outline_151_200.txt part 2/2 chars=1805
+[2026-02-06 07:44:24] 合并 <- study_outline_201_250.txt part 1/2 chars=8748
+[2026-02-06 07:45:28] 合并 <- study_outline_201_250.txt part 2/2 chars=2138
+[2026-02-06 07:46:33] 生成学习大纲 <- 1-250
+[2026-02-06 07:56:10] 写出：/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_5/study_outline_1_250.txt
+[2026-02-06 07:56:10] === Batch 2/9: 251-500 files=5 ===
+[2026-02-06 07:56:10] 合并 <- study_outline_251_300.txt chars=8192
+[2026-02-06 07:57:09] 合并 <- study_outline_301_350.txt chars=8532
+[2026-02-06 07:58:08] 合并 <- study_outline_351_400.txt chars=4683
+[2026-02-06 07:59:08] 合并 <- study_outline_401_450.txt chars=6425
+[2026-02-06 08:00:06] 合并 <- study_outline_451_500.txt chars=8976
+[2026-02-06 08:01:11] 生成学习大纲 <- 251-500
+[2026-02-06 08:11:59] 写出：/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_5/study_outline_251_500.txt
+[2026-02-06 08:11:59] === Batch 3/9: 501-750 files=5 ===
+[2026-02-06 08:11:59] 合并 <- study_outline_501_550.txt chars=6240
+[2026-02-06 08:12:59] 合并 <- study_outline_551_600.txt part 1/2 chars=8913
+[2026-02-06 08:14:01] 合并 <- study_outline_551_600.txt part 2/2 chars=3262
+[2026-02-06 08:15:01] 合并 <- study_outline_601_650.txt chars=7705
+[2026-02-06 08:16:02] 合并 <- study_outline_651_700.txt chars=6113
+[2026-02-06 08:17:04] 合并 <- study_outline_701_750.txt part 1/2 chars=8725
+[2026-02-06 08:18:05] 合并 <- study_outline_701_750.txt part 2/2 chars=5105
+[2026-02-06 08:19:07] 生成学习大纲 <- 501-750
+[2026-02-06 08:28:54] 写出：/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_5/study_outline_501_750.txt
+[2026-02-06 08:28:54] === Batch 4/9: 751-1000 files=5 ===
+[2026-02-06 08:28:54] 合并 <- study_outline_751_800.txt part 1/2 chars=8412
+[2026-02-06 08:30:01] 合并 <- study_outline_751_800.txt part 2/2 chars=2888
+[2026-02-06 08:31:07] 合并 <- study_outline_801_850.txt part 1/2 chars=8602
+[2026-02-06 08:32:11] 合并 <- study_outline_801_850.txt part 2/2 chars=1655
+[2026-02-06 08:33:16] 合并 <- study_outline_851_900.txt chars=6357
+[2026-02-06 08:34:23] 合并 <- study_outline_901_950.txt chars=4482
+[2026-02-06 08:35:49] 合并 <- study_outline_951_1000.txt chars=7533
+[2026-02-06 08:36:49] 生成学习大纲 <- 751-1000
+[2026-02-06 08:44:21] 写出：/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_5/study_outline_751_1000.txt
+[2026-02-06 08:44:21] === Batch 5/9: 1001-1250 files=5 ===
+[2026-02-06 08:44:21] 合并 <- study_outline_1001_1050.txt part 1/2 chars=8728
+[2026-02-06 08:45:27] 合并 <- study_outline_1001_1050.txt part 2/2 chars=1172
+[2026-02-06 08:46:29] 合并 <- study_outline_1051_1100.txt chars=7861
+[2026-02-06 08:47:35] 合并 <- study_outline_1101_1150.txt part 1/2 chars=8798
+[2026-02-06 08:48:41] 合并 <- study_outline_1101_1150.txt part 2/2 chars=3135
+[2026-02-06 08:49:36] 合并 <- study_outline_1151_1200.txt chars=7777
+[2026-02-06 08:50:42] 合并 <- study_outline_1201_1250.txt part 1/2 chars=8835
+[2026-02-06 08:51:47] 合并 <- study_outline_1201_1250.txt part 2/2 chars=555
+[2026-02-06 08:52:50] 生成学习大纲 <- 1001-1250
+[2026-02-06 09:01:28] 写出：/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_5/study_outline_1001_1250.txt
+[2026-02-06 09:01:28] === Batch 6/9: 1251-1500 files=5 ===
+[2026-02-06 09:01:28] 合并 <- study_outline_1251_1300.txt chars=8720
+[2026-02-06 09:02:33] 合并 <- study_outline_1301_1350.txt part 1/2 chars=8887
+[2026-02-06 09:03:38] 合并 <- study_outline_1301_1350.txt part 2/2 chars=2473
+[2026-02-06 09:04:41] 合并 <- study_outline_1351_1400.txt chars=5788
+[2026-02-06 09:05:45] 合并 <- study_outline_1401_1450.txt chars=7329
+[2026-02-06 09:06:50] 合并 <- study_outline_1451_1500.txt part 1/2 chars=8940
+[2026-02-06 09:07:54] 合并 <- study_outline_1451_1500.txt part 2/2 chars=1607
+[2026-02-06 09:08:58] 生成学习大纲 <- 1251-1500
+[2026-02-06 09:17:46] 写出：/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_5/study_outline_1251_1500.txt
+[2026-02-06 09:17:46] === Batch 7/9: 1501-1750 files=5 ===
+[2026-02-06 09:17:46] 合并 <- study_outline_1501_1550.txt chars=6389
+[2026-02-06 09:18:53] 合并 <- study_outline_1551_1600.txt chars=8560
+[2026-02-06 09:19:59] 合并 <- study_outline_1601_1650.txt part 1/2 chars=8828
+[2026-02-06 09:21:03] 合并 <- study_outline_1601_1650.txt part 2/2 chars=5103
+[2026-02-06 09:22:07] 合并 <- study_outline_1651_1700.txt part 1/2 chars=8682
+[2026-02-06 09:23:11] 合并 <- study_outline_1651_1700.txt part 2/2 chars=1668
+[2026-02-06 09:24:12] 合并 <- study_outline_1701_1750.txt chars=8174
+[2026-02-06 09:25:13] 生成学习大纲 <- 1501-1750
+[2026-02-06 09:36:19] 写出：/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_5/study_outline_1501_1750.txt
+[2026-02-06 09:36:19] === Batch 8/9: 1751-2000 files=5 ===
+[2026-02-06 09:36:19] 合并 <- study_outline_1751_1800.txt chars=5404
+[2026-02-06 09:37:23] 合并 <- study_outline_1801_1850.txt chars=3906
+[2026-02-06 09:38:28] 合并 <- study_outline_1851_1900.txt chars=8801
+[2026-02-06 09:39:34] 合并 <- study_outline_1901_1950.txt chars=7484
+[2026-02-06 09:40:39] 合并 <- study_outline_1951_2000.txt part 1/2 chars=8940
+[2026-02-06 09:41:43] 合并 <- study_outline_1951_2000.txt part 2/2 chars=2033
+[2026-02-06 09:42:45] 生成学习大纲 <- 1751-2000
+[2026-02-06 09:49:05] 写出：/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_5/study_outline_1751_2000.txt
+[2026-02-06 09:49:05] === Batch 9/9: 2001-2085 files=2 ===
+[2026-02-06 09:49:05] 合并 <- study_outline_2001_2050.txt part 1/2 chars=8972
+[2026-02-06 09:50:05] 合并 <- study_outline_2001_2050.txt part 2/2 chars=3733
+[2026-02-06 09:51:09] 合并 <- study_outline_2051_2085.txt chars=6898
+[2026-02-06 09:52:13] 生成学习大纲 <- 2001-2085
+[2026-02-06 10:00:50] 写出：/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_5/study_outline_2001_2085.txt

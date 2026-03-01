@@ -1,0 +1,51 @@
+{
+  "notes_dir": "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/dialogue_agent/dialogue_writer_notes",
+  "glob": "dialogue_writer_notes_*.md",
+  "files": [
+    "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/dialogue_agent/dialogue_writer_notes/dialogue_writer_notes_101_150.md",
+    "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/dialogue_agent/dialogue_writer_notes/dialogue_writer_notes_151_200.md",
+    "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/dialogue_agent/dialogue_writer_notes/dialogue_writer_notes_1_50.md",
+    "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/dialogue_agent/dialogue_writer_notes/dialogue_writer_notes_201_250.md",
+    "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/dialogue_agent/dialogue_writer_notes/dialogue_writer_notes_251_300.md",
+    "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/dialogue_agent/dialogue_writer_notes/dialogue_writer_notes_351_400.md",
+    "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/dialogue_agent/dialogue_writer_notes/dialogue_writer_notes_401_450.md",
+    "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/dialogue_agent/dialogue_writer_notes/dialogue_writer_notes_51_100.md"
+  ],
+  "mini_meta": [
+    {
+      "file": "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/dialogue_agent/dialogue_writer_notes/dialogue_writer_notes_101_150.md",
+      "mini_len": 2123
+    },
+    {
+      "file": "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/dialogue_agent/dialogue_writer_notes/dialogue_writer_notes_151_200.md",
+      "mini_len": 2382
+    },
+    {
+      "file": "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/dialogue_agent/dialogue_writer_notes/dialogue_writer_notes_1_50.md",
+      "mini_len": 2224
+    },
+    {
+      "file": "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/dialogue_agent/dialogue_writer_notes/dialogue_writer_notes_201_250.md",
+      "mini_len": 2273
+    },
+    {
+      "file": "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/dialogue_agent/dialogue_writer_notes/dialogue_writer_notes_251_300.md",
+      "mini_len": 1846
+    },
+    {
+      "file": "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/dialogue_agent/dialogue_writer_notes/dialogue_writer_notes_351_400.md",
+      "mini_len": 2246
+    },
+    {
+      "file": "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/dialogue_agent/dialogue_writer_notes/dialogue_writer_notes_401_450.md",
+      "mini_len": 2532
+    },
+    {
+      "file": "/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/dialogue_agent/dialogue_writer_notes/dialogue_writer_notes_51_100.md",
+      "mini_len": 2972
+    }
+  ],
+  "target_chars": 8000,
+  "tolerance_percent": 8,
+  "model": "deepseek-reasoner"
+}

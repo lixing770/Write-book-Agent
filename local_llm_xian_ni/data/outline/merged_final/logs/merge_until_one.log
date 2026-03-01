@@ -1,0 +1,21 @@
+[2026-02-06 10:41:23] START: in_dir=/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_5 files=9 range=1-2085
+[2026-02-06 10:41:23] merge_script=/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/merge_5_outlines.py
+[2026-02-06 10:41:23] model=deepseek-reasoner base_url=https://api.deepseek.com batch_size=5
+[2026-02-06 10:41:23] RUN merge_once: in_dir=/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_5 out_dir=/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_final/merged_level_01 batch_size=5
+[2026-02-06 10:41:23] CMD: /Users/50pai/Desktop/Writing book agent/.venv/bin/python3 /Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/merge_5_outlines.py --in_dir /Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_5 --out_dir /Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_final/merged_level_01 --batch_size 5 --chunk_chars 9000 --base_url https://api.deepseek.com --model deepseek-reasoner --temperature 0.2 --max_tokens_update 2000 --max_tokens_section 1400
+[2026-02-06 11:17:56] ----- merge_5_outlines.py OUTPUT BEGIN -----
+[2026-02-06 11:17:56] ✅ DONE
+- 输出目录：/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_final/merged_level_01
+- 日志：/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_final/merged_level_01/logs/merge_outlines.log
+[2026-02-06 11:17:56] ----- merge_5_outlines.py OUTPUT END -----
+[2026-02-06 11:17:56] LEVEL 01 DONE: out_files=2 dir=/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_final/merged_level_01
+[2026-02-06 11:17:56] RUN merge_once: in_dir=/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_final/merged_level_01 out_dir=/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_final/merged_level_02 batch_size=5
+[2026-02-06 11:17:56] CMD: /Users/50pai/Desktop/Writing book agent/.venv/bin/python3 /Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/merge_5_outlines.py --in_dir /Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_final/merged_level_01 --out_dir /Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_final/merged_level_02 --batch_size 5 --chunk_chars 9000 --base_url https://api.deepseek.com --model deepseek-reasoner --temperature 0.2 --max_tokens_update 2000 --max_tokens_section 1400
+[2026-02-06 11:29:30] ----- merge_5_outlines.py OUTPUT BEGIN -----
+[2026-02-06 11:29:30] ✅ DONE
+- 输出目录：/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_final/merged_level_02
+- 日志：/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_final/merged_level_02/logs/merge_outlines.log
+[2026-02-06 11:29:30] ----- merge_5_outlines.py OUTPUT END -----
+[2026-02-06 11:29:30] LEVEL 02 DONE: out_files=1 dir=/Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_final/merged_level_02
+[2026-02-06 11:29:30] FINAL: copied /Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_final/merged_level_02/study_outline_1_2085.txt -> /Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_final/final/study_outline_1_2085.txt
+[2026-02-06 11:29:30] FINAL: copied /Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_final/merged_level_02/study_outline_1_2085.txt -> /Users/50pai/Desktop/Writing book agent/local_llm_xian_ni/data/outline/merged_final/final/FINAL_STUDY_OUTLINE.txt
